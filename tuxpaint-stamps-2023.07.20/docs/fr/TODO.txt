@@ -1,0 +1,164 @@
+TODO.txt pour Tux Paint Stamps
+
+Tux Paint - Un programme de dessin facile pour enfants.
+Ceci est une collection d'images de « tampons encreurs » pour Tux Paint.
+
+Copyright (c) 2002 Bill Kendrick
+bill@newbreedsoftware.com
+http://www.newbreedsoftware.com/tuxpaint/
+
+10 septembre 2002
+
+
+À FAIRE :
+---------
+  * Créer des sons pour plus de tampons (p.ex. "misc/symboles/math/...")
+
+
+IDEÉS DE TAMPONS
+----------------
+    * Nourriture
+      * Fruit :
+        Poire
+        Banane
+        Abricot
+        Pêche
+        Prune
+        Cerise
+        Raisin
+        Pastèque
+        Fraise
+        Framboise
+        Mûre
+        Myrtille
+      * Légumes :
+        Brocoli
+        Chou-fleur
+        Blé
+        Cosse de petit pois
+        Petits pois (sans cosse)
+        Maïs
+      * Pain
+      * Boissons
+        Verre d'eau
+        Gobelet de lait
+        Pichet
+    * Véhicules
+      Camion de pompier
+      Voiture de police
+      Ambulance
+      Voiture
+      Camionnette
+      Petit camion
+      Semi-remorque
+      Gros pneux (pour transformer un véhicule en un monstrueux camion ;^) )
+      Bicyclette
+      Scooter
+      Tricycle
+      Moto
+      Patins à roulettes
+      Hélicoptère
+      Jet
+      Petit avion
+    * Symboles
+      * Divers
+        Visage souriant
+        Coeur
+        Étoile
+        Empreinte de pattes
+    * Fête
+      Gâteau
+      Chapeaux
+      Confettis (?)
+      Trompettes
+      Cadeaux enveloppés
+      Bannière blanche
+    * Instruments de musique
+      Trompette
+      Trombone
+      Guitare
+      Guitare de rock
+      Violon
+      Archerw (pour violon, contrebasse, etc.)
+      Piano
+      Harmonica
+      Flûte
+      Tambours
+      Bongos
+    * Les choses de la rue
+      Borne d'incendie
+      Signal Stop
+      Signal de priorité
+      Signaux de virage
+      Feux rouges (3 types)
+      "Ne pas entrer"
+    * Sports
+      Baseball
+      Basketball
+      Football
+      Football américain
+      Gant de baseball
+      Batte de baseball
+      Casques
+      Palet de hockey
+      Crosse de Hockey
+      Volleyball
+      Tennis
+      Raquette de tennis
+    * Les choses de la ferme
+      Grange
+      Poulet
+      Vache
+      Cochon
+      Épi de maïs
+      Cheval
+      Coq
+      Chèvre
+      Tracteur
+    * L'école
+      Car de ramassage
+      Livres
+      Stylo
+      Règle
+      Pomme
+      Globe
+      Gomme
+    * Plantes
+      ...
+    * Les saisons
+      * Noël
+        ...
+      * Hanukkah
+        ...
+      * Thanksgiving
+        ...
+      * Fête nationale
+        ...
+      * Halloween
+       Citrouille
+        Lanterne
+        Lune
+        Chauve-souris
+        Silhouette de sorcière
+        Fantômes (alpha-blended! :^) )
+        Chat blanc
+        Crâne
+        Bonbon
+    * Les dents
+      Dent
+      Brosse à dent
+      Tube de dentifrice
+      Dentifrice (sur la brosse, sortant du tube, ou autre)
+    * Vêtements
+      ...
+    * Animaux
+      ...
+    * Couture
+      Coussin à aiguilles
+      Épingle
+      Aiguille
+      Bobine de fil
+      Ciseaux
+      Dé à coudre
+      Bouton
+      Épingle de sûreté

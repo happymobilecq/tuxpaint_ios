@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 20010904//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg1247" width="80pt" height="80pt" xmlns="http://www.w3.org/2000/svg">
+ <g id="g852" transform="translate(-58.942 -40.424)" fill-rule="evenodd">
+  <path id="path839" transform="matrix(1.0738 0 0 1.051 -8.2968 -4.4385)" d="m153.47 91.761c0 22.747-19.841 41.209-44.287 41.209-24.447 0-44.287-18.461-44.287-41.209s19.841-41.209 44.287-41.209c24.447 0 44.287 18.461 44.287 41.209z" fill="#ffea00" stroke="#000" stroke-linejoin="round" stroke-width="2.3533"/>
+  <path id="path840" d="m152.99 91.998c3.3493 19.079-30.558 43.374-44.287 40.024-20.093-2.6794-45.962-18.936-42.613-39.689-2.0096-17.404 18.166-40.359 42.613-40.359 25.116 1.3397 40.603 13.242 44.287 40.024z" fill="#fff"/>
+  <path id="path843" d="m111.87 87.893s3.3493-30.144 5.0239-29.474c3.6842-2.3445 13.397 2.3445 12.392 6.3637 0.33493 3.0144-17.081 21.435-17.416 23.11z" fill="#ffdb00" stroke="#000" stroke-linejoin="round" stroke-width="2.5"/>
+  <path id="path841" d="m81.388 75.501 24.45 14.067-15.072-25.12c-6.6986-1.3397-11.053 3.0144-9.378 11.053z" fill="#ffdb00" stroke="#000" stroke-linejoin="round" stroke-width="2.5"/>
+  <path id="path842" d="m108.85 88.563-14.402-25.12c-1e-6 -5.6938 13.397-9.0431 15.742-4.3541 2.3445 3.0144-1.3397 29.474-1.3397 29.474z" fill="#ffdb00" stroke="#000" stroke-linejoin="round" stroke-width="2.5"/>
+  <path id="path844" d="m114.88 88.898s16.746-22.44 18.756-20.766c5.024-2.0096 13.397 4.689 8.7082 13.062 0.33493 2.0096-27.464 5.3589-27.464 7.7034z" fill="#ffdb00" stroke="#000" stroke-linejoin="round" stroke-width="2.5"/>
+  <path id="path845" d="m113.54 92.247s24.785-7.3684 29.809-6.3637c3.6842 1.3397 3.6842 18.086-3.3493 17.081-3.0144 0.66986-25.12-10.048-26.459-10.718z" fill="#ffdb00" stroke="#000" stroke-linejoin="round" stroke-width="2.5"/>
+  <path id="path847" d="m112.87 94.927s23.445 10.718 25.12 14.067c5.3589 5.3589-6.0287 11.388-10.383 10.718-0.66986 1.6746-16.746-25.79-14.737-24.785z" fill="#ffdb00" stroke="#000" stroke-linejoin="round" stroke-width="2.5"/>
+  <path id="path848" d="m110.53 95.932s13.397 25.79 12.727 27.464c-0.66986 1.6746-9.0431 7.3684-15.407 2.6794-0.66986-2.6794 0.66987-29.809 2.6794-30.144z" fill="#ffdb00" stroke="#000" stroke-linejoin="round" stroke-width="2.5"/>
+  <path id="path849" d="m107.18 95.932s-4.0192 28.804-6.3637 29.474c-3.0144 2.0096-11.723-0.33492-13.397-6.6986 1.0048-2.6794 16.746-23.445 19.761-22.775z" fill="#ffdb00" stroke="#000" stroke-linejoin="round" stroke-width="2.5"/>
+  <path id="path850" d="m84.402 115.36c3.6842-2.3445 17.416-19.426 18.421-21.101 1.0048-1.6746-27.464 3.3493-27.129 5.0239-2.0096 3.0144 3.0144 16.746 8.7082 16.077z" fill="#ffdb00" stroke="#000" stroke-linejoin="round" stroke-width="2.5"/>
+  <path id="path851" d="m74.354 94.257c5.3589-0.33493 22.775-3.6842 26.459-3.0144 3.6842 0.66986-21.101-13.732-21.101-11.388-4.689 1.3397-12.057 8.7082-5.3589 14.402z" fill="#ffdb00" stroke="#000" stroke-linejoin="round" stroke-width="2.5"/>
+ </g>
+ <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <Work rdf:about="">
+   <dc:title>Clipart by Nicu Buculei - pear</dc:title>
+   <dc:rights>
+    <Agent>
+     <dc:title>Nicu Buculei</dc:title>
+    </Agent>
+   </dc:rights>
+   <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   <license rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+  </Work>
+  <License rdf:about="http://web.resource.org/cc/PublicDomain">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+   <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+  </License>
+ </rdf:RDF>
+</svg>

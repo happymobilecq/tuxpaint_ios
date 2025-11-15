@@ -1,0 +1,187 @@
+TODO.txt for Tux Paint Stamps
+
+Tux Paint - A simple drawing program for children.
+This is a collection of 'rubber stamp' images for Tux Paint.
+
+Copyright 2002-2023 by various contributors; see CONTRIBUTORS.txt
+https://tuxpaint.org/
+
+March 16, 2023
+
+
+TO DO:
+------
+  * Replace Airforce 1 with a more generic jumbo jet.
+  * Create translated sounds for more stamps (e.g., "misc/symbols/math/...")
+
+IMPROVE:
+--------
+  * Replace numerals and mathematic symbols (with SVGs).
+  
+STAMP IDEAS
+-----------
+    * Food
+      * Fruit:
+        Blackberry
+      * Vegetables:
+        Cauliflower
+        Peapods
+        Peas (no pods)
+      * Drinks
+        Milk carton
+    * Transport
+      * Bus stop
+      * Train tracks
+      * Vehicles
+        Ambulance
+        Attack helicopter  (e.g., army/air force)
+        Backhoe
+        Bicycle done in tuxpaint-stamps/stamps/vehicles/cycle/bluebike.svg
+        Big tires (for turning any vehicle into a monster truck ;^) ) done in tuxpaint-stamps/stamps/vehicles/wheel_tractor.png
+        Dump truck done in tuxpaint-stamps/stamps/vehicles/garbagetruck.png
+        Minivan
+        Motorcycle done in tuxpaint-stamps/stamps/vehicles/cycle/motorbike.svg
+        Scooter
+        Semi trailer
+        Semi truck
+        Skates
+        Small airplane done in tuxpaint-stamps/stamps/vehicles/flight/planes/plane.png
+        Subway train done in tuxpaint-stamps/stamps/vehicles/locomotive/white_train.svg
+        SUV
+        Tram
+        Trolley
+    * Construction
+      * Vehicles
+        'Steam shovel'
+        Dump truck
+        Cement mixer done in tuxpaint-stamps/stamps/vehicles/construction/cartoon/cementMixer.png
+        Crane
+    * Party
+      Blank banner
+    * Musical instruments
+      Bongos
+      Bow (for violin/bass/etc.)
+      Flute
+      Harmonica
+      Piano
+      Trombone
+    * Street stuff
+      Fire hydrant
+      Turn signs
+      "Green man" pedestrian crossing
+      "Zebra" crossing
+      Litter bin
+      Recycling box done in tuxpaint-stamps/stamps/household/recyclingbox.svg
+      Wormery 
+    * Park
+      Swings
+      Seesaw
+      Roundabout / Merry-go-round
+      Climbing frame / Jungle Gym / Bars
+    * Sports
+      Baseball
+      Baseball glove
+      Baseball bat
+      Basketball hoop
+      Cricket bat
+      Helmets done in tuxpaint-stamps/stamps/sports/cartoon/footbal_helmet_side.png
+      Hockey puck
+      Hockey stick
+      Rugby ball
+      Soccer goalposts
+      Volleyball done in tuxpaint-stamps/stamps/sports/cartoon/volleyball.png
+    * Farm stuff
+      Barn
+      Corn stalk
+      Tractor done in tuxpaint-stamps/stamps/vehicles/farming/cartoon/tractor.svg
+      Worm
+    * School-related
+      Schoolbus done in tuxpaint-stamps/stamps/vehicles/masstransit/cartoon/schoolbus.svg
+      Books
+      Pencil done in tuxpaint-stamps/stamps/household/arttools/Pencil.svg
+      Ruler
+      Globe done in tuxpaint-stamps/stamps/household/globe.svg
+      Eraser
+    * Kitchen
+      Frying pan
+      Microwave oven done in tuxpaint-stamps/stamps/household/microwave.svg
+      Toaster
+      Wooden spoon 
+      Spoon done in tuxpaint-stamps/stamps/household/dishes/spoon.svg
+      Fork done in tuxpaint-stamps/stamps/household/dishes/fork.svg
+      Knife done in tuxpaint-stamps/stamps/household/dishes/knife.svg
+      Cup done in tuxpaint-stamps/stamps/household/dishes/coffeecup.svg
+      4qt pot done in tuxpaint-stamps/stamps/household/dishes/cartoon/pasta_pot.png
+      Stock/lobster pot
+    * Plants
+      Tuft of grass
+      Coconut palm tree done in tuxpaint-stamps/stamps/plants/trees/liberia-palm.png
+      Coconut
+      Oak &/or maple tree done in tuxpaint-stamps/stamps/plants/trees/holm_oak.png
+      Daisy
+      Daffodill
+      Ivy
+      Buttercup
+      Dandelion
+      Nettles
+      Hanging basket
+    * Seasonal / Celebrations
+      * Christmas
+        Christmas Lights
+        Santa Claus
+        Reindeer done in tuxpaint-stamps/stamps/seasonal/christmas/rudolf_reindeer.svg
+        Santa Claus Sleigh
+      * Thanksgiving
+      * 4th of July (US)
+      * Bonfire Night (UK)
+      * Chinese New Year
+        Dragon
+      * Diwali
+      * Eid
+      * Lent Carnival
+      * Caribbean Carnival
+      * Mardi Gras
+      * St Patricks Day
+      * Kwanza
+    * Dental
+      Tooth
+      Toothbrush
+      Toothpaste tube
+      Toothpaste (to go on brush, stick out of tube, whatever)
+    * Clothing
+      ...
+    * Animals
+      Housecat / Domestic Cat (varieties?) done in tuxpaint-stamps/stamps/animals/mammals/cats/kitten.svg
+      Alligator &/or crocodile 
+      Turtle &/or tortoise
+      Worms, bugs and beetles! done in tuxpaint-stamps/stamps/animals/insects/cartoon/ladybug.png
+      Slugs done in tuxpaint-stamps/stamps/animals/insects/Brown_slug.png
+      Snails done in tuxpaint-stamps/stamps/animals/insects/cartoon/snail.png
+      Snakes
+    * Sewing
+      Pincushin
+      Pin
+      Needle
+      Thread spool
+      Thimble
+      Button
+      Safety pin
+    * People
+      Police officer done in tuxpaint-stamps/stamps/people/cartoon/woman_police_officer_1.svg
+      Mail deliverer
+      "Generic" People (for paperdolls?)
+    * Faces and bits of people - eyes, ears, noses 
+      Eyes done in tuxpaint-stamps/stamps/people/body_parts/eye_blue_left.svg
+      Hair done in tuxpaint-stamps/stamps/people/body_parts/hair_manga.svg
+      Moustache done in tuxpaint-stamps/stamps/people/body_parts/moustache.svg
+    * Gaming
+      * Cards
+      * Dice
+      * Jacks and ball
+      * Dominoes
+    * Electronics
+      * Television
+      * Desktop computer
+      * Drawing tablet
+      * Joystick
+

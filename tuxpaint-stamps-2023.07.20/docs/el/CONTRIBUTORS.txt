@@ -1,0 +1,112 @@
+CONTRIBUTORS.txt για Tux Paint Stamps
+
+Tux Paint - Ένα απλό πρόγραμμα σχεδίασης για παιδιά.
+Αυτή είναι μια συλλογή από στάμπες για το πρόγραμμα Tux Paint.
+
+Copyright 2003 by Bill Kendrick
+bill@newbreedsoftware.com
+http://www.newbreedsoftware.com/tuxpaint/
+
+October 6, 2002 - January 28, 2003
+
+
+Για λεπτομέρειες, βλ. "CHANGES.txt" και/ή ελέγξτε τα κείμενα περιγραφής των
+σταμπών για γραμμές σχολίων ("#") που μπορεί να περιέχουν ευχαριστίες.
+
+
+Στάμπες
+-------
+  Bill Kendrick <bill@newbreedsoftware.com>
+
+    * Μαθηματικά σύμβολα
+    * Μουσικά σύμβολα
+    * Μερικά φρούτα και λαχανικά
+    * Αποκριάτικες στάμπες
+
+
+  GOVIA Project
+    Justin Zeigler <jzeigler@osef.org>
+    http://govia.osef.org/
+
+    * Νομίσματα ΗΠΑ
+    * Λουλούδια
+    * Σημαίες
+
+
+  NASA και NSSDC
+    http://nssdc.gsfc.nasa.gov/
+
+    * Στάμπες διαστημικών αντικειμένων
+
+
+  George Wong <gwong@hawaii.edu>
+    http://www.botany.hawaii.edu/faculty/wong/BOT135/LECT06.HTM
+
+    * Πατάτα
+
+
+  MarketplaceFood.com
+    http://www.marketplacefood.com/weekly_specials.html
+
+    * Μερικά φρούτα
+    * Μερικά λαχανικά
+
+
+  Cocoranch Organic Farmers Market
+  Towani Organci Farm, Bangor, California
+    http://www.cocoranch.com/
+
+    * Μερικά λαχανικά
+
+
+  Jacques Chion <Jacques.Chion@wanadoo.fr>
+
+    * Νομίσματα ευρώ
+
+
+  Jen and Ed Collins
+  (for allowing me to ransack their house with my camera)
+
+    * Εργαλεία
+    * Μερικά φρούτα
+    * Μερικά σκεύη και πιάτα
+
+
+Μεταφράσεις 
+-----------
+  Πορτογαλικά Βραζιλίας
+  Daniel Jose Viana <danjovic@vespanet.com.br>
+
+  Βρετανικά Αγγλικά
+  Karl Ove Hufthammer <karl@huftis.org>
+
+  Δανικά
+  Rasmus Erik Voel Jensen <rasmus@solsort.dk>
+
+  Φινλανδικά
+  Tarmo Toikkanen <tarmo.toikkanen@iki.fi>
+
+  Γαλλικά
+  Jacques Chion <Jacques.Chion@wanadoo.fr>
+
+  Γερμανικά
+  Fabian Franz <FabianFranz@gmx.de>
+  Ingo Blechschmidt <iblech@web.de>
+
+  Ελληνικά
+  Hellenic team for the internationalization of linux <i18ngr@lists.hellug.gr>
+
+  Ουγγρικά
+  Tφrφk Gαbor <gabo@linuxmania.hu>
+
+  Ισλανδικά
+  Pjetur G. Hjaltason <pjetur@pjetur.net>
+
+  Γιαπωνέζικα
+  TOYAMA Shin-ichi <dolphin6k@wmail.plala.or.jp>
+
+  Νορβηγικά
+  Karl Ove Hufthammer <karl@huftis.org>
+
+  Ισπανικά
+  Gabriel Gazzan <ggabriel@internet.com.uy>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 20010904//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg1" width="400pt" height="450pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs3">
+  <linearGradient id="linearGradient855">
+   <stop id="stop856" stop-color="#fff" stop-opacity="0" offset="0"/>
+   <stop id="stop857" stop-color="#ffa617" stop-opacity=".73333" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient829">
+   <stop id="stop830" stop-color="#fff" stop-opacity=".34167" offset="0"/>
+   <stop id="stop831" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient832" xlink:href="#linearGradient829"/>
+  <linearGradient id="linearGradient850" x1=".84821" x2=".83036" y1=".095" y2="1.485" xlink:href="#linearGradient855"/>
+  <linearGradient id="linearGradient854" x1=".55147" x2=".51471" y1="-.14844" y2="1.5469" xlink:href="#linearGradient855"/>
+ </defs>
+ <g id="g851">
+  <path id="path866" d="m198.45 81.882s93.522-19.121 110.9-16.627c69.521 6.6507 120.01 63.181 139.87 133.84 16.553 117.22-73.694 223.66-81.108 240.26-9.475 14.97-76.142 26.603-94.35 39.073-11.587 9.1447-89.436-1.22-107.59-13.301-198.63-177.91-118.35-344.17-48.003-365.79 43.865-14.964 80.28-17.458 80.28-17.458z" fill="#df3511" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+  <path id="path868" d="m168.73 143.36c-86.838-91.208-132.68 134.86-90.315 211.8 57.107 75.651 233.88-46.877 90.315-211.8z" fill="url(#radialGradient832)" fill-opacity=".75" fill-rule="evenodd" stroke-width="1pt"/>
+  <path id="path869" d="m394.91 132.14c-22.026-28.714-102.04-4.1627-71.313 59.515 19.07 31.214 125.42 38.325 71.313-59.515z" fill="url(#radialGradient832)" fill-rule="evenodd" stroke-width="1pt"/>
+  <path id="path870" d="m275 470.93c35.588-69.001 47.175-142.16 63.728-152.13 10.759 6.6507 5.7934 84.796 20.691 118.88-12.415 9.1447-63.728 24.109-84.419 33.253z" fill="url(#linearGradient850)" fill-opacity=".75" fill-rule="evenodd" stroke-width="1pt"/>
+  <path id="path873" d="m196.8 128.44s-20.691-11.639-19.036-18.289c14.07 4.988 22.346 12.47 27.312 9.1446 4.9658-3.3253 4.9658 9.1447 9.104-6.6507 4.1382-15.795 15.725-33.253 14.07-15.795-1.6553 20.783 6.6211 24.94 24.001 9.1447 17.38-15.795 24.001-11.639 19.036 9.1447-24.829 27.434-80.28 19.121-74.487 13.301z" fill="url(#linearGradient854)" fill-opacity=".75" fill-rule="evenodd" stroke-width="1pt"/>
+  <path id="path871" d="m163.69 120.12c75.315 26.603 62.9 13.301 144.01-8.3133" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+  <path id="path867" d="m225.44 132.32c-3.3105-19.952 35.071-111.24 46.658-112.9 7.4487-0.83134 40.55 16.108 21.105 26.714 0 8.8388-7.4487-1.6627-12.414 1.6627-11.587 12.47-30.944 51.438-37.565 82.197l-17.784 2.3264z" fill="#4a2a00" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+ </g>
+ <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <Work rdf:about="">
+   <dc:title>Clipart by Nicu Buculei - pear</dc:title>
+   <dc:rights>
+    <Agent>
+     <dc:title>Nicu Buculei</dc:title>
+    </Agent>
+   </dc:rights>
+   <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   <license rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+  </Work>
+  <License rdf:about="http://web.resource.org/cc/PublicDomain">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+   <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+  </License>
+ </rdf:RDF>
+</svg>

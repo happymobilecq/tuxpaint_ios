@@ -1,0 +1,106 @@
+CONTRIBUYENTES.txt de los Sellos del Tux Paint
+
+Tux Paint - Un programa de dibujo simple para niños.
+Esta es una colección de imágenes de 'sellos de goma' para el Tux Paint.
+
+Copyright 2002 por Bill Kendrick
+bill@newbreedsoftware.com
+http://www.newbreedsoftware.com/tuxpaint/?lang=es
+
+6 de Octubre de 2002 - 3 de Diciembre de 2002
+
+
+Por detalles específicos, ver "CHANGES.txt" y/o verificar las líneas
+comentadas ("#") en los textos descriptivos de los sellos, las que
+habitualmente contienen créditos.
+
+
+Imágenes de Sellos
+------------------
+  Bill Kendrick <bill@newbreedsoftware.com>
+
+    * Símbolos matemáticos
+    * Símbolos Musicales
+    * Algunas frutas y vegetales
+    * Sellos de Halloween
+
+
+  Proyecto GOVIA
+    Justin Zeigler <jzeigler@osef.org>
+    http://govia.osef.org/
+
+    * Monedas de EE.UU.
+    * Flores
+    * Banderas
+
+
+  NASA y NSSDC
+    http://nssdc.gsfc.nasa.gov/
+
+    * Sellos espaciales
+
+
+  George Wong <gwong@hawaii.edu>
+    http://www.botany.hawaii.edu/faculty/wong/BOT135/LECT06.HTM
+
+    * Papa
+
+
+  MarketplaceFood.com
+    http://www.marketplacefood.com/weekly_specials.html
+
+    * Algunas frutas
+    * Algunos vegetales
+
+
+  Cocoranch Organic Farmers Market
+  Towani Organci Farm, Bangor, California
+    http://www.cocoranch.com/
+
+    * Algunos vegetales
+
+
+  Jacques Chion <Jacques.Chion@wanadoo.fr>
+
+    * Monedas de Euros
+
+
+  Jen y Ed Collins
+  (por permitirme escudriñar su casa con mi cámara)
+
+    * Herramientas
+    * Algunas frutas
+    * Algunos utensilios y platos
+
+
+Traducciones
+------------
+  Portugués Brasilero
+  Daniel Jose Viana <danjovic@vespanet.com.br>
+
+  Inglés Británico
+  Karl Ove Hufthammer <karl@huftis.org>
+
+  Danés
+  Rasmus Erik Voel Jensen <rasmus@solsort.dk>
+
+  Francés
+  Jacques Chion <Jacques.Chion@wanadoo.fr>
+
+  Alemán
+  Fabian Franz <FabianFranz@gmx.de>
+  Ingo Blechschmidt <iblech@web.de>
+
+  Húngaro
+  Török Gábor <gabo@linuxmania.hu>
+
+  Islandés
+  Pjetur G. Hjaltason <pjetur@pjetur.net>
+
+  Noruego
+  Karl Ove Hufthammer <karl@huftis.org>
+
+  Español
+  Gabriel Gazzán <ggabriel@internet.com.uy>
+  
+  

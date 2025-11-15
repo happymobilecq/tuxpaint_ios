@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg4868" width="66.188" height="52.647" version="1.0" viewBox="0 0 62.051 49.356" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs3">
+  <linearGradient id="linearGradient5525" x1="138.09" x2="146.77" y1="370.28" y2="382.98" gradientTransform="matrix(.42794 0 0 .42794 33.779 217.07)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3689"/>
+  <linearGradient id="linearGradient3689">
+   <stop id="stop3691" stop-color="#d3d7cf" offset="0"/>
+   <stop id="stop3693" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata4">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-330.82 -460.75)">
+  <g id="g2944" transform="translate(311.59 75.146)">
+   <path id="path6050" d="m51.878 426.82c-0.12276-0.0709 5.0146-3.2753 5.0146-3.2753l0.125-2.75-5.25 2.5z" fill="#a40000" fill-rule="evenodd"/>
+   <g id="g6052" transform="translate(-36.368 47.993)">
+    <ellipse id="path6054" transform="matrix(-.18314 -.2966 .2966 -.18314 41.282 467.88)" cx="136.67" cy="262" rx="11.916" ry="8.042" fill="#c00"/>
+    <path id="path6056" d="m92.872 375.53c-0.39582-3e-3 -0.76744 0.091-1.0966 0.29421l-2.2317 1.2838 4.0599 7.2617 2.8123-1.685c1.0475-0.94151 1.0475-2.9964-0.06687-4.801-0.90351-1.4632-2.2896-2.3455-3.477-2.3537z" fill="url(#linearGradient5525)" fill-rule="evenodd" stroke="#000" stroke-width=".21397"/>
+    <ellipse id="path6058" transform="matrix(-.18314 -.2966 .2966 -.18314 38.893 469.26)" cx="136.67" cy="262" rx="11.916" ry="8.042" fill="#555753" stroke="#000" stroke-linejoin="bevel" stroke-width=".61383"/>
+    <ellipse id="path6060" transform="matrix(-.10007 -.16206 .16206 -.10007 62.786 428.93)" cx="136.67" cy="262" rx="11.916" ry="8.042" fill="#d3d7cf"/>
+   </g>
+   <path id="path6048" d="m29.05 413.85c-0.12276-0.0709 5.0146-3.2753 5.0146-3.2753l0.125-2.75-5.25 2.5z" fill="#a40000" fill-rule="evenodd"/>
+   <path id="path6046" d="m20.762 408.94c-0.12276-0.0709 5.0146-3.2753 5.0146-3.2753l0.125-2.75-5.25 2.5z" fill="#a40000" fill-rule="evenodd"/>
+   <g id="g5515" transform="translate(-59.087 35.051)">
+    <ellipse id="path5517" transform="matrix(-.18314 -.2966 .2966 -.18314 41.282 467.88)" cx="136.67" cy="262" rx="11.916" ry="8.042" fill="#c00"/>
+    <path id="path5519" d="m92.872 375.53c-0.39582-3e-3 -0.76744 0.091-1.0966 0.29421l-2.2317 1.2838 4.0599 7.2617 2.8123-1.685c1.0475-0.94151 1.0475-2.9964-0.06687-4.801-0.90351-1.4632-2.2896-2.3455-3.477-2.3537z" fill="url(#linearGradient5525)" fill-rule="evenodd" stroke="#000" stroke-width=".21397"/>
+    <ellipse id="path5521" transform="matrix(-.18314 -.2966 .2966 -.18314 38.893 469.26)" cx="136.67" cy="262" rx="11.916" ry="8.042" fill="#555753" stroke="#000" stroke-linejoin="bevel" stroke-width=".61383"/>
+    <ellipse id="path5523" transform="matrix(-.10007 -.16206 .16206 -.10007 62.786 428.93)" cx="136.67" cy="262" rx="11.916" ry="8.042" fill="#d3d7cf"/>
+   </g>
+   <g id="g5505" transform="translate(-67.473 29.807)">
+    <ellipse id="path5507" transform="matrix(-.18314 -.2966 .2966 -.18314 41.282 467.88)" cx="136.67" cy="262" rx="11.916" ry="8.042" fill="#c00"/>
+    <path id="path5509" d="m92.872 375.53c-0.39582-3e-3 -0.76744 0.091-1.0966 0.29421l-2.2317 1.2838 4.0599 7.2617 2.8123-1.685c1.0475-0.94151 1.0475-2.9964-0.06687-4.801-0.90351-1.4632-2.2896-2.3455-3.477-2.3537z" fill="url(#linearGradient5525)" fill-rule="evenodd" stroke="#000" stroke-width=".21397"/>
+    <ellipse id="path5511" transform="matrix(-.18314 -.2966 .2966 -.18314 38.893 469.26)" cx="136.67" cy="262" rx="11.916" ry="8.042" fill="#555753" stroke="#000" stroke-linejoin="bevel" stroke-width=".61383"/>
+    <ellipse id="path5513" transform="matrix(-.10007 -.16206 .16206 -.10007 62.786 428.93)" cx="136.67" cy="262" rx="11.916" ry="8.042" fill="#d3d7cf"/>
+   </g>
+   <path id="path3492" d="m34.862 390.3-15.343 8.8583 35.902 20.709 14.989-9.9189z" fill="#ef2929" fill-rule="evenodd" stroke="#000" stroke-linejoin="bevel" stroke-width=".5"/>
+   <path id="path3488" d="m19.473 399.34 0.125 8.7812 1.0938 0.625c0.01685-1.18 0.46443-2.1951 1.3125-2.7188 0.40897-0.25253 0.85197-0.3784 1.3438-0.375 1.4754 0.0102 3.1899 1.1195 4.3125 2.9375 1.0011 1.6213 1.2563 3.3824 0.84375 4.6875l0.5 0.28125c0.12999-0.92889 0.54199-1.7191 1.25-2.1562 0.40897-0.25253 0.85197-0.3784 1.3438-0.375 1.4754 0.0102 3.1899 1.1195 4.3125 2.9375 0.87112 1.4108 1.1705 2.9221 0.96875 4.1562l14.875 8.5625c0.10914-0.98329 0.51126-1.8251 1.25-2.2812 0.40897-0.25253 0.85197-0.3784 1.3438-0.375 1.4754 0.0102 3.1899 1.1195 4.3125 2.9375 0.89924 1.4563 1.2122 3.0276 0.96875 4.2812l6 3.4688v-17.719l-9.9688-5.625-0.35355 8.4196z" fill="#c00" fill-rule="evenodd" stroke="#000" stroke-linejoin="bevel" stroke-width=".5"/>
+   <path id="path3490" d="m80.98 425.84v-17.717l-15.343 8.8583v17.717z" fill="#a40000" fill-rule="evenodd" stroke="#000" stroke-linejoin="bevel" stroke-width=".5"/>
+   <path id="path3498" d="m81.024 414.82-0.04419-6.6888-15.343 8.8583 0.04419 6.6888z" fill="#729fcf" fill-rule="evenodd" stroke="#000" stroke-linejoin="bevel" stroke-width=".5"/>
+   <path id="path3510" d="m64.627 417.66-7.7024-4.3126 0.09424 5.0807 7.5154 5.1461z" fill="#729fcf" fill-rule="evenodd" stroke="#000" stroke-width=".5"/>
+   <path id="path3512" d="m71.136 402.59-15.343 8.8583 9.7965 5.656 15.343-8.8583z" fill="#ef2929" fill-rule="evenodd" stroke="#000" stroke-linejoin="bevel" stroke-width=".5"/>
+   <path id="path3520" d="m60.842 412.98 1.2466-1.6322 1.3961 3.2448z" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linejoin="bevel" stroke-width=".5"/>
+   <path id="path3518" d="m63.531 414.53-1.2638-3.2297 13.205-7.624 1.2638 3.2297z" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-width=".43033px"/>
+   <g id="g6064" transform="translate(-41.726 47.396)">
+    <ellipse id="path6066" transform="matrix(.65357 -.23586 0 .65357 40.11 163.75)" cx="107.47" cy="374.49" rx="2.8866" ry="2.5873" fill="#d3d7cf"/>
+    <ellipse id="path6068" transform="matrix(.43922 -.15851 0 .43922 63.146 235.71)" cx="107.47" cy="374.49" rx="2.8866" ry="2.5873" fill="#eeeeec"/>
+    <ellipse id="path6070" transform="matrix(.14598 -.052681 0 .14598 94.172 333.89)" cx="107.47" cy="374.49" rx="2.8866" ry="2.5873" fill="#fff"/>
+   </g>
+   <g id="g6072" transform="translate(-31.562 41.367)">
+    <ellipse id="path6074" transform="matrix(.65357 -.23586 0 .65357 40.11 163.75)" cx="107.47" cy="374.49" rx="2.8866" ry="2.5873" fill="#d3d7cf"/>
+    <ellipse id="path6076" transform="matrix(.43922 -.15851 0 .43922 63.146 235.71)" cx="107.47" cy="374.49" rx="2.8866" ry="2.5873" fill="#eeeeec"/>
+    <ellipse id="path6078" transform="matrix(.14598 -.052681 0 .14598 94.172 333.89)" cx="107.47" cy="374.49" rx="2.8866" ry="2.5873" fill="#fff"/>
+   </g>
+   <g id="g6080" transform="matrix(.44276 0 0 .44276 18.524 258.12)">
+    <ellipse id="path6082" transform="matrix(.65357 -.23586 0 .65357 40.11 163.75)" cx="107.47" cy="374.49" rx="2.8866" ry="2.5873" fill="#d3d7cf"/>
+    <ellipse id="path6084" transform="matrix(.43922 -.15851 0 .43922 63.146 235.71)" cx="107.47" cy="374.49" rx="2.8866" ry="2.5873" fill="#f57900"/>
+    <ellipse id="path6086" transform="matrix(.14598 -.052681 0 .14598 94.172 333.89)" cx="107.47" cy="374.49" rx="2.8866" ry="2.5873" fill="#fff"/>
+   </g>
+   <g id="g6092" transform="matrix(.44276 0 0 .44276 30.693 251.79)">
+    <ellipse id="path6094" transform="matrix(.65357 -.23586 0 .65357 40.11 163.75)" cx="107.47" cy="374.49" rx="2.8866" ry="2.5873" fill="#d3d7cf"/>
+    <ellipse id="path6096" transform="matrix(.43922 -.15851 0 .43922 63.146 235.71)" cx="107.47" cy="374.49" rx="2.8866" ry="2.5873" fill="#f57900"/>
+    <ellipse id="path6098" transform="matrix(.14598 -.052681 0 .14598 94.172 333.89)" cx="107.47" cy="374.49" rx="2.8866" ry="2.5873" fill="#fff"/>
+   </g>
+   <path id="path6107" d="m64.876 410.04 1.1844 2.8055 7.245-4.1985-1.5219-2.5854z" fill="#babdb6" fill-rule="evenodd"/>
+   <ellipse id="path6109" transform="matrix(.6677 0 0 .6677 -53.554 225.31)" cx="136.67" cy="262" rx="11.916" ry="8.042" fill="#2e3436"/>
+   <ellipse id="path6111" transform="matrix(.6677 0 0 .6677 -53.554 223.31)" cx="136.67" cy="262" rx="11.916" ry="8.042" fill="#888a85"/>
+   <g id="g6150" transform="matrix(.23436 0 0 .23436 33.349 314.48)">
+    <g id="g6265" transform="translate(10.844 -5.0916)" fill-rule="evenodd" stroke="#000" stroke-linejoin="bevel" stroke-width="1px">
+     <path id="path6148" d="m12.577 329.87 15.343 8.8583-24.968 14.587-15.343-8.8583z" fill="#eeeeec"/>
+     <path id="path6113" d="m-15.343 370.28 15.343 8.8583v-35.433l-15.343-8.8583z" fill="#babdb6"/>
+     <path id="path6117" d="m30.408 325.52-2.6875 1.5625v11.375l-24.745 15.122v-11.375l-2.8125 1.5938v35.438l30.245-18.279z" fill="#555753"/>
+     <path id="path6142" d="m-12.577 333.25 15.343 8.8583-2.7661 1.597-15.343-8.8583z" fill="#eeeeec"/>
+     <path id="path6144" d="m14.807 316.54 15.343 8.8583-2.7661 1.597-15.343-8.8583z" fill="#eeeeec"/>
+     <path id="path6146" d="m12.067 329.73 15.343 8.8583-0.14112-11.528-15.343-8.8583z" fill="#babdb6"/>
+    </g>
+   </g>
+   <g id="g6246" transform="matrix(.81112 0 0 .81112 69.515 103.66)" fill-rule="evenodd">
+    <path id="path6290" d="m-41.003 349.76 45.515 26.278 0.12354-2.5428-45.736-25.889 0.09763 2.1534z" fill="#d3d7cf"/>
+    <path id="path6176" d="m2.8125 373.38-6.125 3.5625 0.5 0.84375 6.125-3.5312z" fill="#eeeeec"/>
+    <path id="path6182" d="m-0.012188 372.03-6.125 3.5625 0.5 0.84375 6.125-3.5312z" fill="#eeeeec"/>
+    <path id="path6184" d="m-3.0686 370.28-6.125 3.5625 0.5 0.84375 6.125-3.5312z" fill="#eeeeec"/>
+    <path id="path6186" d="m-6.1372 368.5-6.125 3.5625 0.5 0.84375 6.125-3.5312z" fill="#eeeeec"/>
+    <path id="path6188" d="m-9.218 366.71-6.125 3.5625 0.5 0.84375 6.125-3.5312z" fill="#eeeeec"/>
+    <path id="path6190" d="m-12.274 364.96-6.125 3.5625 0.5 0.84375 6.125-3.5312z" fill="#eeeeec"/>
+    <path id="path6192" d="m-15.343 363.19-6.125 3.5625 0.5 0.84375 6.125-3.5312z" fill="#eeeeec"/>
+    <path id="path6194" d="m-18.424 361.4-6.125 3.5625 0.5 0.84375 6.125-3.5312z" fill="#eeeeec"/>
+    <path id="path6196" d="m-21.48 359.65-6.125 3.5625 0.5 0.84375 6.125-3.5312z" fill="#eeeeec"/>
+    <path id="path6198" d="m-24.561 357.85-6.125 3.5625 0.5 0.84375 6.125-3.5312z" fill="#eeeeec"/>
+    <path id="path6200" d="m-27.617 356.1-6.125 3.5625 0.5 0.84375 6.125-3.5312z" fill="#eeeeec"/>
+    <path id="path6202" d="m-30.686 354.33-6.125 3.5625 0.5 0.84375 6.125-3.5312z" fill="#eeeeec"/>
+    <path id="path6204" d="m-33.755 352.56-6.125 3.5625 0.5 0.84375 6.125-3.5312z" fill="#eeeeec"/>
+    <path id="path6206" d="m-36.823 350.79-6.125 3.5625 0.5 0.84375 6.125-3.5312z" fill="#eeeeec"/>
+    <path id="path6208" d="m-39.904 349-6.125 3.5625 0.5 0.84375 6.125-3.5312z" fill="#eeeeec"/>
+    <path id="path6172" d="m-46.844 353.47 45.53 26.287-0.17675-2.2188-45.451-26.222 0.09763 2.1534z" fill="#d3d7cf"/>
+   </g>
+   <path id="path6328" d="m70.115 420.68 0.89755-0.45148 5.1048-8.7111-1.6855 0.97314z" fill="#fff" fill-rule="evenodd"/>
+   <path id="path6330" d="m72.077 419.62 0.89755-0.45148 5.1048-8.7111-1.6855 0.97314z" fill="#fff" fill-rule="evenodd"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,24 @@
+Release checklist for Tux Paint Stamps
+
+Places to make sure version # and release date gets updated, prior to
+cutting a release (tagging in the source code repository, and running
+"make release" to roll a .tar.gz source tarball).
+
+ * Build description files:
+   * tuxpaint-stamps.spec.in (RPM packages)
+   * win32/tuxpaint-stamps.iss (Windows installer build)
+   * macOS installer build (via XCode)
+
+ * Documentation
+   * docs/CHANGES.txt
+   * docs/README.txt
+
+ * Update stamp descriptions (.txt files) to sync with translations
+   * Follow the "README.txt" directions in the "po" subdirectory
+
+Also:
+
+ * Make sure "android_packager/build_for_android.sh" accepts
+   all locales for which translated description audio files
+   are available (see the usage output of the script, it finds
+   them dynamically).

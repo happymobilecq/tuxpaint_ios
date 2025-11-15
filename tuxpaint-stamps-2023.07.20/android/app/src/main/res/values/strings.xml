@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">Tux Paint Stamps Downloader</string>
+    <string name="app_contact" translatable="false">tuxpaint-devel@lists.sourceforge.net</string>
+
+
+    <string name="all_stamps">All images</string>
+    <string name="animals">animals</string>
+    <string name="clothes">clothes</string>
+    <string name="food">food</string>
+    <string name="hobbies">hobbies</string>
+    <string name="household">household</string>
+    <string name="medical">medical</string>
+    <string name="military">military</string>
+    <string name="naturalforces">naturalforces</string>
+    <string name="people">people</string>
+    <string name="plants">plants</string>
+    <string name="seasonal">seasonal</string>
+    <string name="town">town</string>
+    <string name="space">space</string>
+    <string name="sports">sports</string>
+    <string name="symbols">symbols</string>
+    <string name="vehicles">vehicles</string>
+    <string name="descriptive_sounds">Descriptive Sounds</string>
+    <string name="english">English</string>
+    <string name="be">Belarusian</string>
+    <string name="bg">Bulgarian</string>
+    <string name="ca">Catalan</string>
+    <string name="da">Danish</string>
+    <string name="el">Greek</string>
+    <string name="es">Spanish</string>
+    <string name="fr">French</string>
+    <string name="ml">Malayalam</string>
+    <string name="nl">Dutch</string>
+    <string name="pt_BR">Portuguese Brasil</string>
+    <string name="pt">Portuguese</string>
+    <string name="ro">Romanian</string>
+    <string name="ru">Russian</string>
+    <string name="download_size">Download size</string>
+    <string name="download">Download</string>
+    <string name="server">Server</string>
+    <string name="destination">Destination</string>
+    <string name="zip_files_are_no_more_needed_once_they_are_already_uncompressed">Zip files are no more needed once they are already uncompressed.</string>
+    <string name="discard_zip_files">Discard zip files</string>
+    <string name="keep_zip_files">Keep zip files</string>
+    <string name="downloading_list">Downloading: </string>
+    <string name="not_downloading_list">Not downloading: </string>
+    <string name="mb">MB</string>
+    <string name="kb">KB</string>
+    <string name="bytes">bytes</string>
+</resources>

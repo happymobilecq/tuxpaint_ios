@@ -1,0 +1,3 @@
+"Gimel" stands for "gants" or "all." If the dreidel lands on "gimel," take everything in the middle.
+is.utf8="Gimel" stendur fyrir "gants", eða "allt". Ef dreidel-skopparakringluteningurinn lendir á "gimel", skal taka allt sem er á miðjunni.
+nn.utf8=Gimmel tyder «gantz» – alt saman. Viss dreidelen landar på gimmel, ta alt i potten.

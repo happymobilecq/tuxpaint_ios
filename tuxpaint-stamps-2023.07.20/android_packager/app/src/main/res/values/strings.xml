@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tux Paint Stamps</string>
+    <string name="title_activity_license">License</string>
+    <string name="textview">textview</string>
+    <string name="understood">Understood</string>
+    <string name="install">Install</string>
+    <string name="license">License</string>
+    <string name="uninstall">Uninstall</string>
+
+    <!-- Request for permissions text and button -->
+    <string name="Request_motivation">Tux Paint needs storage access in order to save your drawings and to operate properly.</string>
+    <string name="request_understood">Understood</string>
+    <string name="destination">Destination</string>
+    <string name="Start_tip">\n
+        Press install to add the stamps to Tux Paint.\n
+    If you changed the default data directory for Tux Paint you must reflect that change in the destination field. \n
+    Once the files are installed you could remove this installer to save space in your device.\n \n
+    Press uninstall to remove the files added by this installer in the Tux Paint\'s installation.\n
+    After that you could remove this installer.\n\n
+    If you wish to add more stamps or to improve the sound descriptions for any language you are very welcome to do so.\n
+    Please find us at http://tuxpaint.org/help 
+</string>
+    <string name="Installing_files">Installing the files...</string>
+    <string name="Removing_files">Removing the files...</string>
+
+    <string name="Files_installed">The files have been installed</string>
+    <string name="Files_notinstalled">Could not install the files</string>
+    <string name="Files_removed_succesful">The files have been removed successfully.</string>
+    <string name="Files_notremoved">Could not remove the files.</string>
+    <string name="Needs_permissions">There are not enough permissions to manage the stamps, please allow files management.\n\n
+        If you denied them before, you might have to do so in the Android app settings.</string>
+
+</resources>

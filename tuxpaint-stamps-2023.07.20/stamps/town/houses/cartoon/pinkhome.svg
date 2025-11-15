@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.0//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg id="svg1" width="437.5" height="437.5" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs3">
+  <linearGradient id="linearGradient589">
+   <stop id="stop590" stop-color="#1775f7" offset="0"/>
+   <stop id="stop591" stop-color="#85daff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient842">
+   <stop id="stop843" stop-color="#ff0095" offset="0"/>
+   <stop id="stop844" stop-color="#f5f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient48">
+   <stop id="stop49" stop-color="#ff4700" offset="0"/>
+   <stop id="stop50" stop-color="#ff0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient51" x1=".4777" x2=".56688" y1=".84375" y2=".40625" xlink:href="#linearGradient48"/>
+  <linearGradient id="linearGradient52" x1="3.1094e-8" y1="1.6858e-8" y2="1.6858e-8" xlink:href="#linearGradient48"/>
+  <radialGradient id="radialGradient577" xlink:href="#linearGradient842"/>
+  <radialGradient id="radialGradient845" cx=".38801" cy=".19697" r=".44821" xlink:href="#linearGradient842"/>
+  <radialGradient id="radialGradient846" cx=".30137" cy=".76562" r=".47649">
+   <stop id="stop54" stop-color="#ff52ff" offset="0"/>
+   <stop id="stop55" stop-color="#ffc7ff" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient614" cx=".69349" cy=".41406" r=".45785" xlink:href="#linearGradient589"/>
+  <linearGradient id="linearGradient597" x1=".95276" x2=".37795" y1=".42188" y2=".48438" xlink:href="#linearGradient48"/>
+  <linearGradient id="linearGradient598" x1="-9.7398e-8" y1="1.0974e-7" y2="1.0974e-7" xlink:href="#linearGradient48"/>
+  <radialGradient id="radialGradient592" xlink:href="#linearGradient589"/>
+ </defs>
+ <path id="path603" d="m214.86 81.388c0 21.975-20.041 39.789-44.763 39.789-24.722 0-44.763-17.814-44.763-39.789 0-21.975 20.041-39.789 44.763-39.789 24.722 0 44.763 17.814 44.763 39.789z" fill="#ffe800" fill-rule="evenodd" stroke="#ff9000" stroke-width="6.25"/>
+ <path id="path591" d="m89.694 416.61c37.335 24.162 211.67 20.329 250.42 1.2543 35.346-21.946-0.8882-27.718-27.77-40.75-80.284 1.5959-139.55 5.4528-197.32-0.5447-28.943 8.5023-46.108 23.34-25.334 40.041z" fill="url(#radialGradient845)" fill-rule="evenodd"/>
+ <path id="path584" d="m26.728 271.38c-0.10058-37.021 16.956-85.944 42.203-98.4 35.736-4.9823 251.4-22.916 267.28-19.929 30.755 13.643 74.558 55.36 81.592 114.59 0.6444 42.99-50.263 88.334-105.51 109.61-22.316 6.2278-174.82 7.4733-195.54-3.7368-43.829-18.683-89.815-59.72-90.032-102.14z" fill="url(#radialGradient846)" fill-rule="evenodd" stroke="#7f0000" stroke-width="6.25"/>
+ <path id="path582" d="m146.44 78.409c-7.1588-6.2562-12.904-34.531-19.695-42.285-10.163-1.1615-13.668 1.4353-18.683 5.6293-6.4218-0.74638-17.166-3.1891-19.299-1.255-3.8385 6.1736-3.0063 16.052-7.4283 27.902-4.422 11.85-14.098 25.674-15.08 30.422-1.7056 8.9865 5.0296 33.179 14.068 33.536 10.184-0.6419 71.2-44.943 66.117-53.95z" fill="url(#radialGradient592)" fill-rule="evenodd" stroke="#3373e6" stroke-width="6.7622"/>
+ <path id="path596" d="m343.25 211.01c-10.299 0-51.071 8.7613-80.185 5.6271-0.8904 10.812-10.927 68.28 7.0337 85.812 20.449 6.6335 65.072 1e-4 85.812 1e-4 43.788-29.028-2.8136-81.592-12.661-91.439z" fill="url(#linearGradient51)" fill-rule="evenodd" stroke="#b50000" stroke-width="6.25"/>
+ <path id="path633" d="m303.42 298.5c12.418-10.56-24.41-30.032-36.639-37.987 29.352 2.4845 39.338-11.066 38.564-21.167-1.5481-20.203-14.279-14.476-38.221-17.236-0.9628 8.2152-7.6709 54.185 6.3478 76.302 8.3917 1.7189 18.601 2.7176 29.948 0.0883z" fill="url(#radialGradient577)" fill-rule="evenodd" stroke="#6d0000" stroke-linejoin="bevel" stroke-width="6.25"/>
+ <path id="path590" d="m74.558 232.11 17.908 10.955 19.177-8.5413-4.8853 20.417 14.049 15.599-20.927 1.6629-10.494 18.182-8.0483-19.389-20.535-4.3618 15.953-13.646-2.1973-20.878z" fill="url(#linearGradient52)" fill-rule="evenodd" stroke="#d22800" stroke-width="6.25"/>
+ <path id="path595" d="m168.81 174.44 12.479 10.509 15.732-4.3219-6.1387 15.116 8.9718 13.626-16.273-1.1673-10.187 12.744-3.9184-15.837-15.268-5.7504 13.851-8.6206 0.751-16.297z" fill="url(#linearGradient597)" fill-rule="evenodd" stroke="#a10000" stroke-width="6.25"/>
+ <path id="path583" d="m335.29 297.55c-12.419-10.56 17.376-33.549 29.605-41.504-29.352 2.4845-42.152-8.9556-41.378-19.057 1.548-20.203-7.5255-16.586 16.416-20.753 6.5897 8.2152 45.653 48.558 23.194 72.081-9.7983 10.863-9.4568 10.455-27.837 9.2323z" fill="url(#radialGradient577)" fill-rule="evenodd" stroke="#850000" stroke-linejoin="bevel" stroke-width="6.25"/>
+ <path id="path581" d="m19.695 191.66c5.3958 6.4135 14.664 7.3697 25.322 7.4735 17.038-0.7544 44.163-21.432 60.49-25.88 31.404 13.667 63.657-6.6081 102.17-11.806 32.542 26.633 75.32 0.7009 91.965-0.9259 30.433-2.9743 88.326 34.593 102.69 22.42 6.6565-5.6399-11.639-39.049-35.573-42.554-7.1907-21.639-21.677-54.694-41.557-60.084-3.184-21.292-19.936-33.072-19.936-46.83-2.8135-20.344-30.462-23.43-50.784-22.42-18.438 0.71708-36.076 23.557-45.032 38.26-9.4515 3.3722-34.456 12.843-45.16 28.874-18.661 4.0937-34.957 8.7782-46.884 20.482-10.923 3.5125-32.724 19.186-37.191 34.784-8.2021 3.8202-25.997 19.558-33.446 34.743-15.407 9.2164-28.425 21.858-27.074 23.464z" fill="url(#radialGradient614)" fill-rule="evenodd" stroke="#3373fd" stroke-width="6.25"/>
+ <path id="path585" d="m157.56 377.01c-3.7999-21.69-14.068-48.767-14.068-67.524-1.4067-19.465 38.834-53.457 50.643-53.457 14.848 0.1973 47.83 34.7 47.83 54.863 0 22.039-13.434 50.451-22.508 68.931-13.932 1.8306-51.868-1.8803-61.897-2.8136z" fill="url(#linearGradient598)" fill-rule="evenodd" stroke="#7f0000" stroke-width="6.25"/>
+ <metadata>
+  <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <Work rdf:about="">
+    <dc:title>Lemon SVG theme</dc:title>
+    <dc:description/>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>lemon_theme_icon</rdf:li>
+      <rdf:li>icon</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+    <dc:publisher>
+     <Agent rdf:about="">
+      <dc:title>Open Clip Art Library</dc:title>
+     </Agent>
+    </dc:publisher>
+    <dc:creator>
+     <Agent rdf:about="">
+      <dc:title>Jose Hevia</dc:title>
+     </Agent>
+    </dc:creator>
+    <dc:rights>
+     <Agent rdf:about="">
+      <dc:title/>
+     </Agent>
+    </dc:rights>
+    <dc:date/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <license rdf:resource="Public Domain">
+     <dc:date>1</dc:date>
+    </license>
+    <dc:language>en</dc:language>
+   </Work>
+   <License rdf:about="Public Domain">
+    <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+    <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+    <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+   </License>
+  </rdf:RDF>
+ </metadata>
+</svg>

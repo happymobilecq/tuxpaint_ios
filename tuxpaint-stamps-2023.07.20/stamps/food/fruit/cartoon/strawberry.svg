@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 20010904//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg1" width="400pt" height="400pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs3">
+  <radialGradient id="radialGradient832" cx=".42553" cy=".41" r=".48978">
+   <stop id="stop856" stop-color="#ff0" stop-opacity=".55833" offset="0"/>
+   <stop id="stop857" stop-color="#ffa617" stop-opacity=".73333" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient874" cx=".53371" cy=".295" r=".3946">
+   <stop id="stop830" stop-color="#fff" stop-opacity=".34167" offset="0"/>
+   <stop id="stop831" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g id="g969" transform="translate(0 7.5)" fill-rule="evenodd">
+  <path id="path888" d="m267.5 81.25c20 3.75 67.5 0 123.75 2.5 30 20 76.25 45 82.5 148.75-5 42.5-56.25 185-75 191.25s-57.5 26.25-85 27.5c-50-5-63.75 8.75-83.75 11.25-47.5 1.25-110-46.25-166.25-170-27.5-86.25-13.75-151.25 60-207.5 52.5-6.25 118.75-6.25 143.75-3.75z" fill="#d70000" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+  <path id="path889" d="m130 197.5c21.25-25 65-46.25 102.5-102.5 0-1.25-10 67.5 12.5 101.25 16.25-32.5 22.5-76.25 31.25-88.75 7.5 3.75 45 50 85 60-11.25-18.75-33.75-42.5-31.25-52.5-5-26.25 61.25 52.5 95 22.5-41.25-7.5-61.25-23.75-68.75-41.25 8.75-10 62.5-17.5 81.25-46.25-51.598 18.428-82.5 27.5-100 21.25-21.25-3.75-88.75-3.75-105-10-1.25 6.25-67.5-47.873-120-23.75 58.75 12.435 77.5 16.25 81.25 28.75-53.75 0-82.5 13.75-110 11.25 6.25 15 107.5 27.5 121.25 12.5-80 48.75-82.5 85-75 107.5z" fill="#007900" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+  <path id="path890" d="m253.75 80c16.25-23.75 23.75-33.75 25-71.25 7.5-15 15 3.75 15 3.75s-3.75 38.75-6.25 70c-6.25 12.5-32.5 7.5-33.75-2.5z" fill="#007900" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+  <path id="path891" d="m296.25 235c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path892" d="m334.96 298.15c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path893" d="m357.32 263.75c-3.3717 2.0631-2.2354 23.612 7.789 22.575 5.2439-5.0623-0.76375-25.484-7.789-22.575z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path894" d="m276.21 410.65c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path895" d="m274.96 341.9c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path896" d="m234.96 361.9c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path897" d="m203.91 380.67c-3.9352 0.37257-12.379 20.23-2.9176 23.702 6.9344-2.2447 10.506-23.23 2.9176-23.702z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path898" d="m163.17 361.85c-3.9042 0.61845-11.086 20.966-1.4266 23.839 6.7801-2.6749 9.03-23.842 1.4266-23.839z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path899" d="m94.833 217.06c-3.9523 0.06356-13.923 19.2-4.7631 23.401 7.0888-1.6953 12.292-22.336 4.7631-23.401z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path900" d="m399.89 364.41c-3.7425 1.2724-7.3655 22.544 2.6418 23.735 6.2275-3.7872 4.8506-25.029-2.6418-23.735z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path901" d="m108.18 125.18c-3.8975-0.65904-17.194 16.336-8.9551 22.139 7.2792-0.37274 16.163-19.717 8.9551-22.139z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path902" d="m370.43 331.71c-3.3498 2.0985-1.9863 23.634 8.0267 22.492 5.1902-5.1173-1.0325-25.474-8.0267-22.492z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path903" d="m149.06 213.42c-3.9517-0.09685-14.691 18.619-5.7086 23.189 7.1517-1.4063 13.188-21.819 5.7086-23.189z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path904" d="m414.7 258.79c-3.3498 2.0985-1.9863 23.634 8.0267 22.492 5.1902-5.1173-1.0325-25.474-8.0267-22.492z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path905" d="m413.51 310.54c-3.1032 2.4485 0.58108 23.71 10.412 21.492 4.6064-5.6485-3.7812-25.213-10.412-21.492z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path906" d="m194.04 316.93c-3.939 0.33104-12.591 20.099-3.1675 23.67 6.9577-2.1715 10.751-23.118 3.1675-23.67z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path907" d="m430.87 150.1c-2.7444 2.8449 3.7755 23.415 13.217 19.89 3.802-6.2185-7.1491-24.472-13.217-19.89z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path908" d="m392.9 105.25c-2.1704 3.3037 8.0446 22.311 16.671 17.1 2.5851-6.8148-11.556-22.726-16.671-17.1z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path909" d="m445.63 225.74c-3.0124 2.5594 1.4402 23.673 11.184 21.1 4.3986-5.8118-4.6927-25.06-11.184-21.1z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path910" d="m373.71 204.4c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path911" d="m338.66 409.83c-3.7131 1.3556-6.8605 22.703 3.1709 23.67 6.1414-3.9253 4.2907-25.131-3.1709-23.67z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path912" d="m289.96 145.65c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path913" d="m137.43 324.39c-3.9273 0.44874-11.984 20.466-2.4579 23.754 6.8896-2.3786 10.054-23.429 2.4579-23.754z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path914" d="m202.46 154.4c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path915" d="m194.96 225.65c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path916" d="m248.71 205.65c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path917" d="m92.876 293.8c-3.9458 0.23607-13.072 19.79-3.7367 23.587 7.008-2.0032 11.305-22.852 3.7367-23.587z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path918" d="m228.71 269.4c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path919" d="m340.2 367.84c-3.2 2.3206-0.38134 23.714 9.5313 21.897 4.8318-5.457-2.7551-25.346-9.5313-21.897z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path920" d="m306.21 366.9c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path921" d="m232.46 426.9c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path922" d="m291.21 300.65c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path923" d="m332.46 198.15c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path924" d="m172.29 266.88c-3.9215 0.49706-11.731 20.612-2.1652 23.783 6.8598-2.4633 9.7652-23.551 2.1652-23.783z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path925" d="m398.45 171.29c-3.3498 2.0985-1.9863 23.634 8.0266 22.492 5.1902-5.1173-1.0325-25.474-8.0266-22.492z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path926" d="m168.37 406.86c-3.914 0.553-11.436 20.778-1.8255 23.811 6.824-2.561 9.4279-23.688 1.8255-23.811z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path927" d="m77.846 163.43c-3.9513-0.11072-14.756 18.568-5.79 23.169 7.1566-1.3812 13.264-21.773 5.79-23.169z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path928" d="m69.055 234.67c-3.9517-0.09685-14.691 18.619-5.7086 23.189 7.1517-1.4063 13.188-21.819 5.7086-23.189z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path929" d="m334.35 160.75c-3.0065 2.5663 1.4948 23.67 11.233 21.075 4.3852-5.8219-4.7504-25.049-11.233-21.075z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path930" d="m108.22 333.46c-3.9273 0.44874-11.984 20.466-2.4579 23.754 6.8896-2.3786 10.054-23.429 2.4579-23.754z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path931" d="m135.63 368.76c-3.9273 0.44874-11.984 20.466-2.4579 23.754 6.8896-2.3786 10.054-23.429 2.4579-23.754z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path932" d="m142.08 262.67c-3.9273 0.44874-11.984 20.466-2.4579 23.754 6.8896-2.3786 10.054-23.429 2.4579-23.754z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path933" d="m119.76 175.72c-3.9273 0.44874-11.984 20.466-2.4579 23.754 6.8896-2.3786 10.054-23.429 2.4579-23.754z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path934" d="m151.5 106.75c-3.3543-2.0913-22.114 8.5718-16.699 17.072 6.8743 2.4227 22.445-12.092 16.699-17.072z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path935" d="m99.756 249.59c-3.9273 0.44874-11.984 20.466-2.4579 23.754 6.8896-2.3786 10.054-23.429 2.4579-23.754z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path936" d="m261.1 254.23c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path937" d="m241.09 316.56c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path938" d="m290.55 188.84c-3.75 1.25-7.5 22.5 2.5 23.75 6.25-3.75 5-25-2.5-23.75z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path939" d="m177.92 175.68c-3.875 0.78085-10.202 21.411-0.43041 23.877 6.6626-2.9555 8.0271-24.198 0.43041-23.877z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path940" d="m416.73 216.45c-3.0124 2.5594 1.4402 23.673 11.184 21.1 4.3986-5.8118-4.6927-25.06-11.184-21.1z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path941" d="m385.95 278c-3.0124 2.5594 1.4402 23.673 11.184 21.1 4.3986-5.8118-4.6927-25.06-11.184-21.1z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path942" d="m452.13 184.9c-3.0124 2.5594 1.4402 23.673 11.184 21.1 4.3986-5.8118-4.6927-25.06-11.184-21.1z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path943" d="m440.86 279.35c-3.4318 1.9616-2.9386 23.534 7.1123 22.798 5.3925-4.9036-0.00344-25.495-7.1123-22.798z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path944" d="m375.87 400.49c-3.626 1.574-5.4981 23.071 4.573 23.439 5.8971-4.2836 2.7885-25.342-4.573-23.439z" fill="url(#radialGradient832)" fill-opacity=".25" stroke-width="1pt"/>
+  <path id="path945" d="m240 192.5c-165-51.25-166.25 203.75-56.25 196.25 161.25 5 93.75-153.75 56.25-196.25z" fill="url(#radialGradient874)" fill-opacity=".75" stroke-width="1pt"/>
+  <path id="path946" d="m133.34 183.01c27.428-51.635 89.505-87.277 75.654-88.047-25.282 18.11-64.219 35.557-75.654 88.047z" fill="#0c0" fill-opacity=".5" stroke-width="1pt"/>
+  <path id="path947" d="m109.46 82.017c42.321 16.159 49.242-9.7012 90.793-8.1622-12.311-3.8473-43.252 0.71422-90.793 8.1622z" fill="#0c0" fill-opacity=".5" stroke-width="1pt"/>
+  <path id="path948" d="m244.66 181.27c-3.0779-58.479 8.766-85.628-5.0844-86.397-11.542 25.392 1.237 72.547 5.0844 86.397z" fill="#0c0" fill-opacity=".5" stroke-width="1pt"/>
+  <path id="path949" d="m261.34 78.25c11.542 21.545 29.899-54.245 23.743-66.557 2.4189 12.834-11.432 61.171-23.743 66.557z" fill="#0c0" fill-opacity=".5" stroke-width="1pt"/>
+  <path id="path950" d="m339.19 79.708c21.983 9.8668 33.551 1.8703 64.385-12.035-34.99 13.357-43.609 11.211-64.385 12.035z" fill="#0c0" fill-opacity=".5" stroke-width="1pt"/>
+  <path id="path951" d="m344.03 153.05c-30.009-26.162-51.414-50.7-62.187-50.7 14.428 17.642 27.918 29.457 62.187 50.7z" fill="#0c0" fill-opacity=".5" stroke-width="1pt"/>
+  <path id="path952" d="m396.59 136.1c-35.119-14.568-47.508-31.96-62.128-36.577 23.853 17.698 19.781 18.379 62.128 36.577z" fill="#0c0" fill-opacity=".5" stroke-width="1pt"/>
+  <path id="path953" d="m144.66 37.936c24.954 2.9969 45.833 11.542 51.989 20.776 1.2076-12.201-32.008-19.454-51.989-20.776z" fill="#0c0" fill-opacity=".5" stroke-width="1pt"/>
+ </g>
+ <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <Work rdf:about="">
+   <dc:title>Clipart by Nicu Buculei - pear</dc:title>
+   <dc:rights>
+    <Agent>
+     <dc:title>Nicu Buculei</dc:title>
+    </Agent>
+   </dc:rights>
+   <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   <license rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+  </Work>
+  <License rdf:about="http://web.resource.org/cc/PublicDomain">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+   <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+  </License>
+ </rdf:RDF>
+</svg>

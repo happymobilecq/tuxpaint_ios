@@ -1,0 +1,66 @@
+OLVASSEL.txt a Tux Paint Stamps csomaghoz
+
+Tux Paint - Egyszerûen kezelhetõ rajzoló program gyermekeknek.
+Az alábbi csomag a Tux Paint-hez készült matricákból álló gyûjtemény.
+
+Bill Kendrick szerzõi jogvédelme alatt áll, (c)2002 
+bill@newbreedsoftware.com
+http://www.newbreedsoftware.com/tuxpaint/
+
+2002. szeptember 6. - 2002. október 6.
+
+
+Mi ez?
+------
+
+  A Tux Paint egy gyermekek számára készült rajzoló program.
+  (Körülbelül a 3-10 év közötti korosztályt megcélozva.)
+  A fejlesztés elsõdleges célja, hogy betöltsön egy hézagot
+  a nyílt forráskódú Linux oktatói programjainak skáláján,
+  de természetesen más platformok alá is elérhetõ a program;
+  Windows, MacOS, BeOS, és egyéb Unix variánsok.
+
+  Ez a csomag egy matrica-gyûjtemény a Tux Paint "Stamp" bõvítményhez.
+
+
+Telepítés:
+----------
+  Linux/Unix:
+  -----------
+    Rendszergazdaként add ki a következõ parancsot:
+
+      make install
+
+
+    Alapértelmezett esetben a "stamps" könyvtár a /usr/local/share/tuxpaint/
+    alatt lesz elérhetõ.
+    
+    Ahhoz, hogy a Tux Paint-en keresztül elérhetõk legyenek
+    a matricák, ugyanabban a könyvtárban kell elhelyezni,
+    ahol a Tux Paint többi adata is található.
+    
+    Ennek megváltoztatásához bõvebb információt a Tux Paint
+    telepítõ dokumentációjában találsz, INSTALL.txt néven.
+
+
+  Windows:
+  --------
+    A telepítõ program a megfelelõ helyre fogja tenni a matricákat.
+
+Kiegészítés:
+------------
+  Saját matricák hozzáadásával kapcsolatban információhoz
+  a Tux Paint dokumentációjában, a "README.txt" alatt juthatsz.
+
+
+Segítség!
+---------
+  A Tux Paint fejlesztõi csapat minél több képpel szeretné
+  bõvíteni a matrica kollekciót! Ha Te is szeretnél ebben
+  segíteni, íratkozz fel a 'tuxpaint-stamps' levelezõlistára
+  az alábbi címen:
+
+    http://www.newbreedsoftware.com/tuxpaint/lists/
+
+  Köszönjük!
+

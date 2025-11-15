@@ -1,0 +1,4847 @@
+# Macedonian translation for tuxpaint-stamps
+# Copyright (c) (c) 2006 Canonical Ltd, and Rosetta Contributors 2006
+# This file is distributed under the same license as the tuxpaint-stamps package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tuxpaint-stamps\n"
+"Report-Msgid-Bugs-To: tuxpaint-i18n@lists.sourceforge.net\n"
+"POT-Creation-Date: 2023-04-20 04:40:12+0000\n"
+"PO-Revision-Date: 2006-06-03 19:04+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Macedonian <mk@li.org>\n"
+"Language: mk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2008-02-06 17:44+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/amphibians/frog-1.png
+#. View at https://tuxpaint.org/stamps/stamps/animals/amphibians/frog.png
+#: ../stamps/animals/amphibians/frog-1 ../stamps/animals/amphibians/frog
+#, fuzzy
+msgid "A frog."
+msgstr "Шишарка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/adelaide-rosella.png
+#: ../stamps/animals/birds/adelaide-rosella
+msgid "An Adelaide Rosella."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/albino_peahen.png
+#: ../stamps/animals/birds/albino_peahen
+#, fuzzy
+#| msgid "A peacock (a male peafowl)."
+msgid "An albino peahen (a female peafowl, or peacock)."
+msgstr "Паун."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/blackbird.png
+#: ../stamps/animals/birds/blackbird
+#, fuzzy
+#| msgid "A black cat."
+msgid "A blackbird."
+msgstr "Црна мачка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/chicken_profile.png
+#: ../stamps/animals/birds/chicken_profile
+#, fuzzy
+#| msgid "A chick."
+msgid "A chicken."
+msgstr "Пиле."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/crow.png
+#: ../stamps/animals/birds/crow
+#, fuzzy
+#| msgid "A carrot."
+msgid "A crow."
+msgstr "Морков."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/crowned_crane.png
+#: ../stamps/animals/birds/crowned_crane
+#, fuzzy
+msgid "A crowned crane."
+msgstr "Шеќерно стапче."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/cuckoo.png
+#: ../stamps/animals/birds/cuckoo
+#, fuzzy
+msgid "A cuckoo."
+msgstr "Розова торта."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/drake.png
+#: ../stamps/animals/birds/drake
+msgid "A drake."
+msgstr "Патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/duck.png
+#: ../stamps/animals/birds/duck
+#, fuzzy
+#| msgid "A rubber duck."
+msgid "A duck."
+msgstr "Гумена патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/gander.png
+#: ../stamps/animals/birds/gander
+#, fuzzy
+#| msgid "A spider."
+msgid "A gander."
+msgstr "Пајак."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/guineafowl.png
+#: ../stamps/animals/birds/guineafowl
+msgid "A guinea fowl."
+msgstr "Бисерка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/helmeted_guineafowl.png
+#: ../stamps/animals/birds/helmeted_guineafowl
+#, fuzzy
+#| msgid "A guinea fowl."
+msgid "A helmeted guinea fowl."
+msgstr "Бисерка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/hen.png
+#: ../stamps/animals/birds/hen
+msgid "A brown hen."
+msgstr "Кафена кокошка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/heron_greatblue.png
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/heron_greatblue_flying.png
+#: ../stamps/animals/birds/heron_greatblue
+#: ../stamps/animals/birds/heron_greatblue_flying
+#, fuzzy
+#| msgid "A blue fedora."
+msgid "A great blue heron."
+msgstr "Сина капа."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/lark.png
+#: ../stamps/animals/birds/lark
+msgid "A lark."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/little-penguin.png
+#: ../stamps/animals/birds/little-penguin
+#, fuzzy
+#| msgid "A brown hen."
+msgid "A little penguin."
+msgstr "Кафена кокошка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/magellanic_penguin.png
+#: ../stamps/animals/birds/magellanic_penguin
+msgid "A Magellanic penguin."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/magpie.png
+#: ../stamps/animals/birds/magpie
+#, fuzzy
+#| msgid "A mango."
+msgid "A magpie."
+msgstr "Манго."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/nandou.png
+#: ../stamps/animals/birds/nandou
+msgid "A rhea."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/ostrich.png
+#: ../stamps/animals/birds/ostrich
+msgid "An ostrich."
+msgstr "Ној."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/owl.png
+#: ../stamps/animals/birds/owl
+#, fuzzy
+#| msgid "A guinea fowl."
+msgid "An owl."
+msgstr "Бисерка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/peacock.png
+#: ../stamps/animals/birds/peacock
+msgid "A peacock (a male peafowl)."
+msgstr "Паун."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/pelican.png
+#: ../stamps/animals/birds/pelican
+#, fuzzy
+#| msgid "A pear."
+msgid "A pelican."
+msgstr "Цреши."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/penguin.png
+#: ../stamps/animals/birds/penguin
+#, fuzzy
+msgid "A penguin."
+msgstr "Шишарка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/pigeon.png
+#: ../stamps/animals/birds/pigeon
+#, fuzzy
+msgid "A pigeon."
+msgstr "Шишарка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/pink_flamingo.png
+#: ../stamps/animals/birds/pink_flamingo
+#, fuzzy
+msgid "A pink flamingo."
+msgstr "Розова торта."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/quetzal.png
+#: ../stamps/animals/birds/quetzal
+msgid "A quetzal."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/rainbow-lorikeet.png
+#: ../stamps/animals/birds/rainbow-lorikeet
+#, fuzzy
+#| msgid "A bat."
+msgid "A rainbow lorikeet."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/rooster.png
+#: ../stamps/animals/birds/rooster
+#, fuzzy
+msgid "A colorful rooster."
+msgstr "Обоено виножито."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/seagull.png
+#: ../stamps/animals/birds/seagull
+#, fuzzy
+#| msgid "A skull."
+msgid "A seagull."
+msgstr "Череп."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/silver-gull.png
+#: ../stamps/animals/birds/silver-gull
+msgid "A Silver Gull."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/swallow.svg
+#: ../stamps/animals/birds/swallow
+#, fuzzy
+#| msgid "A saw."
+msgid "A swallow."
+msgstr "Пила."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/tucan.png
+#: ../stamps/animals/birds/tucan
+#, fuzzy
+msgid "A toucan."
+msgstr "Гумена патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/turkey.png
+#: ../stamps/animals/birds/turkey
+#, fuzzy
+#| msgid "A key."
+msgid "A turkey."
+msgstr "Клуч."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/vulture.png
+#: ../stamps/animals/birds/vulture
+msgid "A vulture."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/cartoon/penguin_with_spider.png
+#: ../stamps/animals/birds/cartoon/penguin_with_spider
+msgid "Tux and spider - two friends."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/cartoon/pengwin.png
+#: ../stamps/animals/birds/cartoon/pengwin
+msgid "Penguins are wining!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/birds/cartoon/tux.png
+#: ../stamps/animals/birds/cartoon/tux
+msgid "Tux—the Linux mascot!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/dinosaur/cartoon/dinosaurSings.png
+#: ../stamps/animals/dinosaur/cartoon/dinosaurSings
+#, fuzzy
+msgid "A singing dinosaur!"
+msgstr "Ѕвезда."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/fish/bluegroper.png
+#: ../stamps/animals/fish/bluegroper
+msgid "George the blue groper."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/fish/butterflyfish.png
+#: ../stamps/animals/fish/butterflyfish
+#, fuzzy
+#| msgid "A butterfly."
+msgid "A butterflyfish."
+msgstr "Пеперутка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/fish/clownfish.png
+#: ../stamps/animals/fish/clownfish
+#, fuzzy
+msgid "A clownfish."
+msgstr "Срце."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/fish/coraltrout.png
+#: ../stamps/animals/fish/coraltrout
+#, fuzzy
+#| msgid "A carrot."
+msgid "A coral trout."
+msgstr "Морков."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/fish/dolphinfish.png
+#: ../stamps/animals/fish/dolphinfish
+#, fuzzy
+#| msgid "A Dolphin Fish."
+msgid "A dolphinfish."
+msgstr "Делфин."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/fish/lionfish.png
+#: ../stamps/animals/fish/lionfish
+msgid "A very poisonous lionfish!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/fish/lobster.png
+#: ../stamps/animals/fish/lobster
+msgid "A spiny lobster, from the Hawaiian islands."
+msgstr "Морски рак, од Хавајските острови."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/fish/moonwrasse.png
+#: ../stamps/animals/fish/moonwrasse
+#, fuzzy
+msgid "A moon wrasse."
+msgstr "Малина."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/fish/seahorse.png
+#: ../stamps/animals/fish/seahorse
+#, fuzzy
+msgid "A seahorse."
+msgstr "Самовилко коњче."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/fish/shrimp.png
+#: ../stamps/animals/fish/shrimp
+msgid "A shrimp."
+msgstr "Морско ракче."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/fish/stripedfish.png
+#: ../stamps/animals/fish/stripedfish
+#, fuzzy
+#| msgid "An ostrich."
+msgid "A stripey fish."
+msgstr "Ној."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/Brown_slug.png
+#: ../stamps/animals/insects/Brown_slug
+#, fuzzy
+msgid "A brown slug."
+msgstr "Кафена кокошка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/Woodlouse.png
+#: ../stamps/animals/insects/Woodlouse
+#, fuzzy
+msgid "A woodlouse."
+msgstr "Самовилко коњче."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/bee.svg
+#: ../stamps/animals/insects/bee
+msgid "A bee."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/fly.png
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/cartoon/fly.png
+#: ../stamps/animals/insects/fly ../stamps/animals/insects/cartoon/fly
+#, fuzzy
+#| msgid "A butterfly."
+msgid "A fly."
+msgstr "Пеперутка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/grasshopper.png
+#: ../stamps/animals/insects/grasshopper
+#, fuzzy
+msgid "A grasshopper."
+msgstr "Надгробна плоча."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/hornet.png
+#: ../stamps/animals/insects/hornet
+#, fuzzy
+msgid "A hornet."
+msgstr "Свечена труба"
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/hoverfly.png
+#: ../stamps/animals/insects/hoverfly
+msgid "A hoverfly resembles a honeybee drone."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/mantis.png
+#: ../stamps/animals/insects/mantis
+#, fuzzy
+msgid "A mantis."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/xanthia.png
+#: ../stamps/animals/insects/xanthia
+msgid "A xanthia."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/cartoon/ant.svg
+#: ../stamps/animals/insects/cartoon/ant
+#, fuzzy
+msgid "An ant."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/cartoon/butterfly.png
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/easter/butterfly.png
+#: ../stamps/animals/insects/cartoon/butterfly
+#: ../stamps/seasonal/easter/butterfly
+msgid "A butterfly."
+msgstr "Пеперутка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/cartoon/dragonfly.png
+#: ../stamps/animals/insects/cartoon/dragonfly
+#, fuzzy
+#| msgid "A drake."
+msgid "A dragonfly."
+msgstr "Патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/cartoon/ladybug-2.png
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/cartoon/ladybug.svg
+#: ../stamps/animals/insects/cartoon/ladybug-2
+#: ../stamps/animals/insects/cartoon/ladybug
+msgid "A ladybug."
+msgstr "Бубамара."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/cartoon/monarchbutterfly.svg
+#: ../stamps/animals/insects/cartoon/monarchbutterfly
+#, fuzzy
+#| msgid "A butterfly."
+msgid "A monarch butterfly."
+msgstr "Пеперутка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/cartoon/snail.png
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/cartoon/snail2.png
+#: ../stamps/animals/insects/cartoon/snail
+#: ../stamps/animals/insects/cartoon/snail2
+#, fuzzy
+msgid "A happy snail."
+msgstr "Весел полжав."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/cartoon/spider.svg
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/cartoon/spider2.svg
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/halloween/spider.png
+#: ../stamps/animals/insects/cartoon/spider
+#: ../stamps/animals/insects/cartoon/spider2
+#: ../stamps/seasonal/halloween/spider
+msgid "A spider."
+msgstr "Пајак."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/cartoon/spider_computer.png
+#: ../stamps/animals/insects/cartoon/spider_computer
+msgid "A spider playing computer games."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/cartoon/spider_fly.png
+#: ../stamps/animals/insects/cartoon/spider_fly
+msgid "A spider dancing with a fly."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/cartoon/spider_football.png
+#: ../stamps/animals/insects/cartoon/spider_football
+msgid "A spider playing soccer."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/insects/cartoon/wings.png
+#: ../stamps/animals/insects/cartoon/wings
+#, fuzzy
+msgid "A couple of wings."
+msgstr "Двоглед."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/lizards/iguana.png
+#: ../stamps/animals/lizards/iguana
+#, fuzzy
+msgid "An iguana."
+msgstr "Кромид."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/badger.png
+#: ../stamps/animals/mammals/badger
+#, fuzzy
+#| msgid "A bat."
+msgid "A badger."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/echidna.png
+#: ../stamps/animals/mammals/echidna
+msgid "An echidna."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/elephant.png
+#: ../stamps/animals/mammals/elephant
+#, fuzzy
+#| msgid "An eggplant."
+msgid "An elephant."
+msgstr "Модар патлиџан."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/ferret.png
+#: ../stamps/animals/mammals/ferret
+#, fuzzy
+#| msgid "A feathered hat."
+msgid "A ferret."
+msgstr "Капа од пердуви."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/giraffe.png
+#: ../stamps/animals/mammals/giraffe
+msgid "A giraffe."
+msgstr "Жирафа."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/hedgehog.png
+#: ../stamps/animals/mammals/hedgehog
+#, fuzzy
+#| msgid "A sliced orange."
+msgid "A hedgehog."
+msgstr "Парче портокал."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/hippopotamus.png
+#: ../stamps/animals/mammals/hippopotamus
+msgid "An hippopotamus."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/pig.png
+#: ../stamps/animals/mammals/pig
+#, fuzzy
+msgid "A pig."
+msgstr "Шишарка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/pig_golden.png
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/pig_golden2.png
+#: ../stamps/animals/mammals/pig_golden ../stamps/animals/mammals/pig_golden2
+msgid "A Tamworth pig."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/rabbit_little.png
+#: ../stamps/animals/mammals/rabbit_little
+#, fuzzy
+#| msgid "A feathered hat."
+msgid "A little rabbit."
+msgstr "Капа од пердуви."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/rhino_black.png
+#: ../stamps/animals/mammals/rhino_black
+#, fuzzy
+#| msgid "A black cat."
+msgid "A male black rhino."
+msgstr "Црна мачка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/wildboar.png
+#: ../stamps/animals/mammals/wildboar
+msgid "Two wild boars."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/apes/chimp.png
+#: ../stamps/animals/mammals/apes/chimp
+#, fuzzy
+msgid "A chimpanzee."
+msgstr "Црвена пиперка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/apes/gorilla.png
+#: ../stamps/animals/mammals/apes/gorilla
+#, fuzzy
+#| msgid "A heart."
+msgid "A gorilla."
+msgstr "Срце."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/apes/tamarin_emperor.png
+#: ../stamps/animals/mammals/apes/tamarin_emperor
+msgid "An emperor tamarin."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/aquatic/dolphin.png
+#: ../stamps/animals/mammals/aquatic/dolphin
+#, fuzzy
+#| msgid "A Dolphin Fish."
+msgid "A dolphin."
+msgstr "Делфин."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/aquatic/orca.png
+#: ../stamps/animals/mammals/aquatic/orca
+#, fuzzy
+#| msgid "An orange."
+msgid "An orca."
+msgstr "Портокал."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/aquatic/otter.png
+#: ../stamps/animals/mammals/aquatic/otter
+#, fuzzy
+#| msgid "An ostrich."
+msgid "An otter."
+msgstr "Ној."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/aquatic/sea_lion.png
+#: ../stamps/animals/mammals/aquatic/sea_lion
+#, fuzzy
+msgid "A sea lion."
+msgstr "Самовилко коњче."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/aquatic/whale.png
+#: ../stamps/animals/mammals/aquatic/whale
+msgid "A whale."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bears/bear.png
+#: ../stamps/animals/mammals/bears/bear
+#, fuzzy
+#| msgid "A pear."
+msgid "A bear."
+msgstr "Цреши."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bears/european-bear.png
+#: ../stamps/animals/mammals/bears/european-bear
+#, fuzzy
+msgid "A european bear."
+msgstr "Авион."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bears/cartoon/teddy_bear.png
+#: ../stamps/animals/mammals/bears/cartoon/teddy_bear
+msgid "Teddy bear."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bears/toys/edward_bear.png
+#: ../stamps/animals/mammals/bears/toys/edward_bear
+msgid "Edward Bear."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bovines/bison.png
+#: ../stamps/animals/mammals/bovines/bison
+#, fuzzy
+#| msgid "A chick."
+msgid "A bison."
+msgstr "Пиле."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bovines/bull.png
+#: ../stamps/animals/mammals/bovines/bull
+#, fuzzy
+#| msgid "A skull."
+msgid "A bull."
+msgstr "Череп."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bovines/cow.png
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bovines/cow_white.png
+#: ../stamps/animals/mammals/bovines/cow
+#: ../stamps/animals/mammals/bovines/cow_white
+#, fuzzy
+#| msgid "A top hat."
+msgid "A cow."
+msgstr "Цилиндер."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bovines/gnu-baby-stand.png
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bovines/gnu-baby.png
+#: ../stamps/animals/mammals/bovines/gnu-baby-stand
+#: ../stamps/animals/mammals/bovines/gnu-baby
+msgid "The baby of a gnu."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bovines/gnu-sitting.png
+#: ../stamps/animals/mammals/bovines/gnu-sitting
+#, fuzzy
+msgid "A sitting gnu."
+msgstr "Ѕвезда."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bovines/gnu-stand.png
+#: ../stamps/animals/mammals/bovines/gnu-stand
+#, fuzzy
+msgid "A blue gnu."
+msgstr "Сина капа."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bovines/goat.png
+#: ../stamps/animals/mammals/bovines/goat
+#, fuzzy
+#| msgid "A heart."
+msgid "A goat."
+msgstr "Срце."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bovines/indian_blackbuck.png
+#: ../stamps/animals/mammals/bovines/indian_blackbuck
+msgid "An Indian blackbuck."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bovines/mountaingoat.png
+#: ../stamps/animals/mammals/bovines/mountaingoat
+#, fuzzy
+msgid "A mountaingoat."
+msgstr "Гумена патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bovines/ram.png
+#: ../stamps/animals/mammals/bovines/ram
+#, fuzzy
+msgid "A ram."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bovines/sheep.png
+#: ../stamps/animals/mammals/bovines/sheep
+#, fuzzy
+#| msgid "A shrimp."
+msgid "A sheep."
+msgstr "Морско ракче."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bovines/sheep_lamb.png
+#: ../stamps/animals/mammals/bovines/sheep_lamb
+msgid "A baby sheep (a lamb)."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bovines/yak.png
+#: ../stamps/animals/mammals/bovines/yak
+#, fuzzy
+#| msgid "A yam."
+msgid "A yak."
+msgstr "Сладок компир."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/bovines/zebu.png
+#: ../stamps/animals/mammals/bovines/zebu
+#, fuzzy
+msgid "A zebu."
+msgstr "Зебра."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/camel/camel.png
+#: ../stamps/animals/mammals/camel/camel
+#, fuzzy
+#| msgid "A camera."
+msgid "A camel."
+msgstr "Камера."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/camel/dromedary.png
+#: ../stamps/animals/mammals/camel/dromedary
+#, fuzzy
+#| msgid "A drake."
+msgid "A dromedary."
+msgstr "Патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/cats/cheetah.svg
+#: ../stamps/animals/mammals/cats/cheetah
+#, fuzzy
+#| msgid "A hand."
+msgid "A cheetah."
+msgstr "Рака."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/cats/kitten.svg
+#: ../stamps/animals/mammals/cats/kitten
+#, fuzzy
+#| msgid "A white flag."
+msgid "A white kitten."
+msgstr "Бело знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/cats/lion-2.png
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/cats/lion.png
+#: ../stamps/animals/mammals/cats/lion-2 ../stamps/animals/mammals/cats/lion
+#, fuzzy
+#| msgid "An onion."
+msgid "A lion."
+msgstr "Кромид."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/cats/tiger.png
+#: ../stamps/animals/mammals/cats/tiger
+#, fuzzy
+msgid "A tiger."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/cats/tiger_sumatran.png
+#: ../stamps/animals/mammals/cats/tiger_sumatran
+msgid "A Sumatran tiger."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/cats/cartoon/lion.png
+#: ../stamps/animals/mammals/cats/cartoon/lion
+#, fuzzy
+msgid "A happy lion!"
+msgstr "Весел полжав."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/deer/caribou.png
+#: ../stamps/animals/mammals/deer/caribou
+#, fuzzy
+#| msgid "A carrot."
+msgid "A caribou."
+msgstr "Морков."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/deer/deer.png
+#: ../stamps/animals/mammals/deer/deer
+msgid "A deer."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/deer/doe.png
+#: ../stamps/animals/mammals/deer/doe
+#, fuzzy
+msgid "A doe."
+msgstr "Подарок."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/deer/wapiti.png
+#: ../stamps/animals/mammals/deer/wapiti
+#, fuzzy
+msgid "A wapiti."
+msgstr "Трага од шепа."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/dogs/dingo.png
+#: ../stamps/animals/mammals/dogs/dingo
+#, fuzzy
+#| msgid "A mango."
+msgid "A dingo."
+msgstr "Манго."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/dogs/dog.png
+#: ../stamps/animals/mammals/dogs/dog
+#, fuzzy
+msgid "A dog."
+msgstr "Подарок."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/dogs/fox.png
+#: ../stamps/animals/mammals/dogs/fox
+#, fuzzy
+msgid "A fox."
+msgstr "Подарок."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/equines/donkey.png
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/equines/donkey_eating.png
+#: ../stamps/animals/mammals/equines/donkey
+#: ../stamps/animals/mammals/equines/donkey_eating
+#, fuzzy
+#| msgid "A key."
+msgid "A donkey."
+msgstr "Клуч."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/equines/horse.png
+#: ../stamps/animals/mammals/equines/horse
+#, fuzzy
+msgid "A horse."
+msgstr "Самовилко коњче."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/equines/zebra.png
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/equines/zebra2.svg
+#: ../stamps/animals/mammals/equines/zebra
+#: ../stamps/animals/mammals/equines/zebra2
+msgid "A zebra."
+msgstr "Зебра."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/rodents/beaver.png
+#: ../stamps/animals/mammals/rodents/beaver
+#, fuzzy
+msgid "A beaver."
+msgstr "Ѕвезда."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/rodents/capybara.png
+#: ../stamps/animals/mammals/rodents/capybara
+msgid "A sleeping capybara."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/rodents/marmot.png
+#: ../stamps/animals/mammals/rodents/marmot
+#, fuzzy
+#| msgid "A mango."
+msgid "A marmot."
+msgstr "Манго."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/rodents/mouse.png
+#: ../stamps/animals/mammals/rodents/mouse
+#, fuzzy
+#| msgid "An ostrich."
+msgid "A mouse."
+msgstr "Ној."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/rodents/rabbit-2.png
+#: ../stamps/animals/mammals/rodents/rabbit-2
+#, fuzzy
+#| msgid "A feathered hat."
+msgid "A big eared rabbit."
+msgstr "Капа од пердуви."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/rodents/rabbit.png
+#: ../stamps/animals/mammals/rodents/rabbit
+#, fuzzy
+msgid "A rabbit."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/rodents/rat.png
+#: ../stamps/animals/mammals/rodents/rat
+#, fuzzy
+msgid "A rat."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/mammals/rodents/squirrel.png
+#: ../stamps/animals/mammals/rodents/squirrel
+#, fuzzy
+msgid "A squirrel."
+msgstr "Војник во падобрански одред."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/marsupials/kangaroo.png
+#: ../stamps/animals/marsupials/kangaroo
+#, fuzzy
+#| msgid "A red flag."
+msgid "A red kangaroo."
+msgstr "Црвено знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/marsupials/koala.png
+#: ../stamps/animals/marsupials/koala
+msgid "A koala."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/marsupials/wombat.png
+#: ../stamps/animals/marsupials/wombat
+#, fuzzy
+#| msgid "A bat."
+msgid "A wombat."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/marsupials/cartoon/kangaroo-silo.png
+#: ../stamps/animals/marsupials/cartoon/kangaroo-silo
+msgid "A kangaroo."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/shellfish/abalone.png
+#: ../stamps/animals/shellfish/abalone
+#, fuzzy
+#| msgid "An almond."
+msgid "An abalone."
+msgstr "Бадем."
+
+#. View at https://tuxpaint.org/stamps/stamps/animals/shellfish/murray-mussel.png
+#: ../stamps/animals/shellfish/murray-mussel
+msgid "A freshwater mussel."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/bellbottoms.svg
+#: ../stamps/clothes/bellbottoms
+#, fuzzy
+#| msgid "A pair of binoculars."
+msgid "A pair of bell bottom pants."
+msgstr "Двоглед."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/bikini.svg
+#: ../stamps/clothes/bikini
+#, fuzzy
+#| msgid "A chick."
+msgid "A bikini."
+msgstr "Пиле."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/black_dress.svg
+#: ../stamps/clothes/black_dress
+#, fuzzy
+#| msgid "A black cat."
+msgid "A black dress."
+msgstr "Црна мачка."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/bluejeans1.svg
+#: ../stamps/clothes/bluejeans1
+#, fuzzy
+#| msgid "A pair of binoculars."
+msgid "A pair of blue jeans with patches."
+msgstr "Двоглед."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/bluejeans2.svg
+#: ../stamps/clothes/bluejeans2
+#, fuzzy
+msgid "A pair of blue jeans."
+msgstr "Двоглед."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/bowtie.svg
+#: ../stamps/clothes/bowtie
+#, fuzzy
+#| msgid "A bat."
+msgid "A bow tie."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/button.png
+#: ../stamps/clothes/button
+#, fuzzy
+#| msgid "A bunny."
+msgid "A button."
+msgstr "Зајче."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/clotheshanger.svg
+#: ../stamps/clothes/clotheshanger
+#, fuzzy
+#| msgid "A wooden cottage."
+msgid "A wooden clothes hanger."
+msgstr "Дрвена куќичка."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/clothespin_new.png
+#: ../stamps/clothes/clothespin_new
+msgid "A modern clothespin."
+msgstr "Модерна штипка."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/clothespin_old.png
+#: ../stamps/clothes/clothespin_old
+msgid "An old-fashioned clothespin."
+msgstr "Старомодна штипка."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/glasses1.svg
+#. View at https://tuxpaint.org/stamps/stamps/clothes/glasses2.svg
+#: ../stamps/clothes/glasses1 ../stamps/clothes/glasses2
+#, fuzzy
+msgid "A pair of glasses."
+msgstr "Двоглед."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hikingboot.svg
+#: ../stamps/clothes/hikingboot
+#, fuzzy
+#| msgid "A lightning bolt."
+msgid "A hiking boot."
+msgstr "Грмотевица"
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/jacket.svg
+#: ../stamps/clothes/jacket
+#, fuzzy
+#| msgid "A green apple."
+msgid "A grey jacket."
+msgstr "Зелено јаболко."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/red_handbag.svg
+#: ../stamps/clothes/red_handbag
+#, fuzzy
+#| msgid "A red flag."
+msgid "A red handbag."
+msgstr "Црвено знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/red_highheel.svg
+#: ../stamps/clothes/red_highheel
+#, fuzzy
+#| msgid "A red apple."
+msgid "A red high-heeled shoe."
+msgstr "Црвено јаболко."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/sunglasses_01.svg
+#. View at https://tuxpaint.org/stamps/stamps/clothes/sunglasses_02.svg
+#: ../stamps/clothes/sunglasses_01 ../stamps/clothes/sunglasses_02
+#, fuzzy
+msgid "A pair of sunglasses."
+msgstr "Двоглед."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/t-shirt_01.svg
+#. View at https://tuxpaint.org/stamps/stamps/clothes/t_tshirt.png
+#: ../stamps/clothes/t-shirt_01 ../stamps/clothes/t_tshirt
+#, fuzzy
+msgid "A t shirt."
+msgstr "Срце."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/t_baseballcap.png
+#: ../stamps/clothes/t_baseballcap
+#, fuzzy
+msgid "A baseball cap."
+msgstr "Многу мало бокалче."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/t_glove.png
+#: ../stamps/clothes/t_glove
+#, fuzzy
+msgid "A glove."
+msgstr "Подарок."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/t_jacket.png
+#: ../stamps/clothes/t_jacket
+#, fuzzy
+#| msgid "A green apple."
+msgid "A jacket."
+msgstr "Зелено јаболко."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/t_pants.png
+#: ../stamps/clothes/t_pants
+#, fuzzy
+msgid "A pair of pants."
+msgstr "Двоглед."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/t_poloshirt.png
+#: ../stamps/clothes/t_poloshirt
+#, fuzzy
+msgid "A polo shirt."
+msgstr "Срце."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/t_scarf.png
+#: ../stamps/clothes/t_scarf
+#, fuzzy
+#| msgid "A star."
+msgid "A scarf."
+msgstr "Ѕвезда."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/t_shirt.png
+#: ../stamps/clothes/t_shirt
+#, fuzzy
+#| msgid "A top hat."
+msgid "A folded shirt."
+msgstr "Цилиндер."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/t_sock.png
+#: ../stamps/clothes/t_sock
+#, fuzzy
+#| msgid "A chick."
+msgid "A sock."
+msgstr "Пиле."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/top_skirt.svg
+#: ../stamps/clothes/top_skirt
+#, fuzzy
+#| msgid "A top hat."
+msgid "A top and skirt."
+msgstr "Цилиндер."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/white_pants.svg
+#: ../stamps/clothes/white_pants
+#, fuzzy
+msgid "A pair of white pants."
+msgstr "Двоглед."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/armor/cartoon/knight_helmet.png
+#: ../stamps/clothes/armor/cartoon/knight_helmet
+msgid "A knight’s helmet."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/blue_fedora.svg
+#: ../stamps/clothes/hats/blue_fedora
+msgid "A blue fedora."
+msgstr "Сина капа."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/brownhat.svg
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/brownhat2.svg
+#: ../stamps/clothes/hats/brownhat ../stamps/clothes/hats/brownhat2
+#, fuzzy
+#| msgid "A brown hen."
+msgid "A brown hat."
+msgstr "Кафена кокошка."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/cowboy_hat.svg
+#: ../stamps/clothes/hats/cowboy_hat
+#, fuzzy
+#| msgid "A top hat."
+msgid "A cowboy hat."
+msgstr "Цилиндер."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/crown1.svg
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/crown2.svg
+#: ../stamps/clothes/hats/crown1 ../stamps/clothes/hats/crown2
+#, fuzzy
+#| msgid "A carrot."
+msgid "A crown."
+msgstr "Морков."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/elfhat.svg
+#: ../stamps/clothes/hats/elfhat
+#, fuzzy
+#| msgid "A green fedora."
+msgid "A green hat."
+msgstr "Зелена капа."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/feathered_hat.svg
+#: ../stamps/clothes/hats/feathered_hat
+msgid "A feathered hat."
+msgstr "Капа од пердуви."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/green_fedora.svg
+#: ../stamps/clothes/hats/green_fedora
+msgid "A green fedora."
+msgstr "Зелена капа."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/greenhat.svg
+#: ../stamps/clothes/hats/greenhat
+#, fuzzy
+#| msgid "A green fedora."
+msgid "A green Irish hat."
+msgstr "Зелена капа."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/hardhat.svg
+#: ../stamps/clothes/hats/hardhat
+#, fuzzy
+#| msgid "A yellow pear."
+msgid "A yellow hard hat."
+msgstr "Жолта круша."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/mortarboard.svg
+#: ../stamps/clothes/hats/mortarboard
+msgid "A hat worn by a university student."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/propeller_hat.svg
+#: ../stamps/clothes/hats/propeller_hat
+#, fuzzy
+#| msgid "A party hat."
+msgid "A propeller hat."
+msgstr "Свечено капче."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/purplehat.svg
+#: ../stamps/clothes/hats/purplehat
+#, fuzzy
+#| msgid "A party hat."
+msgid "A purple hat."
+msgstr "Свечено капче."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/sombrero.svg
+#: ../stamps/clothes/hats/sombrero
+msgid "A sombrero."
+msgstr "Сомбреро."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/tophat.svg
+#: ../stamps/clothes/hats/tophat
+msgid "A top hat."
+msgstr "Цилиндер."
+
+#. View at https://tuxpaint.org/stamps/stamps/clothes/hats/wizardhat.svg
+#: ../stamps/clothes/hats/wizardhat
+#, fuzzy
+#| msgid "A party hat."
+msgid "A wizard's hat."
+msgstr "Свечено капче."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/bread.svg
+#: ../stamps/food/bread
+msgid "Eat your bread!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/food/cheese.svg
+#: ../stamps/food/cheese
+msgid "Say cheese!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/food/loaf_of_bread.svg
+#: ../stamps/food/loaf_of_bread
+msgid "Bread, sliced, and shared by everyone."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/food/pizza.png
+#: ../stamps/food/pizza
+#, fuzzy
+msgid "A quarter of pizza."
+msgstr "Двоглед."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/dessert/smallcake.svg
+#: ../stamps/food/dessert/smallcake
+#, fuzzy
+msgid "A cupcake."
+msgstr "Розова торта."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/dessert/cartoon/birthday_cake.svg
+#: ../stamps/food/dessert/cartoon/birthday_cake
+msgid "A birthday cake."
+msgstr "Роденденска торта."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/dessert/cartoon/pink_cake.svg
+#: ../stamps/food/dessert/cartoon/pink_cake
+#, fuzzy
+msgid "A pink cake."
+msgstr "Розова торта."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/Apricot_whole.png
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/apricot.png
+#: ../stamps/food/fruit/Apricot_whole ../stamps/food/fruit/apricot
+#, fuzzy
+msgid "An apricot."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/Cherry_Stella.png
+#: ../stamps/food/fruit/Cherry_Stella
+#, fuzzy
+msgid "A pair of cherries."
+msgstr "Двоглед."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/Strawberry2.png
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/strawberry.png
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/strawberry.svg
+#: ../stamps/food/fruit/Strawberry2 ../stamps/food/fruit/strawberry
+#: ../stamps/food/fruit/cartoon/strawberry
+msgid "A strawberry."
+msgstr "Јагода."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/apple_fuji.png
+#: ../stamps/food/fruit/apple_fuji
+#, fuzzy
+msgid "A “Fuji” apple."
+msgstr "Фуџи јаболко."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/apple_granny_smith.png
+#: ../stamps/food/fruit/apple_granny_smith
+#, fuzzy
+msgid "A “Granny Smith” apple."
+msgstr "Фуџи јаболко."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/apple_green.png
+#: ../stamps/food/fruit/apple_green
+msgid "A green apple."
+msgstr "Зелено јаболко."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/apple_red.png
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/apple.svg
+#: ../stamps/food/fruit/apple_red ../stamps/food/fruit/cartoon/apple
+msgid "A red apple."
+msgstr "Црвено јаболко."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/apple_sierra_beauty.png
+#: ../stamps/food/fruit/apple_sierra_beauty
+#, fuzzy
+msgid "A “Sierra Beauty” apple."
+msgstr "Фуџи јаболко."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/avocado.png
+#: ../stamps/food/fruit/avocado
+#, fuzzy
+msgid "An avocado fruit."
+msgstr "Срце."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/banana.png
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/banana.svg
+#: ../stamps/food/fruit/banana ../stamps/food/fruit/cartoon/banana
+msgid "A banana."
+msgstr "Банана."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cherimoya.png
+#: ../stamps/food/fruit/cherimoya
+#, fuzzy
+msgid "A cherimoya fruit."
+msgstr "Срце."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/grapes.png
+#: ../stamps/food/fruit/grapes
+#, fuzzy
+#| msgid "A cluster of grapes."
+msgid "A bunch of grapes."
+msgstr "Грозд."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/kiwi.png
+#: ../stamps/food/fruit/kiwi
+#, fuzzy
+msgid "A kiwifruit."
+msgstr "Подарок."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/lemon.png
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/lemon.svg
+#: ../stamps/food/fruit/lemon ../stamps/food/fruit/cartoon/lemon
+msgid "A yellow lemon."
+msgstr "Жолт лимон."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/mandarine.png
+#: ../stamps/food/fruit/mandarine
+#, fuzzy
+#| msgid "An orange."
+msgid "A mandarin orange."
+msgstr "Портокал."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/mango.png
+#: ../stamps/food/fruit/mango
+msgid "A mango."
+msgstr "Манго."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/orange.png
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/orange.svg
+#: ../stamps/food/fruit/orange ../stamps/food/fruit/cartoon/orange
+msgid "An orange."
+msgstr "Портокал."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/orange_seville.png
+#: ../stamps/food/fruit/orange_seville
+msgid "A Seville orange, also called a bitter orange."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/pear.png
+#: ../stamps/food/fruit/pear
+msgid "A yellow pear."
+msgstr "Жолта круша."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/pineapple.png
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/pineapple.svg
+#: ../stamps/food/fruit/pineapple ../stamps/food/fruit/cartoon/pineapple
+msgid "A pineapple."
+msgstr "Ананас."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/pomegranate.png
+#: ../stamps/food/fruit/pomegranate
+msgid "A pomegranate."
+msgstr "Калинка."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/raspberry.png
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/raspberry.svg
+#: ../stamps/food/fruit/raspberry ../stamps/food/fruit/cartoon/raspberry
+msgid "A raspberry."
+msgstr "Малина."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/sliced_lime.png
+#: ../stamps/food/fruit/sliced_lime
+msgid "A sliced lime."
+msgstr "Парче лимон."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/sliced_orange.png
+#: ../stamps/food/fruit/sliced_orange
+msgid "A sliced orange."
+msgstr "Парче портокал."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/apple_core.png
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/apple_core_01.svg
+#: ../stamps/food/fruit/cartoon/apple_core
+#: ../stamps/food/fruit/cartoon/apple_core_01
+msgid "An apple core."
+msgstr "Срцевина од јаболка."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/blueberry.svg
+#: ../stamps/food/fruit/cartoon/blueberry
+#, fuzzy
+#| msgid "Some cherries."
+msgid "Some blueberries."
+msgstr "Цреши."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/cherries.svg
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/cherries2.svg
+#: ../stamps/food/fruit/cartoon/cherries ../stamps/food/fruit/cartoon/cherries2
+msgid "Some cherries."
+msgstr "Цреши."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/grapes.svg
+#: ../stamps/food/fruit/cartoon/grapes
+msgid "A cluster of grapes."
+msgstr "Грозд."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/lemon_slice.svg
+#: ../stamps/food/fruit/cartoon/lemon_slice
+msgid "A lemon slice."
+msgstr "Парче лимон."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/peach.svg
+#: ../stamps/food/fruit/cartoon/peach
+#, fuzzy
+#| msgid "A pear."
+msgid "A peach."
+msgstr "Цреши."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/pear.svg
+#: ../stamps/food/fruit/cartoon/pear
+msgid "A pear."
+msgstr "Цреши."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/prune.svg
+#: ../stamps/food/fruit/cartoon/prune
+msgid "A prune."
+msgstr "Слива."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/fruit/cartoon/watermelon.svg
+#: ../stamps/food/fruit/cartoon/watermelon
+#, fuzzy
+msgid "A watermelon."
+msgstr "Роза."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/nuts/almond.png
+#: ../stamps/food/nuts/almond
+msgid "An almond."
+msgstr "Бадем."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/nuts/pecan.png
+#: ../stamps/food/nuts/pecan
+#, fuzzy
+#| msgid "A pear."
+msgid "A pecan."
+msgstr "Цреши."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/nuts/walnut.png
+#: ../stamps/food/nuts/walnut
+msgid "A walnut."
+msgstr "Орев."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/nuts/walnut_shelled.png
+#: ../stamps/food/nuts/walnut_shelled
+msgid "A walnut in its shell."
+msgstr "Орев во својата лушпа."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/spices/ginger.png
+#: ../stamps/food/spices/ginger
+#, fuzzy
+msgid "A ginger 'root'."
+msgstr "Грмотевица"
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/broccoli.png
+#: ../stamps/food/vegetables/broccoli
+msgid "Eat your broccoli!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/carrot.png
+#: ../stamps/food/vegetables/carrot
+msgid "A carrot."
+msgstr "Морков."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/chilepepper.png
+#: ../stamps/food/vegetables/chilepepper
+#, fuzzy
+msgid "A chile pepper."
+msgstr "Црвена пиперка."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/corn.png
+#: ../stamps/food/vegetables/corn
+#, fuzzy
+#| msgid "A yellow lemon."
+msgid "Sweet yellow corn."
+msgstr "Жолт лимон."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/eggplant.png
+#: ../stamps/food/vegetables/eggplant
+msgid "An eggplant."
+msgstr "Модар патлиџан."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/garlic.png
+#: ../stamps/food/vegetables/garlic
+msgid "A garlic bulb."
+msgstr "Главица лук."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/garlics.png
+#: ../stamps/food/vegetables/garlics
+#, fuzzy
+#| msgid "A cluster of grapes."
+msgid "A string of garlic."
+msgstr "Грозд."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/lettuce.png
+#: ../stamps/food/vegetables/lettuce
+#, fuzzy
+msgid "A head of lettuce."
+msgstr "Зелена салата."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/mushroom.png
+#: ../stamps/food/vegetables/mushroom
+msgid "A mushroom."
+msgstr "Печурка."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/onion.png
+#: ../stamps/food/vegetables/onion
+msgid "An onion."
+msgstr "Кромид."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/pattypan_squash.png
+#: ../stamps/food/vegetables/pattypan_squash
+msgid "A “pattypan” squash."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/pepper.png
+#: ../stamps/food/vegetables/pepper
+msgid "A green pepper."
+msgstr "Зелена пиперка."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/potato.png
+#: ../stamps/food/vegetables/potato
+msgid "A brown potato."
+msgstr "Кафен компир."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/pumpkin_small.png
+#: ../stamps/food/vegetables/pumpkin_small
+msgid "A very small pumpkin."
+msgstr "Многу мала тиква."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/redlettuce.png
+#: ../stamps/food/vegetables/redlettuce
+#, fuzzy
+msgid "A head of red lettuce."
+msgstr "Зелена салата."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/tomato.png
+#: ../stamps/food/vegetables/tomato
+msgid "A ripe, red tomato!"
+msgstr "Зрел, црвен патлиџан!"
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/yam.png
+#: ../stamps/food/vegetables/yam
+msgid "A yam."
+msgstr "Сладок компир."
+
+#. View at https://tuxpaint.org/stamps/stamps/food/vegetables/yellowpepper.png
+#: ../stamps/food/vegetables/yellowpepper
+msgid "A yellow pepper."
+msgstr "Жолта пиперка."
+
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/binoculars.png
+#: ../stamps/hobbies/binoculars
+msgid "A pair of binoculars."
+msgstr "Двоглед."
+
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/camera_35mm.png
+#: ../stamps/hobbies/camera_35mm
+msgid "A camera."
+msgstr "Камера."
+
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/kite.svg
+#: ../stamps/hobbies/kite
+#, fuzzy
+#| msgid "A key."
+msgid "A kite."
+msgstr "Клуч."
+
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/knitting.svg
+#: ../stamps/hobbies/knitting
+#, fuzzy
+msgid "Knitting."
+msgstr "Ѕвезда."
+
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/music/brass/trumpet.png
+#: ../stamps/hobbies/music/brass/trumpet
+#, fuzzy
+#| msgid "A trophy cup."
+msgid "A trumpet."
+msgstr "Пехар."
+
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/music/percussion/cymbal_crash.png
+#: ../stamps/hobbies/music/percussion/cymbal_crash
+msgid "A crash cymbal."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/music/percussion/drum_tomtom_floor.png
+#: ../stamps/hobbies/music/percussion/drum_tomtom_floor
+msgid "A floor tom drum."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/music/percussion/drumkit.png
+#: ../stamps/hobbies/music/percussion/drumkit
+#, fuzzy
+#| msgid "A key."
+msgid "A drum kit."
+msgstr "Клуч."
+
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/music/string/cello.png
+#: ../stamps/hobbies/music/string/cello
+#, fuzzy
+#| msgid "A camera."
+msgid "A cello."
+msgstr "Камера."
+
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/music/string/guitar2.png
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/music/string/guitar_electric.png
+#: ../stamps/hobbies/music/string/guitar2
+#: ../stamps/hobbies/music/string/guitar_electric
+#, fuzzy
+#| msgid "A star."
+msgid "An electric guitar."
+msgstr "Ѕвезда."
+
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/music/string/guitar_classical.png
+#: ../stamps/hobbies/music/string/guitar_classical
+#, fuzzy
+#| msgid "A star."
+msgid "A classical guitar."
+msgstr "Ѕвезда."
+
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/music/string/guitar_electric_bass.png
+#: ../stamps/hobbies/music/string/guitar_electric_bass
+#, fuzzy
+#| msgid "A star."
+msgid "An electric bass guitar."
+msgstr "Ѕвезда."
+
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/music/string/guitar_electric_bass2.svg
+#: ../stamps/hobbies/music/string/guitar_electric_bass2
+#, fuzzy
+#| msgid "A star."
+msgid "A bass guitar."
+msgstr "Ѕвезда."
+
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/music/string/violin.png
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/music/string/violin2.svg
+#: ../stamps/hobbies/music/string/violin ../stamps/hobbies/music/string/violin2
+msgid "A violin."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/hobbies/music/wind/bassoon.png
+#: ../stamps/hobbies/music/wind/bassoon
+#, fuzzy
+msgid "A bassoon."
+msgstr "Шишарка."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/Lightbulb.png
+#: ../stamps/household/Lightbulb
+#, fuzzy
+msgid "A lightbulb."
+msgstr "Главица лук."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/Washing-machine.svg
+#: ../stamps/household/Washing-machine
+#, fuzzy
+msgid "A washing machine."
+msgstr "Грмотевица"
+
+#. View at https://tuxpaint.org/stamps/stamps/household/clothes_iron.svg
+#: ../stamps/household/clothes_iron
+#, fuzzy
+#| msgid "An old-fashioned clothespin."
+msgid "An iron for ironing clothes."
+msgstr "Старомодна штипка."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/cylinder.png
+#: ../stamps/household/cylinder
+#, fuzzy
+#| msgid "A spider."
+msgid "A gas cylinder."
+msgstr "Пајак."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/fridge.svg
+#: ../stamps/household/fridge
+#, fuzzy
+msgid "A fridge."
+msgstr "Шишарка."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/garbagecan.png
+#. View at https://tuxpaint.org/stamps/stamps/household/trash_can.svg
+#: ../stamps/household/garbagecan ../stamps/household/trash_can
+msgid "A silver garbage can."
+msgstr "Сребрена канта за ѓубре."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/globe.svg
+#: ../stamps/household/globe
+#, fuzzy
+#| msgid "A heart."
+msgid "A model of the earth."
+msgstr "Срце."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/home_compost_bin.png
+#: ../stamps/household/home_compost_bin
+msgid "A home compost bin."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/kettle.png
+#: ../stamps/household/kettle
+msgid "An electric kettle."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/key.png
+#: ../stamps/household/key
+msgid "A key."
+msgstr "Клуч."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/microwave.svg
+#: ../stamps/household/microwave
+#, fuzzy
+#| msgid "A brown hen."
+msgid "A microwave oven."
+msgstr "Кафена кокошка."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/padlock_closed.svg
+#: ../stamps/household/padlock_closed
+#, fuzzy
+#| msgid "A chick."
+msgid "A closed padlock."
+msgstr "Пиле."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/padlock_open.svg
+#: ../stamps/household/padlock_open
+msgid "An open padlock."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/recyclingbox.svg
+#. View at https://tuxpaint.org/stamps/stamps/household/recyclingbox2.svg
+#: ../stamps/household/recyclingbox ../stamps/household/recyclingbox2
+msgid "A box for trash that can be recycled."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/rubberduck.png
+#: ../stamps/household/rubberduck
+msgid "A rubber duck."
+msgstr "Гумена патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/tealight.svg
+#: ../stamps/household/tealight
+#, fuzzy
+#| msgid "A candle."
+msgid "A tealight candle."
+msgstr "Свеќа."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/toilet.png
+#: ../stamps/household/toilet
+msgid "Remember to flush the toilet and wash your hands with soap!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/umbrella.svg
+#: ../stamps/household/umbrella
+#, fuzzy
+#| msgid "A red flag."
+msgid "A red umbrella."
+msgstr "Црвено знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/vacuum_cleaner.svg
+#: ../stamps/household/vacuum_cleaner
+#, fuzzy
+msgid "A vacuum cleaner."
+msgstr "Шеќерно стапче."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/wheelie_bin.png
+#: ../stamps/household/wheelie_bin
+msgid "A wheelie bin! Give me your trash!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/arttools/Pencil.svg
+#. View at https://tuxpaint.org/stamps/stamps/household/arttools/pencil2.svg
+#: ../stamps/household/arttools/Pencil ../stamps/household/arttools/pencil2
+#, fuzzy
+msgid "A pencil."
+msgstr "Шишарка."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/arttools/ballpointpen.svg
+#. View at https://tuxpaint.org/stamps/stamps/household/arttools/biro.svg
+#: ../stamps/household/arttools/ballpointpen ../stamps/household/arttools/biro
+#, fuzzy
+#| msgid "A brown hen."
+msgid "A ball point pen."
+msgstr "Кафена кокошка."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/arttools/highlighter.png
+#: ../stamps/household/arttools/highlighter
+#, fuzzy
+#| msgid "A lightning bolt."
+msgid "A highlighting pen."
+msgstr "Грмотевица"
+
+#. View at https://tuxpaint.org/stamps/stamps/household/arttools/painttube.svg
+#: ../stamps/household/arttools/painttube
+#, fuzzy
+msgid "A tube of paint."
+msgstr "Двоглед."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/arttools/pen_dryerase.png
+#: ../stamps/household/arttools/pen_dryerase
+#, fuzzy
+#| msgid "A lemon slice."
+msgid "A dry erase marker."
+msgstr "Парче лимон."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/arttools/scissors_small_closed.png
+#: ../stamps/household/arttools/scissors_small_closed
+msgid "A pair of closed scissors."
+msgstr "Пар затворени ножици."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/arttools/scissors_small_open.png
+#: ../stamps/household/arttools/scissors_small_open
+msgid "A pair of open scissors."
+msgstr "Пар отворени ножици."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/dishes/bottle.svg
+#: ../stamps/household/dishes/bottle
+#, fuzzy
+#| msgid "A bat."
+msgid "A bottle."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/dishes/coffeecup.svg
+#: ../stamps/household/dishes/coffeecup
+#, fuzzy
+msgid "A cup of coffee."
+msgstr "Розова торта."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/dishes/expresso.svg
+#: ../stamps/household/dishes/expresso
+#, fuzzy
+msgid "A cup of espresso coffee."
+msgstr "Розова торта."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/dishes/fork.svg
+#. View at https://tuxpaint.org/stamps/stamps/household/dishes/cartoon/fork.svg
+#: ../stamps/household/dishes/fork ../stamps/household/dishes/cartoon/fork
+#, fuzzy
+msgid "A fork."
+msgstr "Подарок."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/dishes/glass.png
+#: ../stamps/household/dishes/glass
+msgid "A glass of water."
+msgstr "Чаша со вода."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/dishes/knife.svg
+#: ../stamps/household/dishes/knife
+#, fuzzy
+#| msgid "A key."
+msgid "A knife."
+msgstr "Клуч."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/dishes/mug.png
+#: ../stamps/household/dishes/mug
+msgid "A mug."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/dishes/pitcher_small.png
+#: ../stamps/household/dishes/pitcher_small
+#, fuzzy
+msgid "A very small pitcher."
+msgstr "Многу мало бокалче."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/dishes/spoon.svg
+#. View at https://tuxpaint.org/stamps/stamps/household/dishes/cartoon/spoon.svg
+#: ../stamps/household/dishes/spoon ../stamps/household/dishes/cartoon/spoon
+#, fuzzy
+msgid "A spoon."
+msgstr "Шишарка."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/dishes/teapot.png
+#: ../stamps/household/dishes/teapot
+msgid "A teapot."
+msgstr "Чајник."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/dishes/cartoon/pasta_pot.png
+#: ../stamps/household/dishes/cartoon/pasta_pot
+msgid "A large pot for pasta and soup."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/dishes/cartoon/pressure_cooker.png
+#: ../stamps/household/dishes/cartoon/pressure_cooker
+msgid "A pressure cooker."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/dishes/utensils/nutcracker.png
+#: ../stamps/household/dishes/utensils/nutcracker
+#, fuzzy
+msgid "A nutcracker."
+msgstr "Кршало за ореви."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/dishes/utensils/pepper_grinder.png
+#: ../stamps/household/dishes/utensils/pepper_grinder
+#, fuzzy
+#| msgid "A spider."
+msgid "A pepper grinder."
+msgstr "Пајак."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/electronics/DSLR_Camera.svg
+#: ../stamps/household/electronics/DSLR_Camera
+#, fuzzy
+#| msgid "A camera."
+msgid "A big digital camera."
+msgstr "Камера."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/electronics/calculator.svg
+#: ../stamps/household/electronics/calculator
+msgid "A calculator.  6x7=42"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/electronics/camera.svg
+#: ../stamps/household/electronics/camera
+msgid "A camera.  Say Cheese!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/electronics/compact_disc.svg
+#: ../stamps/household/electronics/compact_disc
+msgid "A compact disc for music, movies, or data!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/electronics/digitalcamera.svg
+#: ../stamps/household/electronics/digitalcamera
+#, fuzzy
+#| msgid "A camera."
+msgid "A digital camera."
+msgstr "Камера."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/electronics/inkjet_printer.svg
+#: ../stamps/household/electronics/inkjet_printer
+msgid "Inkjet Printer.  Print this picture, please!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/electronics/laptop.svg
+#: ../stamps/household/electronics/laptop
+msgid "A laptop computer.  Tap. Tap. Tap."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/electronics/laser_printer.svg
+#: ../stamps/household/electronics/laser_printer
+msgid "Laser Printer.  Zip, zap, wow!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/electronics/mobile.svg
+#: ../stamps/household/electronics/mobile
+msgid "A mobile telephone.  Do you hear what I hear?"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/electronics/monitor.svg
+#: ../stamps/household/electronics/monitor
+msgid "A computer monitor. Do you see what I see?"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/electronics/mouse.svg
+#: ../stamps/household/electronics/mouse
+msgid "A computer mouse. Squeak!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/electronics/phone.svg
+#: ../stamps/household/electronics/phone
+msgid "A telephone.  Hello? Hello?"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/tools/cementmixer.png
+#: ../stamps/household/tools/cementmixer
+#, fuzzy
+#| msgid "A lemon slice."
+msgid "A cement mixer."
+msgstr "Парче лимон."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/tools/hammer.png
+#. View at https://tuxpaint.org/stamps/stamps/household/tools/hammer2.svg
+#: ../stamps/household/tools/hammer ../stamps/household/tools/hammer2
+msgid "A hammer."
+msgstr "Чекан."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/tools/mallet_metal.png
+#: ../stamps/household/tools/mallet_metal
+msgid "A large metal mallet."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/tools/measuring_tape.png
+#: ../stamps/household/tools/measuring_tape
+msgid "Measuring tape."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/household/tools/paintbrush_large.png
+#: ../stamps/household/tools/paintbrush_large
+msgid "A large paintbrush."
+msgstr "Голема четка."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/tools/plyers.png
+#: ../stamps/household/tools/plyers
+#, fuzzy
+msgid "A pair of pliers."
+msgstr "Двоглед."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/tools/saw.png
+#: ../stamps/household/tools/saw
+msgid "A saw."
+msgstr "Пила."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/tools/screwdriver.svg
+#: ../stamps/household/tools/screwdriver
+#, fuzzy
+#| msgid "A sliced lime."
+msgid "A screwdriver."
+msgstr "Парче лимон."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/tools/spade.png
+#: ../stamps/household/tools/spade
+#, fuzzy
+#| msgid "A green apple."
+msgid "A garden spade."
+msgstr "Зелено јаболко."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/tools/toolbox.png
+#: ../stamps/household/tools/toolbox
+msgid "A toolbox."
+msgstr "Кутија за алат."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/tools/wrench.png
+#: ../stamps/household/tools/wrench
+msgid "A wrench."
+msgstr "Клуч."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/tools/wrench_adjustable.png
+#: ../stamps/household/tools/wrench_adjustable
+#, fuzzy
+#| msgid "A plumber’s wrench."
+msgid "An adjustable wrench."
+msgstr "Водоводџиски клуч."
+
+#. View at https://tuxpaint.org/stamps/stamps/household/tools/wrench_plumbers.png
+#: ../stamps/household/tools/wrench_plumbers
+msgid "A plumber’s wrench."
+msgstr "Водоводџиски клуч."
+
+#. View at https://tuxpaint.org/stamps/stamps/medical/bandage_adhesive.png
+#: ../stamps/medical/bandage_adhesive
+#, fuzzy
+#| msgid "A banana."
+msgid "An adhesive bandage."
+msgstr "Банана."
+
+#. View at https://tuxpaint.org/stamps/stamps/medical/digitalthermometer.svg
+#: ../stamps/medical/digitalthermometer
+msgid "A digital thermometer for taking your temperature."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/medical/mercurythermometer.png
+#: ../stamps/medical/mercurythermometer
+msgid "A mercury thermometer."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/medical/stethoscope.png
+#: ../stamps/medical/stethoscope
+msgid "A stethoscope lets your doctor listen to your heart and lungs."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/medical/syringe.png
+#: ../stamps/medical/syringe
+#, fuzzy
+#| msgid "An orange."
+msgid "A syringe."
+msgstr "Портокал."
+
+#. View at https://tuxpaint.org/stamps/stamps/medical/tooth.png
+#: ../stamps/medical/tooth
+#, fuzzy
+#| msgid "A toolbox."
+msgid "A tooth."
+msgstr "Кутија за алат."
+
+#. View at https://tuxpaint.org/stamps/stamps/military/final-roll-call.png
+#: ../stamps/military/final-roll-call
+msgid "We remember those who have died."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/military/fireman240a.png
+#. View at https://tuxpaint.org/stamps/stamps/people/fireman200b.png
+#. View at https://tuxpaint.org/stamps/stamps/people/fireman240a.png
+#: ../stamps/military/fireman240a ../stamps/people/fireman200b
+#: ../stamps/people/fireman240a
+msgid "A fireman."
+msgstr "Пожарникар."
+
+#. View at https://tuxpaint.org/stamps/stamps/military/longsword.svg
+#: ../stamps/military/longsword
+#, fuzzy
+msgid "A long sword."
+msgstr "Подарок."
+
+#. View at https://tuxpaint.org/stamps/stamps/military/paratrooper.png
+#: ../stamps/military/paratrooper
+msgid "A paratrooper."
+msgstr "Војник во падобрански одред."
+
+#. View at https://tuxpaint.org/stamps/stamps/military/ammunition/bullet.svg
+#: ../stamps/military/ammunition/bullet
+#, fuzzy
+#| msgid "A skull."
+msgid "A bullet."
+msgstr "Череп."
+
+#. View at https://tuxpaint.org/stamps/stamps/military/ammunition/old_naval_shell.png
+#: ../stamps/military/ammunition/old_naval_shell
+msgid "This shell is hundreds of years old!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/military/vehicles/bradley.png
+#: ../stamps/military/vehicles/bradley
+msgid "A tough APC like this M-3 Bradley Fighting Vehicle gets you to battle, and then it joins the action!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/military/vehicles/f22_raptor.png
+#: ../stamps/military/vehicles/f22_raptor
+msgid "An F-22 Raptor."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/military/vehicles/infantry-stryker.png
+#: ../stamps/military/vehicles/infantry-stryker
+msgid "With a fast APC like this Stryker, you can surprise the enemy."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/military/vehicles/mustang.svg
+#: ../stamps/military/vehicles/mustang
+#, fuzzy
+#| msgid "An airplane."
+msgid "A mustang airplane."
+msgstr "Авион."
+
+#. View at https://tuxpaint.org/stamps/stamps/military/vehicles/ww2_german_gun.png
+#: ../stamps/military/vehicles/ww2_german_gun
+msgid "This gun last saw service during World War 2."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/naturalforces/explosion.png
+#: ../stamps/naturalforces/explosion
+msgid "Boom!!!"
+msgstr "Грмеж!!!"
+
+#. View at https://tuxpaint.org/stamps/stamps/naturalforces/fire.png
+#: ../stamps/naturalforces/fire
+msgid "Fire! Fire! Fire!"
+msgstr "Оган! Оган! Оган!"
+
+#. View at https://tuxpaint.org/stamps/stamps/naturalforces/lightningbolt.png
+#: ../stamps/naturalforces/lightningbolt
+msgid "A lightning bolt."
+msgstr "Грмотевица"
+
+#. View at https://tuxpaint.org/stamps/stamps/people/body_parts/eye.png
+#. View at https://tuxpaint.org/stamps/stamps/people/body_parts/eye2_drawing.svg
+#: ../stamps/people/body_parts/eye ../stamps/people/body_parts/eye2_drawing
+#, fuzzy
+#| msgid "A key."
+msgid "An eye."
+msgstr "Клуч."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/body_parts/eye_blue_left.svg
+#: ../stamps/people/body_parts/eye_blue_left
+#, fuzzy
+msgid "A blue eye."
+msgstr "Сина капа."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/body_parts/eye_brown_left.svg
+#: ../stamps/people/body_parts/eye_brown_left
+#, fuzzy
+#| msgid "A brown hen."
+msgid "A brown eye."
+msgstr "Кафена кокошка."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/body_parts/eye_green_left.svg
+#: ../stamps/people/body_parts/eye_green_left
+#, fuzzy
+#| msgid "A green pepper."
+msgid "A green eye."
+msgstr "Зелена пиперка."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/body_parts/eye_yellow.svg
+#: ../stamps/people/body_parts/eye_yellow
+#, fuzzy
+#| msgid "A yellow pepper."
+msgid "A yellow eye."
+msgstr "Жолта пиперка."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/body_parts/girlface.svg
+#: ../stamps/people/body_parts/girlface
+#, fuzzy
+#| msgid "A feathered hat."
+msgid "A female head."
+msgstr "Капа од пердуви."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/body_parts/hair_manga.svg
+#: ../stamps/people/body_parts/hair_manga
+msgid "Silver pig tails."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/people/body_parts/hair_manga_2.svg
+#: ../stamps/people/body_parts/hair_manga_2
+#, fuzzy
+#| msgid "A brown hen."
+msgid "Brown hair."
+msgstr "Кафена кокошка."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/body_parts/head_female.svg
+#: ../stamps/people/body_parts/head_female
+#, fuzzy
+#| msgid "A hand."
+msgid "A head."
+msgstr "Рака."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/body_parts/manga_eye_left.svg
+#: ../stamps/people/body_parts/manga_eye_left
+#, fuzzy
+#| msgid "Eighth note."
+msgid "Left eye."
+msgstr "Осмина нота."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/body_parts/manga_eye_right.svg
+#: ../stamps/people/body_parts/manga_eye_right
+#, fuzzy
+#| msgid "Eighth note."
+msgid "Right eye."
+msgstr "Осмина нота."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/body_parts/moustache.svg
+#: ../stamps/people/body_parts/moustache
+#, fuzzy
+#| msgid "An ostrich."
+msgid "A moustache."
+msgstr "Ној."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/body_parts/wig.svg
+#. View at https://tuxpaint.org/stamps/stamps/people/body_parts/wig2.svg
+#. View at https://tuxpaint.org/stamps/stamps/people/body_parts/wig3.svg
+#: ../stamps/people/body_parts/wig ../stamps/people/body_parts/wig2
+#: ../stamps/people/body_parts/wig3
+msgid "Hair."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/people/cartoon/girl_in_wheelchair.svg
+#: ../stamps/people/cartoon/girl_in_wheelchair
+msgid "A girl in a wheelchair."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/people/cartoon/man_in_suit.svg
+#: ../stamps/people/cartoon/man_in_suit
+#, fuzzy
+msgid "A man in a suit."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/cartoon/mermaid.png
+#: ../stamps/people/cartoon/mermaid
+msgid "A mermaid."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/people/cartoon/scarecrow.svg
+#: ../stamps/people/cartoon/scarecrow
+#, fuzzy
+msgid "A scarecrow."
+msgstr "Морков."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/cartoon/snowman.png
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/winter/snowman.svg
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/winter/snowman2.svg
+#: ../stamps/people/cartoon/snowman ../stamps/seasonal/winter/snowman
+#: ../stamps/seasonal/winter/snowman2
+#, fuzzy
+#| msgid "A carrot."
+msgid "A snowman."
+msgstr "Морков."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/cartoon/woman_chemist.svg
+#: ../stamps/people/cartoon/woman_chemist
+#, fuzzy
+msgid "A scientist."
+msgstr "Шатор."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/cartoon/woman_dancing.svg
+#: ../stamps/people/cartoon/woman_dancing
+msgid "A woman dancing in a ball gown."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/people/cartoon/woman_doctor.svg
+#: ../stamps/people/cartoon/woman_doctor
+#, fuzzy
+msgid "A doctor."
+msgstr "Подарок."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/cartoon/woman_nurse.svg
+#: ../stamps/people/cartoon/woman_nurse
+#, fuzzy
+msgid "A nurse."
+msgstr "Роза."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/cartoon/woman_police_officer_1.svg
+#. View at https://tuxpaint.org/stamps/stamps/people/cartoon/woman_police_officer_2.svg
+#: ../stamps/people/cartoon/woman_police_officer_1
+#: ../stamps/people/cartoon/woman_police_officer_2
+#, fuzzy
+msgid "A police officer."
+msgstr "Парче лимон."
+
+#. View at https://tuxpaint.org/stamps/stamps/people/toys/grannysmith.png
+#: ../stamps/people/toys/grannysmith
+msgid "Grandma’s old rag doll."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/eggplant.png
+#: ../stamps/plants/eggplant
+#, fuzzy
+#| msgid "An eggplant."
+msgid "An eggplant with fruit."
+msgstr "Модар патлиџан."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/lavender.png
+#: ../stamps/plants/lavender
+msgid "A plant of common lavender."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/lettuce_bolted.png
+#: ../stamps/plants/lettuce_bolted
+#, fuzzy
+msgid "A bolted lettuce."
+msgstr "Зелена салата."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/thyme.png
+#: ../stamps/plants/thyme
+#, fuzzy
+msgid "A thyme plant."
+msgstr "Модар патлиџан."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/toadstool.svg
+#: ../stamps/plants/toadstool
+#, fuzzy
+msgid "A toadstool."
+msgstr "Надгробна плоча."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/adeenia.png
+#: ../stamps/plants/flowers/adeenia
+msgid "Adenium (Desert Rose)"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/anemone_red.png
+#: ../stamps/plants/flowers/anemone_red
+msgid "A red and white anemone flower."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/anthoorium.png
+#: ../stamps/plants/flowers/anthoorium
+msgid "Anthurium"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/appooppanthady.png
+#: ../stamps/plants/flowers/appooppanthady
+msgid "Appooppan Thaadi (Indian Milkweed)"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/bolsom.png
+#: ../stamps/plants/flowers/bolsom
+msgid "Balsam."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/chemparathi.png
+#: ../stamps/plants/flowers/chemparathi
+msgid "Hibiscus"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/daffodil.png
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/easter/daffodil.png
+#: ../stamps/plants/flowers/daffodil ../stamps/seasonal/easter/daffodil
+msgid "A daffodil."
+msgstr "Нарцис."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/flower1.png
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/flower2.png
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/flower3.png
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/flower5.png
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/flower6.png
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/flower8.png
+#: ../stamps/plants/flowers/flower1 ../stamps/plants/flowers/flower2
+#: ../stamps/plants/flowers/flower3 ../stamps/plants/flowers/flower5
+#: ../stamps/plants/flowers/flower6 ../stamps/plants/flowers/flower8
+#, fuzzy
+msgid "A flower."
+msgstr "Подарок."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/flower10.png
+#: ../stamps/plants/flowers/flower10
+#, fuzzy
+msgid "A hibiscus flower."
+msgstr "Војник во падобрански одред."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/flower4.png
+#: ../stamps/plants/flowers/flower4
+#, fuzzy
+#| msgid "Some cherries."
+msgid "Two flowers."
+msgstr "Цреши."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/flower7.png
+#: ../stamps/plants/flowers/flower7
+#, fuzzy
+#| msgid "Some cherries."
+msgid "Some flowers."
+msgstr "Цреши."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/flower9.png
+#: ../stamps/plants/flowers/flower9
+msgid "A flower covered in dew drops."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/iris.png
+#: ../stamps/plants/flowers/iris
+#, fuzzy
+#| msgid "An Iris."
+msgid "An iris."
+msgstr "Перуника."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/marigold.png
+#: ../stamps/plants/flowers/marigold
+#, fuzzy
+#| msgid "A Marigold."
+msgid "A marigold."
+msgstr "Џунџуле."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/pigface.png
+#: ../stamps/plants/flowers/pigface
+#, fuzzy
+#| msgid "A party hat."
+msgid "A purple pigface flower."
+msgstr "Свечено капче."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/red-gazania.png
+#: ../stamps/plants/flowers/red-gazania
+msgid "A Red Gazania."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/rose.png
+#: ../stamps/plants/flowers/rose
+msgid "A rose."
+msgstr "Роза."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/whitestar-petunia.png
+#: ../stamps/plants/flowers/whitestar-petunia
+#, fuzzy
+#| msgid "A white flag."
+msgid "A White Star Petunia."
+msgstr "Бело знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/yellow-flower.png
+#: ../stamps/plants/flowers/yellow-flower
+#, fuzzy
+#| msgid "A yellow flag."
+msgid "A yellow flower."
+msgstr "Жолто знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/flowers/plastic/chuvanna_plastic_poo.png
+#: ../stamps/plants/flowers/plastic/chuvanna_plastic_poo
+msgid "Red plastic flower."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/mushrooms/cep-1.png
+#: ../stamps/plants/mushrooms/cep-1
+#, fuzzy
+#| msgid "A camera."
+msgid "A cep."
+msgstr "Камера."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/mushrooms/cep-2.png
+#: ../stamps/plants/mushrooms/cep-2
+msgid "It's a cep, or they are two ceps?"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/mushrooms/cep.png
+#: ../stamps/plants/mushrooms/cep
+#, fuzzy
+#| msgid "A red apple."
+msgid "A red headed cep."
+msgstr "Црвено јаболко."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/trees/birch.png
+#: ../stamps/plants/trees/birch
+msgid "A birch at winter."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/trees/holly_leaves.png
+#: ../stamps/plants/trees/holly_leaves
+msgid "Holly leaves are shiny and have prickles!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/trees/holm_oak.png
+#: ../stamps/plants/trees/holm_oak
+msgid "A holm oak."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/trees/liberia-palm.png
+#: ../stamps/plants/trees/liberia-palm
+msgid "A palm tree."
+msgstr "Палма."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/trees/pinecone.png
+#: ../stamps/plants/trees/pinecone
+msgid "A pinecone."
+msgstr "Шишарка."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/trees/rambutan.png
+#: ../stamps/plants/trees/rambutan
+#, fuzzy
+#| msgid "A palm tree."
+msgid "An alien tree!"
+msgstr "Палма."
+
+#. View at https://tuxpaint.org/stamps/stamps/plants/trees/tree336.png
+#: ../stamps/plants/trees/tree336
+#, fuzzy
+#| msgid "A palm tree."
+msgid "A pili nut tree."
+msgstr "Палма."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/balloon.svg
+#: ../stamps/seasonal/balloon
+#, fuzzy
+msgid "A balloon!"
+msgstr "Балон со жежок воздух."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/candle.png
+#: ../stamps/seasonal/candle
+#, fuzzy
+#| msgid "A candle."
+msgid "A lit candle."
+msgstr "Свеќа."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/clover.svg
+#: ../stamps/seasonal/clover
+msgid "A four leaf clover is said to bring good luck!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/leafrake.svg
+#: ../stamps/seasonal/leafrake
+msgid "A rake for sweeping leaves."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/shamrock.svg
+#: ../stamps/seasonal/shamrock
+msgid "A shamrock is a symbol of St Patrick's Day."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/Candy_cane_photo_1.png
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/Candy_cane_photo_2.png
+#: ../stamps/seasonal/christmas/Candy_cane_photo_1
+#: ../stamps/seasonal/christmas/Candy_cane_photo_2
+msgid "A candy cane is a traditional Christmas treat in the United States."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/Christmas_Tree_photo.png
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/tree.png
+#: ../stamps/seasonal/christmas/Christmas_Tree_photo
+#: ../stamps/seasonal/christmas/tree
+msgid "A Christmas tree."
+msgstr "Божиќна елка."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/Christmas_pudding.png
+#: ../stamps/seasonal/christmas/Christmas_pudding
+msgid "A christmas pudding is eaten on Christmas Day in England."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/German_Christmas_toy.png
+#: ../stamps/seasonal/christmas/German_Christmas_toy
+msgid "A wooden toy from Germany called a \"Räuchermännchen\"."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/Mince_Pie.png
+#: ../stamps/seasonal/christmas/Mince_Pie
+msgid "A mince pie is a traditional Christmas food in the UK. It contains of dried fruit and spices."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/Roast_turkey.png
+#: ../stamps/seasonal/christmas/Roast_turkey
+msgid "Roast turkey is traditionally eaten on Thanksgiving in the United States, and on Christmas Day in the UK."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/Santa.png
+#: ../stamps/seasonal/christmas/Santa
+msgid "Santa Claus."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/bow.png
+#: ../stamps/seasonal/christmas/bow
+#, fuzzy
+msgid "A colorful bow."
+msgstr "Обоено виножито."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/candy_cane.svg
+#: ../stamps/seasonal/christmas/candy_cane
+#, fuzzy
+msgid "A candy cane."
+msgstr "Шеќерно стапче."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/elfhat.svg
+#: ../stamps/seasonal/christmas/elfhat
+#, fuzzy
+#| msgid "A party hat."
+msgid "An elf's hat."
+msgstr "Свечено капче."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/gift.png
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/gift2.png
+#: ../stamps/seasonal/christmas/gift ../stamps/seasonal/christmas/gift2
+msgid "A gift."
+msgstr "Подарок."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/hard_candy.png
+#: ../stamps/seasonal/christmas/hard_candy
+#, fuzzy
+msgid "Hard candy—yum!"
+msgstr "Тврдо лижавче-ммм!"
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/lamp.png
+#: ../stamps/seasonal/christmas/lamp
+msgid "A Christmas light."
+msgstr "Божиќна светилка."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/present.svg
+#: ../stamps/seasonal/christmas/present
+#, fuzzy
+#| msgid "A gift."
+msgid "A wrapped gift."
+msgstr "Подарок."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/rudolf_reindeer.svg
+#: ../stamps/seasonal/christmas/rudolf_reindeer
+msgid "A red-nosed reindeer."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/santahat.png
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/santahat2.svg
+#: ../stamps/seasonal/christmas/santahat ../stamps/seasonal/christmas/santahat2
+msgid "A Christmas hat."
+msgstr "Божиќна капа."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/star.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/shapes/star.png
+#: ../stamps/seasonal/christmas/star ../stamps/symbols/shapes/star
+msgid "A star."
+msgstr "Ѕвезда."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/stocking.png
+#: ../stamps/seasonal/christmas/stocking
+#, fuzzy
+msgid "A Christmas stocking."
+msgstr "Божиќен чорап."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/xmas_tp_bulb.png
+#: ../stamps/seasonal/christmas/xmas_tp_bulb
+#, fuzzy
+msgid "A bulb ornament."
+msgstr "Декоративна сијалица."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/christmas/xmaswreath.png
+#: ../stamps/seasonal/christmas/xmaswreath
+msgid "A pine wreath."
+msgstr "Боров венец."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/easter/bluebird.png
+#: ../stamps/seasonal/easter/bluebird
+#, fuzzy
+msgid "A bluebird."
+msgstr "Сина капа."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/easter/bunny-egg.png
+#: ../stamps/seasonal/easter/bunny-egg
+msgid "A bunny with an Easter egg."
+msgstr "Зајче со Велигденско јајце."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/easter/bunny-head.png
+#: ../stamps/seasonal/easter/bunny-head
+msgid "A bunny."
+msgstr "Зајче."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/easter/bunny.png
+#: ../stamps/seasonal/easter/bunny
+msgid "A floppy-eared bunny."
+msgstr "Зајче со висечки уши."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/easter/chick-hatched.png
+#: ../stamps/seasonal/easter/chick-hatched
+msgid "A chick hatched from an egg."
+msgstr "Пиле испилено од јајце."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/easter/chick-in-egg.png
+#: ../stamps/seasonal/easter/chick-in-egg
+msgid "A chick inside an egg."
+msgstr "Пиле во јајце."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/easter/chick.png
+#: ../stamps/seasonal/easter/chick
+msgid "A chick."
+msgstr "Пиле."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/easter/wrapped_chocolate_easter_egg.png
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/easter/wrapped_chocolate_easter_egg_2.png
+#: ../stamps/seasonal/easter/wrapped_chocolate_easter_egg
+#: ../stamps/seasonal/easter/wrapped_chocolate_easter_egg_2
+msgid "A chocolate easter egg. Yum!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/halloween/bat_left.png
+#: ../stamps/seasonal/halloween/bat_left
+msgid "A bat."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/halloween/blackcat.png
+#: ../stamps/seasonal/halloween/blackcat
+msgid "A black cat."
+msgstr "Црна мачка."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/halloween/ghost.png
+#: ../stamps/seasonal/halloween/ghost
+msgid "A ghost."
+msgstr "Дух."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/halloween/grave-a.png
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/halloween/grave-j.png
+#: ../stamps/seasonal/halloween/grave-a ../stamps/seasonal/halloween/grave-j
+#, fuzzy
+msgid "A gravestone."
+msgstr "Надгробна плоча."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/halloween/grave-b.png
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/halloween/grave-i.png
+#: ../stamps/seasonal/halloween/grave-b ../stamps/seasonal/halloween/grave-i
+#, fuzzy
+msgid "A headstone."
+msgstr "Надгробна плоча."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/halloween/grave-c.png
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/halloween/grave-g.png
+#: ../stamps/seasonal/halloween/grave-c ../stamps/seasonal/halloween/grave-g
+#, fuzzy
+msgid "A grave marker."
+msgstr "Надгробна плоча."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/halloween/grave-d.png
+#: ../stamps/seasonal/halloween/grave-d
+#, fuzzy
+msgid "A tombstone."
+msgstr "Надгробна плоча."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/halloween/grave-e.png
+#: ../stamps/seasonal/halloween/grave-e
+#, fuzzy
+#| msgid "A lemon slice."
+msgid "A cemetery marker."
+msgstr "Парче лимон."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/halloween/grave-f.png
+#: ../stamps/seasonal/halloween/grave-f
+msgid "A monument stone."
+msgstr "Споменик."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/halloween/grave-h.png
+#: ../stamps/seasonal/halloween/grave-h
+#, fuzzy
+msgid "Another tombstone."
+msgstr "Надгробна плоча."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/halloween/jackolantern_mean.svg
+#: ../stamps/seasonal/halloween/jackolantern_mean
+msgid "A Jack-o’-lantern."
+msgstr "Jack-o’-lantern."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/halloween/skull.png
+#: ../stamps/seasonal/halloween/skull
+msgid "A skull."
+msgstr "Череп."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/hanukkah/dreydl-gimmel.png
+#: ../stamps/seasonal/hanukkah/dreydl-gimmel
+msgid "\"Gimel\" stands for \"gants\" or \"all.\" If the dreidel lands on \"gimel,\" take everything in the middle."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/hanukkah/dreydl-hay.png
+#: ../stamps/seasonal/hanukkah/dreydl-hay
+msgid "\"Hei\" stands for \"halb\" or \"half.\" If the dreidel lands on \"hei,\" take half of what’s in the middle, plus one if there’s an odd number of objects."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/hanukkah/dreydl-nun.png
+#: ../stamps/seasonal/hanukkah/dreydl-nun
+msgid "\"Nun\" stands for \"nisht,\" or \"nothing.\" If the dreidel lands on \"nun,\" you do nothing."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/hanukkah/dreydl-shin.png
+#: ../stamps/seasonal/hanukkah/dreydl-shin
+msgid "\"Shin\" stands for \"shtel arayn,\" or \"put in.\" If the dreidel lands on \"shin,\" put an object into the middle."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/hanukkah/dreydl.png
+#: ../stamps/seasonal/hanukkah/dreydl
+#, fuzzy
+#| msgid "A drake."
+msgid "A dreidel."
+msgstr "Патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/hanukkah/holiday_candle.png
+#: ../stamps/seasonal/hanukkah/holiday_candle
+msgid "A candle."
+msgstr "Свеќа."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/hanukkah/menorah.png
+#: ../stamps/seasonal/hanukkah/menorah
+msgid "An important part of Hanukkah is the menorah—a candleholder with eight candles and a shammash, or servant candle. One candle is lit by the shammash for each of night of Hanukkah."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/newyears/confetti.png
+#: ../stamps/seasonal/newyears/confetti
+msgid "Confetti."
+msgstr "Конфети."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/newyears/fireworks.png
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/newyears/fireworks2.png
+#: ../stamps/seasonal/newyears/fireworks ../stamps/seasonal/newyears/fireworks2
+msgid "Big fireworks."
+msgstr "Голем огномет."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/newyears/party-hat.png
+#: ../stamps/seasonal/newyears/party-hat
+msgid "A party hat."
+msgstr "Свечено капче."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/newyears/party-horn-in.png
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/newyears/party-horn-out.png
+#: ../stamps/seasonal/newyears/party-horn-in
+#: ../stamps/seasonal/newyears/party-horn-out
+#, fuzzy
+msgid "A party horn."
+msgstr "Свечена труба"
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/winter/sledge.svg
+#: ../stamps/seasonal/winter/sledge
+#, fuzzy
+#| msgid "A sliced orange."
+msgid "A sledge."
+msgstr "Парче портокал."
+
+#. View at https://tuxpaint.org/stamps/stamps/seasonal/winter/snowflake.svg
+#: ../stamps/seasonal/winter/snowflake
+#, fuzzy
+#| msgid "A chick."
+msgid "A snowflake."
+msgstr "Пиле."
+
+#. View at https://tuxpaint.org/stamps/stamps/space/apollo_lander.png
+#: ../stamps/space/apollo_lander
+msgid "The Apollo lunar lander module."
+msgstr "Аполо модул за слетување на Месечината."
+
+#. View at https://tuxpaint.org/stamps/stamps/space/rocket1.svg
+#. View at https://tuxpaint.org/stamps/stamps/space/rocket2.svg
+#. View at https://tuxpaint.org/stamps/stamps/space/rocket3.svg
+#. View at https://tuxpaint.org/stamps/stamps/space/rocket4.svg
+#. View at https://tuxpaint.org/stamps/stamps/space/rocket5.svg
+#: ../stamps/space/rocket1 ../stamps/space/rocket2 ../stamps/space/rocket3
+#: ../stamps/space/rocket4 ../stamps/space/rocket5
+#, fuzzy
+#| msgid "A green apple."
+msgid "A rocket."
+msgstr "Зелено јаболко."
+
+#. View at https://tuxpaint.org/stamps/stamps/space/satellite.svg
+#: ../stamps/space/satellite
+#, fuzzy
+#| msgid "A key."
+msgid "A satellite."
+msgstr "Клуч."
+
+#. View at https://tuxpaint.org/stamps/stamps/space/spacewalk.png
+#: ../stamps/space/spacewalk
+#, fuzzy
+msgid "An astronaut making a spacewalk!"
+msgstr "Астронаут кој маневрира во вселената."
+
+#. View at https://tuxpaint.org/stamps/stamps/space/toyrocket.svg
+#: ../stamps/space/toyrocket
+#, fuzzy
+#| msgid "A green apple."
+msgid "A toy rocket."
+msgstr "Зелено јаболко."
+
+#. View at https://tuxpaint.org/stamps/stamps/space/voyager2.png
+#: ../stamps/space/voyager2
+msgid "The Voyager-2 deep-space probe."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/space/moon/moon_3qt.png
+#: ../stamps/space/moon/moon_3qt
+msgid "Our moon."
+msgstr "Нашата месечина."
+
+#. View at https://tuxpaint.org/stamps/stamps/space/moon/moon_crescent.png
+#: ../stamps/space/moon/moon_crescent
+msgid "Our moon as a crescent."
+msgstr "Нашата месечина со облик на полумесечина."
+
+#. View at https://tuxpaint.org/stamps/stamps/space/moon/moon_full.png
+#: ../stamps/space/moon/moon_full
+msgid "The full moon."
+msgstr "Полна месечина."
+
+#. View at https://tuxpaint.org/stamps/stamps/space/planets/0_sun.png
+#: ../stamps/space/planets/0_sun
+msgid "The Sun."
+msgstr "Сонце."
+
+#. View at https://tuxpaint.org/stamps/stamps/space/planets/1_mercury.png
+#: ../stamps/space/planets/1_mercury
+msgid "Mercury—the planet closest to the Sun."
+msgstr "Меркур-планета најблиска до Сонцето."
+
+#. View at https://tuxpaint.org/stamps/stamps/space/planets/2_venus.png
+#: ../stamps/space/planets/2_venus
+msgid "Venus—the second planet in the solar system—and the most inhospitable!"
+msgstr "Венера-втората планета во сончевиот систем-и најнегостољубивата!"
+
+#. View at https://tuxpaint.org/stamps/stamps/space/planets/3_earth.png
+#: ../stamps/space/planets/3_earth
+msgid "The Earth. Our planet!"
+msgstr "Земја. Нашата планета!"
+
+#. View at https://tuxpaint.org/stamps/stamps/space/planets/4_mars.png
+#: ../stamps/space/planets/4_mars
+msgid "Mars—the red planet. It’s just beyond earth."
+msgstr "Марс-црвената планета. Таа е веднаш зад Земјата."
+
+#. View at https://tuxpaint.org/stamps/stamps/space/planets/5_jupiter.png
+#: ../stamps/space/planets/5_jupiter
+msgid "Jupiter—the largest planet in our solar system!"
+msgstr "Јупитер-најголемата планета во нашиот сончев систем!"
+
+#. View at https://tuxpaint.org/stamps/stamps/space/planets/6_saturn.png
+#: ../stamps/space/planets/6_saturn
+msgid "Saturn—the second largest planet in our solar system—and the one with the most rings."
+msgstr "Сатурн-втората по големина планета во нашиот сончев систем-и со најмногу прстени."
+
+#. View at https://tuxpaint.org/stamps/stamps/space/planets/7_uranus.png
+#: ../stamps/space/planets/7_uranus
+msgid "Uranus—one of the “gas giants” in our solar system."
+msgstr "Уран-една од „гигантите со гас“ во нашиот сончев систем."
+
+#. View at https://tuxpaint.org/stamps/stamps/space/planets/8_neptune.png
+#: ../stamps/space/planets/8_neptune
+msgid "Neptune—one of the “gas giants” in our solar system."
+msgstr "Нептун-една од „гигантите со гас“ во нашиот сончев систем."
+
+#. View at https://tuxpaint.org/stamps/stamps/space/planets/9_pluto.png
+#: ../stamps/space/planets/9_pluto
+#, fuzzy
+#| msgid "Jupiter—the largest planet in our solar system!"
+msgid "Pluto—until recently, it was considered the 9th planet in our solar system."
+msgstr "Јупитер-најголемата планета во нашиот сончев систем!"
+
+#. View at https://tuxpaint.org/stamps/stamps/sports/australian_rules_football.png
+#: ../stamps/sports/australian_rules_football
+msgid "A football used in Australian Rules."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/sports/basketball.png
+#: ../stamps/sports/basketball
+#, fuzzy
+msgid "A basketball."
+msgstr "Многу мало бокалче."
+
+#. View at https://tuxpaint.org/stamps/stamps/sports/cricketball.png
+#: ../stamps/sports/cricketball
+#, fuzzy
+#| msgid "A soccer ball."
+msgid "A cricket ball."
+msgstr "Фудбалска топка."
+
+#. View at https://tuxpaint.org/stamps/stamps/sports/football.png
+#: ../stamps/sports/football
+#, fuzzy
+#| msgid "A football."
+msgid "An American football."
+msgstr "Фудбал."
+
+#. View at https://tuxpaint.org/stamps/stamps/sports/rugby_goal_posts.png
+#: ../stamps/sports/rugby_goal_posts
+msgid "Rugby goal posts."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/sports/soccer.png
+#: ../stamps/sports/soccer
+msgid "A soccer ball."
+msgstr "Фудбалска топка."
+
+#. View at https://tuxpaint.org/stamps/stamps/sports/stopwatch.svg
+#: ../stamps/sports/stopwatch
+#, fuzzy
+#| msgid "A top hat."
+msgid "A stopwatch."
+msgstr "Цилиндер."
+
+#. View at https://tuxpaint.org/stamps/stamps/sports/tennis_ball.png
+#: ../stamps/sports/tennis_ball
+#, fuzzy
+#| msgid "A soccer ball."
+msgid "A tennis ball."
+msgstr "Фудбалска топка."
+
+#. View at https://tuxpaint.org/stamps/stamps/sports/tennis_racket.png
+#: ../stamps/sports/tennis_racket
+#, fuzzy
+#| msgid "A green apple."
+msgid "A tennis racket."
+msgstr "Зелено јаболко."
+
+#. View at https://tuxpaint.org/stamps/stamps/sports/trophy_cup.png
+#: ../stamps/sports/trophy_cup
+msgid "A trophy cup."
+msgstr "Пехар."
+
+#. View at https://tuxpaint.org/stamps/stamps/sports/cartoon/football_helmet_front.png
+#. View at https://tuxpaint.org/stamps/stamps/sports/cartoon/football_helmet_side.png
+#: ../stamps/sports/cartoon/football_helmet_front
+#: ../stamps/sports/cartoon/football_helmet_side
+msgid "– Because a brain is a terrible thing to waste…"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/sports/cartoon/volleyball.png
+#: ../stamps/sports/cartoon/volleyball
+#, fuzzy
+#| msgid "A soccer ball."
+msgid "A volleyball."
+msgstr "Фудбалска топка."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/clock.svg
+#: ../stamps/symbols/clock
+#, fuzzy
+#| msgid "A chick."
+msgid "A clock."
+msgstr "Пиле."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/clockface.png
+#: ../stamps/symbols/clockface
+#, fuzzy
+#| msgid "A chick."
+msgid "A clock face."
+msgstr "Пиле."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/recycle.png
+#: ../stamps/symbols/recycle
+msgid "This means something can be recycled. Don’t stick it with the regular trash!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_a.png
+#: ../stamps/symbols/alphabets/asl/asl_a
+msgid "The sign for the letter A in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_b.png
+#: ../stamps/symbols/alphabets/asl/asl_b
+msgid "The sign for the letter B in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_c.png
+#: ../stamps/symbols/alphabets/asl/asl_c
+msgid "The sign for the letter C in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_d.png
+#: ../stamps/symbols/alphabets/asl/asl_d
+msgid "The sign for the letter D in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_e.png
+#: ../stamps/symbols/alphabets/asl/asl_e
+msgid "The sign for the letter E in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_f.png
+#: ../stamps/symbols/alphabets/asl/asl_f
+msgid "The sign for the letter F in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_g.png
+#: ../stamps/symbols/alphabets/asl/asl_g
+msgid "The sign for the letter G in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_h.png
+#: ../stamps/symbols/alphabets/asl/asl_h
+msgid "The sign for the letter H in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_i.png
+#: ../stamps/symbols/alphabets/asl/asl_i
+msgid "The sign for the letter I in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_j.png
+#: ../stamps/symbols/alphabets/asl/asl_j
+msgid "The sign for the letter J in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_k.png
+#: ../stamps/symbols/alphabets/asl/asl_k
+msgid "The sign for the letter K in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_l.png
+#: ../stamps/symbols/alphabets/asl/asl_l
+msgid "The sign for the letter L in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_m.png
+#: ../stamps/symbols/alphabets/asl/asl_m
+msgid "The sign for the letter M in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_n.png
+#: ../stamps/symbols/alphabets/asl/asl_n
+msgid "The sign for the letter N in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_o.png
+#: ../stamps/symbols/alphabets/asl/asl_o
+msgid "The sign for the letter O in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_p.png
+#: ../stamps/symbols/alphabets/asl/asl_p
+msgid "The sign for the letter P in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_q.png
+#: ../stamps/symbols/alphabets/asl/asl_q
+msgid "The sign for the letter Q in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_r.png
+#: ../stamps/symbols/alphabets/asl/asl_r
+msgid "The sign for the letter R in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_s.png
+#: ../stamps/symbols/alphabets/asl/asl_s
+msgid "The sign for the letter S in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_t.png
+#: ../stamps/symbols/alphabets/asl/asl_t
+msgid "The sign for the letter T in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_u.png
+#: ../stamps/symbols/alphabets/asl/asl_u
+msgid "The sign for the letter U in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_v.png
+#: ../stamps/symbols/alphabets/asl/asl_v
+msgid "The sign for the letter V in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_w.png
+#: ../stamps/symbols/alphabets/asl/asl_w
+msgid "The sign for the letter W in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_x.png
+#: ../stamps/symbols/alphabets/asl/asl_x
+msgid "The sign for the letter X in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_y.png
+#: ../stamps/symbols/alphabets/asl/asl_y
+msgid "The sign for the letter Y in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_z.png
+#: ../stamps/symbols/alphabets/asl/asl_z
+msgid "The sign for the letter Z in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_zzz_0.png
+#: ../stamps/symbols/alphabets/asl/asl_zzz_0
+msgid "The sign for the number 0 in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_zzz_1.png
+#: ../stamps/symbols/alphabets/asl/asl_zzz_1
+msgid "The sign for the number 1 in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_zzz_2.png
+#: ../stamps/symbols/alphabets/asl/asl_zzz_2
+msgid "The sign for the number 2 in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_zzz_3.png
+#: ../stamps/symbols/alphabets/asl/asl_zzz_3
+msgid "The sign for the number 3 in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_zzz_4.png
+#: ../stamps/symbols/alphabets/asl/asl_zzz_4
+msgid "The sign for the number 4 in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_zzz_5.png
+#: ../stamps/symbols/alphabets/asl/asl_zzz_5
+msgid "The sign for the number 5 in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_zzz_6.png
+#: ../stamps/symbols/alphabets/asl/asl_zzz_6
+msgid "The sign for the number 6 in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_zzz_7.png
+#: ../stamps/symbols/alphabets/asl/asl_zzz_7
+msgid "The sign for the number 7 in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_zzz_8.png
+#: ../stamps/symbols/alphabets/asl/asl_zzz_8
+msgid "The sign for the number 8 in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/asl/asl_zzz_9.png
+#: ../stamps/symbols/alphabets/asl/asl_zzz_9
+msgid "The sign for the number 9 in American Sign Language."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/a_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/a_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/a_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/a_outline
+msgid "The letter a."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/b_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/b_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/b_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/b_outline
+msgid "The letter b."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/c_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/c_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/c_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/c_outline
+msgid "The letter c."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/d_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/d_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/d_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/d_outline
+msgid "The letter d."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/e_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/e_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/e_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/e_outline
+msgid "The letter e."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/f_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/f_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/f_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/f_outline
+msgid "The letter f."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/g_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/g_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/g_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/g_outline
+msgid "The letter g."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/h_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/h_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/h_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/h_outline
+msgid "The letter h."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/i_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/i_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/i_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/i_outline
+msgid "The letter i."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/j_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/j_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/j_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/j_outline
+msgid "The letter j."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/k_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/k_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/k_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/k_outline
+msgid "The letter k."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/l_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/l_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/l_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/l_outline
+msgid "The letter l."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/m_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/m_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/m_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/m_outline
+msgid "The letter m."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/n_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/n_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/n_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/n_outline
+msgid "The letter n."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/o_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/o_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/o_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/o_outline
+msgid "The letter o."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/p_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/p_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/p_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/p_outline
+msgid "The letter p."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/q_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/q_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/q_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/q_outline
+msgid "The letter q."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/r_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/r_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/r_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/r_outline
+msgid "The letter r."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/s_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/s_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/s_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/s_outline
+msgid "The letter s."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/t_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/t_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/t_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/t_outline
+msgid "The letter t."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/u_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/u_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/u_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/u_outline
+msgid "The letter u."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/v_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/v_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/v_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/v_outline
+msgid "The letter v."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/w_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/w_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/w_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/w_outline
+msgid "The letter w."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/x_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/x_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/x_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/x_outline
+msgid "The letter x."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/y_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/y_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/y_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/y_outline
+msgid "The letter y."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/lowercase/z_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/lowercase/z_outline.png
+#: ../stamps/symbols/alphabets/english/filled/lowercase/z_filled
+#: ../stamps/symbols/alphabets/english/outlined/lowercase/z_outline
+msgid "The letter z."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/A_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/A_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/A_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/A_outline
+msgid "The letter A."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/B_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/B_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/B_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/B_outline
+msgid "The letter B."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/C_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/C_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/C_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/C_outline
+msgid "The letter C."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/D_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/D_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/D_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/D_outline
+msgid "The letter D."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/E_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/E_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/E_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/E_outline
+msgid "The letter E."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/F_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/F_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/F_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/F_outline
+msgid "The letter F."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/G_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/G_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/G_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/G_outline
+msgid "The letter G."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/H_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/H_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/H_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/H_outline
+msgid "The letter H."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/I_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/I_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/I_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/I_outline
+msgid "The letter I."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/J_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/J_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/J_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/J_outline
+msgid "The letter J."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/K_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/K_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/K_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/K_outline
+msgid "The letter K."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/L_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/L_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/L_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/L_outline
+msgid "The letter L."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/M_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/M_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/M_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/M_outline
+msgid "The letter M."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/N_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/N_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/N_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/N_outline
+msgid "The letter N."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/O_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/O_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/O_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/O_outline
+msgid "The letter O."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/P_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/P_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/P_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/P_outline
+msgid "The letter P."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/Q_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/Q_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/Q_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/Q_outline
+msgid "The letter Q."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/R_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/R_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/R_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/R_outline
+msgid "The letter R."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/S_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/S_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/S_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/S_outline
+msgid "The letter S."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/T_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/T_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/T_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/T_outline
+msgid "The letter T."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/U_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/U_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/U_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/U_outline
+msgid "The letter U."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/V_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/V_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/V_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/V_outline
+msgid "The letter V."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/W_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/W_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/W_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/W_outline
+msgid "The letter W."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/X_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/X_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/X_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/X_outline
+msgid "The letter X."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/Y_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/Y_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/Y_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/Y_outline
+msgid "The letter Y."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/filled/uppercase/Z_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/english/outlined/uppercase/Z_outline.png
+#: ../stamps/symbols/alphabets/english/filled/uppercase/Z_filled
+#: ../stamps/symbols/alphabets/english/outlined/uppercase/Z_outline
+msgid "The letter Z."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/german/filled/lowercase/a_with_umlaut_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/german/outlined/lowercase/a_with_umlaut_outline.png
+#: ../stamps/symbols/alphabets/german/filled/lowercase/a_with_umlaut_filled
+#: ../stamps/symbols/alphabets/german/outlined/lowercase/a_with_umlaut_outline
+msgid "The letter a with an umlaut."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/german/filled/lowercase/o_with_umlaut_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/german/outlined/lowercase/o_with_umlaut_outline.png
+#: ../stamps/symbols/alphabets/german/filled/lowercase/o_with_umlaut_filled
+#: ../stamps/symbols/alphabets/german/outlined/lowercase/o_with_umlaut_outline
+msgid "The letter o with an umlaut."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/german/filled/lowercase/ss_eszett_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/german/outlined/lowercase/ss_eszett_outline.png
+#: ../stamps/symbols/alphabets/german/filled/lowercase/ss_eszett_filled
+#: ../stamps/symbols/alphabets/german/outlined/lowercase/ss_eszett_outline
+msgid "The German letter sz or sharp s."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/german/filled/lowercase/u_with_umlaut_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/german/outlined/lowercase/u_with_umlaut_outline.png
+#: ../stamps/symbols/alphabets/german/filled/lowercase/u_with_umlaut_filled
+#: ../stamps/symbols/alphabets/german/outlined/lowercase/u_with_umlaut_outline
+msgid "The letter u with an umlaut."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/german/filled/uppercase/A_with_umlaut_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/german/outlined/uppercase/A_with_umlaut_outline.png
+#: ../stamps/symbols/alphabets/german/filled/uppercase/A_with_umlaut_filled
+#: ../stamps/symbols/alphabets/german/outlined/uppercase/A_with_umlaut_outline
+msgid "The letter A with an umlaut."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/german/filled/uppercase/O_with_umlaut_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/german/outlined/uppercase/O_with_umlaut_outline.png
+#: ../stamps/symbols/alphabets/german/filled/uppercase/O_with_umlaut_filled
+#: ../stamps/symbols/alphabets/german/outlined/uppercase/O_with_umlaut_outline
+msgid "The letter O with an umlaut."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/german/filled/uppercase/U_with_umlaut_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/german/outlined/uppercase/U_with_umlaut_outline.png
+#: ../stamps/symbols/alphabets/german/filled/uppercase/U_with_umlaut_filled
+#: ../stamps/symbols/alphabets/german/outlined/uppercase/U_with_umlaut_outline
+msgid "The letter U with an umlaut."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/spanish/filled/lowercase/n_with_tilda_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/spanish/outlined/lowercase/n_with_tilda_outline.png
+#: ../stamps/symbols/alphabets/spanish/filled/lowercase/n_with_tilda_filled
+#: ../stamps/symbols/alphabets/spanish/outlined/lowercase/n_with_tilda_outline
+msgid "The Spanish letter n with a tilde."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/spanish/filled/uppercase/N_with_tilda_filled.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/alphabets/spanish/outlined/uppercase/N_with_tilda_outline.png
+#: ../stamps/symbols/alphabets/spanish/filled/uppercase/N_with_tilda_filled
+#: ../stamps/symbols/alphabets/spanish/outlined/uppercase/N_with_tilda_outline
+msgid "The Spanish letter N with a tilde."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/chess/b_1_king.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/chess/w_1_king.png
+#: ../stamps/symbols/chess/b_1_king ../stamps/symbols/chess/w_1_king
+msgid "King. Can move one step in any direction. Protect him!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/chess/b_2_queen.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/chess/w_2_queen.png
+#: ../stamps/symbols/chess/b_2_queen ../stamps/symbols/chess/w_2_queen
+msgid "Queen. Can move in any direction."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/chess/b_3_bishop.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/chess/w_3_bishop.png
+#: ../stamps/symbols/chess/b_3_bishop ../stamps/symbols/chess/w_3_bishop
+msgid "Bishop. Can only move diagonally, staying on the same colored squares."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/chess/b_4_knight.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/chess/w_4_knight.png
+#: ../stamps/symbols/chess/b_4_knight ../stamps/symbols/chess/w_4_knight
+msgid "Knight. The only piece that can jump over others. Move forward or back two, then left or right one—or move left or right two, and forward or back one."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/chess/b_5_rook.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/chess/w_5_rook.png
+#: ../stamps/symbols/chess/b_5_rook ../stamps/symbols/chess/w_5_rook
+msgid "Rook. Can only move forward, back, left or right, but not diagonally."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/chess/b_6_pawn.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/chess/w_6_pawn.png
+#: ../stamps/symbols/chess/b_6_pawn ../stamps/symbols/chess/w_6_pawn
+msgid "Pawn. Can only move forward, unless capturing. Can move two squares on the first move, but later only one. Captures diagonally one square."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/faces/excited.png
+#: ../stamps/symbols/faces/excited
+msgid "Excited!"
+msgstr "Возбуден!"
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/faces/happy.png
+#: ../stamps/symbols/faces/happy
+msgid "Happy!"
+msgstr "Весел!"
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/faces/mad.png
+#: ../stamps/symbols/faces/mad
+msgid "Mad!"
+msgstr "Бесен!"
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/faces/sad.png
+#: ../stamps/symbols/faces/sad
+msgid "Sad!"
+msgstr "Тажен!"
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/0.png
+#: ../stamps/symbols/math/0
+msgid "Zero."
+msgstr "Нула."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/1.png
+#: ../stamps/symbols/math/1
+msgid "One."
+msgstr "Еден."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/2.png
+#: ../stamps/symbols/math/2
+msgid "Two."
+msgstr "Два."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/3.png
+#: ../stamps/symbols/math/3
+msgid "Three."
+msgstr "Три."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/4.png
+#: ../stamps/symbols/math/4
+msgid "Four."
+msgstr "Четири."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/5.png
+#: ../stamps/symbols/math/5
+msgid "Five."
+msgstr "Пет."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/6.png
+#: ../stamps/symbols/math/6
+msgid "Six."
+msgstr "Шест."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/7.png
+#: ../stamps/symbols/math/7
+msgid "Seven."
+msgstr "Седум."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/8.png
+#: ../stamps/symbols/math/8
+msgid "Eight."
+msgstr "Осум."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/9.png
+#: ../stamps/symbols/math/9
+msgid "Nine."
+msgstr "Девет."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/operators/op0_plus.png
+#: ../stamps/symbols/math/operators/op0_plus
+msgid "Plus."
+msgstr "Плус."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/operators/op1_minus.png
+#: ../stamps/symbols/math/operators/op1_minus
+msgid "Minus."
+msgstr "Минус."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/operators/op2_multiply.png
+#: ../stamps/symbols/math/operators/op2_multiply
+msgid "Times."
+msgstr "Помножено."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/operators/op3_divide.png
+#: ../stamps/symbols/math/operators/op3_divide
+msgid "Divided by."
+msgstr "Поделен со."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/operators/op4_equals.png
+#: ../stamps/symbols/math/operators/op4_equals
+msgid "Equals."
+msgstr "Еднакво."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/operators/op5_notequals.png
+#: ../stamps/symbols/math/operators/op5_notequals
+msgid "Not equal to."
+msgstr "Не е еднаков на."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/operators/op6_lessthan.png
+#: ../stamps/symbols/math/operators/op6_lessthan
+msgid "Less than."
+msgstr "Помал од."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/operators/op7_greaterthan.png
+#: ../stamps/symbols/math/operators/op7_greaterthan
+msgid "Greater than."
+msgstr "Поголем од."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/operators/op8_lessthanequal.png
+#: ../stamps/symbols/math/operators/op8_lessthanequal
+msgid "Less than or equal to."
+msgstr "Помал или еднаков на."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/math/operators/op9_greaterthanequal.png
+#: ../stamps/symbols/math/operators/op9_greaterthanequal
+msgid "Greater than or equal to."
+msgstr "Поголем или еднаков на."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/00_symbols/dollars_1_dollar.svg
+#: ../stamps/symbols/money/00_symbols/dollars_1_dollar
+msgid "Dollar sign."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/00_symbols/dollars_2_cent.svg
+#: ../stamps/symbols/money/00_symbols/dollars_2_cent
+msgid "Cent sign. 100 cents make 1 dollar."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/00_symbols/euro_1_euro.svg
+#: ../stamps/symbols/money/00_symbols/euro_1_euro
+msgid "Euro sign."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/00_symbols/euro_2_cent.svg
+#: ../stamps/symbols/money/00_symbols/euro_2_cent
+msgid "Euro cent sign. 100 Euro cents make 1 Euro."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/00_symbols/gbp_1_pound.svg
+#: ../stamps/symbols/money/00_symbols/gbp_1_pound
+msgid "Pound sign."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/00_symbols/gbp_2_penny.svg
+#: ../stamps/symbols/money/00_symbols/gbp_2_penny
+msgid "Penny sign. 100 pence make 1 pound sterling."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/00_symbols/yen_1_yen.svg
+#: ../stamps/symbols/money/00_symbols/yen_1_yen
+msgid "Japanese Yen sign."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/canadian/coins/001penny.png
+#: ../stamps/symbols/money/canadian/coins/001penny
+#, fuzzy
+msgid "A Canadian 1 cent piece ($.01) called a penny."
+msgstr "1 Канадски цент ($.01) наречен пени."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/canadian/coins/005nickel.png
+#: ../stamps/symbols/money/canadian/coins/005nickel
+#, fuzzy
+msgid "A Canadian 5 cent piece ($.05) called a nickel."
+msgstr "5 Канадски центи ($.05) наречени никел."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/canadian/coins/010dime.png
+#: ../stamps/symbols/money/canadian/coins/010dime
+#, fuzzy
+msgid "A Canadian 10 cent piece ($.10) called a dime."
+msgstr "10 Канадски центи ($.10) наречени десетинка."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/canadian/coins/025quarter.png
+#: ../stamps/symbols/money/canadian/coins/025quarter
+msgid "A Canadian 25 cent piece ($.25) called a quarter."
+msgstr "25 Канадски центи ($.25) наречени четвртина."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/canadian/coins/100loonie.png
+#: ../stamps/symbols/money/canadian/coins/100loonie
+msgid "A Canadian dollar ($1.00) called a loonie. It’s named after the bird on the coin—a loon."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/canadian/coins/200toonie.png
+#: ../stamps/symbols/money/canadian/coins/200toonie
+msgid "A Canadian two dollar coin ($2.00) called a toonie. (Its name is a play on the name of the one dollar “loonie” coin and the number two.)"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/euro/coins/001.png
+#: ../stamps/symbols/money/euro/coins/001
+msgid "A European coin of 1 cent (0.01 €)."
+msgstr "Европска монета од 1 цент (0.01 €)."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/euro/coins/002.png
+#: ../stamps/symbols/money/euro/coins/002
+msgid "A European coin of 2 cents (0.02 €)."
+msgstr "Европска монета од 2 центи (0.02 €)."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/euro/coins/005.png
+#: ../stamps/symbols/money/euro/coins/005
+msgid "A European coin of 5 cents (0.05 €)."
+msgstr "Европска монета од 5 центи (0.05 €)."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/euro/coins/010.png
+#: ../stamps/symbols/money/euro/coins/010
+msgid "A European coin of 10 cents (0.10 €)."
+msgstr "Европска монета од 10 центи (0.10 €)."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/euro/coins/020.png
+#: ../stamps/symbols/money/euro/coins/020
+msgid "A European coin of 20 cents (0.20 €)."
+msgstr "Европска монета од 20 центи (0.20 €)."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/euro/coins/050.png
+#: ../stamps/symbols/money/euro/coins/050
+msgid "A European coin of 50 cents (0.50 €)."
+msgstr "Европска монета од 50 центи (0.50 €)."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/euro/coins/100.png
+#: ../stamps/symbols/money/euro/coins/100
+msgid "A European coin of 1 euro (1 €)."
+msgstr "Европска монета од 1 евро (1 €)."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/euro/coins/200.png
+#: ../stamps/symbols/money/euro/coins/200
+msgid "A European coin of 2 euros (2 €)."
+msgstr "Европска монета од 2 евра (2 €)."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/japanese/yen001.png
+#: ../stamps/symbols/money/japanese/yen001
+msgid "1 Japanese yen."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/japanese/yen005.png
+#: ../stamps/symbols/money/japanese/yen005
+msgid "5 Japanese yen."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/japanese/yen010.png
+#: ../stamps/symbols/money/japanese/yen010
+msgid "10 Japanese yen."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/japanese/yen050.png
+#: ../stamps/symbols/money/japanese/yen050
+msgid "50 Japanese yen."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/japanese/yen100.png
+#: ../stamps/symbols/money/japanese/yen100
+msgid "100 Japanese yen."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/japanese/yen500.png
+#: ../stamps/symbols/money/japanese/yen500
+msgid "500 Japanese yen."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/us/coins/001penny.png
+#: ../stamps/symbols/money/us/coins/001penny
+#, fuzzy
+msgid "A US 1 cent piece ($.01) called a penny."
+msgstr "1 Канадски цент ($.01) наречен пени."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/us/coins/005nickel.png
+#: ../stamps/symbols/money/us/coins/005nickel
+#, fuzzy
+msgid "A US 5 cent piece ($.05) called a nickel."
+msgstr "5 Канадски центи ($.05) наречени никел."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/us/coins/010dime.png
+#: ../stamps/symbols/money/us/coins/010dime
+#, fuzzy
+msgid "A US 10 cent piece ($.10) called a dime."
+msgstr "10 Канадски центи ($.10) наречени десетинка."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/us/coins/025quarter.png
+#: ../stamps/symbols/money/us/coins/025quarter
+#, fuzzy
+#| msgid "A Canadian 25 cent piece ($.25) called a quarter."
+msgid "A US 25 cent piece ($.25) called a quarter."
+msgstr "25 Канадски центи ($.25) наречени четвртина."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/us/coins/050kennedy-halfdollar.png
+#: ../stamps/symbols/money/us/coins/050kennedy-halfdollar
+#, fuzzy
+msgid "A US 50 cent piece ($.50) called a “Kennedy Half Dollar.”"
+msgstr "1 Канадски цент ($.01) наречен пени."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/money/us/coins/100sacagawea.png
+#: ../stamps/symbols/money/us/coins/100sacagawea
+msgid "A US “Sacagawea” dollar ($1.00)."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/music/clef0_treble.png
+#: ../stamps/symbols/music/clef0_treble
+msgid "The treble clef."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/music/clef1_bass.png
+#: ../stamps/symbols/music/clef1_bass
+msgid "The bass clef."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/music/key_flat.png
+#: ../stamps/symbols/music/key_flat
+msgid "Flat."
+msgstr "Рамен."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/music/key_sharp.png
+#: ../stamps/symbols/music/key_sharp
+msgid "Sharp."
+msgstr "Остар."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/music/note_012_a.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/music/note_012_b.png
+#: ../stamps/symbols/music/note_012_a ../stamps/symbols/music/note_012_b
+msgid "Eighth note."
+msgstr "Осмина нота."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/music/note_025_a.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/music/note_025_b.png
+#: ../stamps/symbols/music/note_025_a ../stamps/symbols/music/note_025_b
+msgid "Quarter note."
+msgstr "Четвртина нота."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/music/note_050_a.png
+#. View at https://tuxpaint.org/stamps/stamps/symbols/music/note_050_b.png
+#: ../stamps/symbols/music/note_050_a ../stamps/symbols/music/note_050_b
+msgid "Half note."
+msgstr "Половина нота."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/music/note_100.png
+#: ../stamps/symbols/music/note_100
+msgid "Whole note."
+msgstr "Цела нота."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/music/rest_025.png
+#: ../stamps/symbols/music/rest_025
+msgid "Quarter rest."
+msgstr "Четвртина пауза."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/shapes/hand.png
+#: ../stamps/symbols/shapes/hand
+msgid "A hand."
+msgstr "Рака."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/shapes/heart.svg
+#: ../stamps/symbols/shapes/heart
+msgid "A heart."
+msgstr "Срце."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/shapes/pawprint.png
+#: ../stamps/symbols/shapes/pawprint
+msgid "A paw print."
+msgstr "Трага од шепа."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/shapes/scream_balloon.svg
+#: ../stamps/symbols/shapes/scream_balloon
+#, fuzzy
+#| msgid "A soccer ball."
+msgid "A scream balloon."
+msgstr "Фудбалска топка."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/shapes/speech_balloon.svg
+#: ../stamps/symbols/shapes/speech_balloon
+#, fuzzy
+#| msgid "A hot air balloon."
+msgid "A speech balloon."
+msgstr "Балон со жежок воздух."
+
+#. View at https://tuxpaint.org/stamps/stamps/symbols/shapes/thought_balloon.svg
+#: ../stamps/symbols/shapes/thought_balloon
+#, fuzzy
+#| msgid "A hot air balloon."
+msgid "A thought balloon."
+msgstr "Балон со жежок воздух."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/uk_post_box.png
+#: ../stamps/town/uk_post_box
+msgid "A UK post box. Put your letter in here!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/usps_mailbox.png
+#: ../stamps/town/usps_mailbox
+msgid "A mailbox."
+msgstr "Поштенско сандаче."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/cartoon/docks.svg
+#: ../stamps/town/cartoon/docks
+msgid "Down at the docks."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/cartoon/fountain.svg
+#: ../stamps/town/cartoon/fountain
+msgid "The fountain of youth."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/cartoon/gate.svg
+#: ../stamps/town/cartoon/gate
+#, fuzzy
+msgid "A gate."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/cartoon/mine.svg
+#: ../stamps/town/cartoon/mine
+#, fuzzy
+msgid "A mine."
+msgstr "Манго."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/cartoon/ruins.svg
+#: ../stamps/town/cartoon/ruins
+msgid "A castle in ruins."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/cartoon/shipwreck.svg
+#: ../stamps/town/cartoon/shipwreck
+#, fuzzy
+msgid "A shipwreck."
+msgstr "Пиле."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/cartoon/watch_tower.svg
+#: ../stamps/town/cartoon/watch_tower
+#, fuzzy
+msgid "A watch tower."
+msgstr "Војник во падобрански одред."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/cartoon/wishing_well.svg
+#: ../stamps/town/cartoon/wishing_well
+#, fuzzy
+msgid "A wishing well."
+msgstr "Грмотевица"
+
+#. View at https://tuxpaint.org/stamps/stamps/town/flags/blue-and-yellowflag.png
+#: ../stamps/town/flags/blue-and-yellowflag
+msgid "A blue and yellow flag."
+msgstr "Сино и жолто знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/flags/checkeredflag.png
+#: ../stamps/town/flags/checkeredflag
+#, fuzzy
+#| msgid "A red flag."
+msgid "A checkered flag."
+msgstr "Црвено знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/flags/greenflag.png
+#: ../stamps/town/flags/greenflag
+msgid "A green flag."
+msgstr "Зелено знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/flags/redflag.png
+#: ../stamps/town/flags/redflag
+msgid "A red flag."
+msgstr "Црвено знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/flags/whiteflag.png
+#: ../stamps/town/flags/whiteflag
+msgid "A white flag."
+msgstr "Бело знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/flags/yellowflag.png
+#: ../stamps/town/flags/yellowflag
+msgid "A yellow flag."
+msgstr "Жолто знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/blacksmith.svg
+#: ../stamps/town/houses/cartoon/blacksmith
+msgid "The blacksmith shop."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/cathedral.svg
+#: ../stamps/town/houses/cartoon/cathedral
+msgid "Cathedral."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/cave_entrance.svg
+#: ../stamps/town/houses/cartoon/cave_entrance
+msgid "Enter the cave."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/circus.svg
+#: ../stamps/town/houses/cartoon/circus
+#, fuzzy
+msgid "Circus tent."
+msgstr "Шатор."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/city.svg
+#: ../stamps/town/houses/cartoon/city
+#, fuzzy
+msgid "A medieval city."
+msgstr "Шатор."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/cityhouse.svg
+#: ../stamps/town/houses/cartoon/cityhouse
+#, fuzzy
+msgid "Two city houses."
+msgstr "Две куќи."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/fairytale_castle.svg
+#: ../stamps/town/houses/cartoon/fairytale_castle
+msgid "A fairytale castle."
+msgstr "Замок од бајките."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/farm.svg
+#: ../stamps/town/houses/cartoon/farm
+#, fuzzy
+msgid "A farm."
+msgstr "Сладок компир."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/fishery.svg
+#: ../stamps/town/houses/cartoon/fishery
+#, fuzzy
+msgid "A fishery."
+msgstr "Срце."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/fort.svg
+#: ../stamps/town/houses/cartoon/fort
+#, fuzzy
+msgid "A fort."
+msgstr "Подарок."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/fortress.svg
+#: ../stamps/town/houses/cartoon/fortress
+#, fuzzy
+msgid "A fortress."
+msgstr "Подарок."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/hunter.svg
+#: ../stamps/town/houses/cartoon/hunter
+msgid "The house of the hunter."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/igloo.svg
+#: ../stamps/town/houses/cartoon/igloo
+msgid "An igloo."
+msgstr "Иглу."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/inn.svg
+#: ../stamps/town/houses/cartoon/inn
+#, fuzzy
+msgid "An inn."
+msgstr "Кромид."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/jailhouse.svg
+#: ../stamps/town/houses/cartoon/jailhouse
+#, fuzzy
+msgid "A jailhouse."
+msgstr "Самовилко коњче."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/lighthouse.svg
+#: ../stamps/town/houses/cartoon/lighthouse
+#, fuzzy
+msgid "A lighthouse."
+msgstr "Самовилко коњче."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/medieval_tent.svg
+#: ../stamps/town/houses/cartoon/medieval_tent
+#, fuzzy
+msgid "A medieval tent."
+msgstr "Шатор."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/monastery.svg
+#: ../stamps/town/houses/cartoon/monastery
+#, fuzzy
+msgid "A monastery."
+msgstr "Малина."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/pinkhome.svg
+#: ../stamps/town/houses/cartoon/pinkhome
+msgid "A pink dream house."
+msgstr "Розева куќа од соништата."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/stables.svg
+#: ../stamps/town/houses/cartoon/stables
+#, fuzzy
+msgid "A stable."
+msgstr "Ѕвезда."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/swisshome.svg
+#: ../stamps/town/houses/cartoon/swisshome
+msgid "A Swiss house."
+msgstr "Швајцарска куќа."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/tavern.svg
+#: ../stamps/town/houses/cartoon/tavern
+#, fuzzy
+msgid "A tavern."
+msgstr "Ѕвезда."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/tent.svg
+#: ../stamps/town/houses/cartoon/tent
+msgid "A tent."
+msgstr "Шатор."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/tepee.svg
+#: ../stamps/town/houses/cartoon/tepee
+#, fuzzy
+#| msgid "A teapot."
+msgid "A tepee."
+msgstr "Чајник."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/tower_flag_red.svg
+#: ../stamps/town/houses/cartoon/tower_flag_red
+#, fuzzy
+msgid "A tower with a red flag."
+msgstr "Бело знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/tower_round.svg
+#: ../stamps/town/houses/cartoon/tower_round
+#, fuzzy
+msgid "A round tower."
+msgstr "Споменик."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/tower_round_flag.svg
+#: ../stamps/town/houses/cartoon/tower_round_flag
+#, fuzzy
+msgid "A round tower with a pink flag."
+msgstr "Бело знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/tower_square.svg
+#: ../stamps/town/houses/cartoon/tower_square
+#, fuzzy
+msgid "A square tower."
+msgstr "Војник во падобрански одред."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/townhall.svg
+#: ../stamps/town/houses/cartoon/townhall
+#, fuzzy
+#| msgid "A brown hen."
+msgid "The town hall."
+msgstr "Кафена кокошка."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/university.svg
+#: ../stamps/town/houses/cartoon/university
+msgid "A university."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/warehouse.svg
+#: ../stamps/town/houses/cartoon/warehouse
+#, fuzzy
+msgid "A warehouse."
+msgstr "Роза."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/windmill.svg
+#: ../stamps/town/houses/cartoon/windmill
+#, fuzzy
+msgid "A windmill."
+msgstr "Свеќа."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/houses/cartoon/wooden_cottage.svg
+#: ../stamps/town/houses/cartoon/wooden_cottage
+msgid "A wooden cottage."
+msgstr "Дрвена куќичка."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/monuments/inukshuk-outline.png
+#. View at https://tuxpaint.org/stamps/stamps/town/monuments/inukshuk-photo.png
+#: ../stamps/town/monuments/inukshuk-outline
+#: ../stamps/town/monuments/inukshuk-photo
+msgid "An inukshuk (or inuksuk), a landmark made of stones. It was used as a milestone or directional marker by the Inuit of the Canadian Artic."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/monuments/cartoon/eiffel_tower.png
+#: ../stamps/town/monuments/cartoon/eiffel_tower
+msgid "The Eiffel tower in Paris."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/monuments/cartoon/graveyard.svg
+#: ../stamps/town/monuments/cartoon/graveyard
+#, fuzzy
+msgid "A graveyard."
+msgstr "Надгробна плоча."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/monuments/cartoon/magic_stones.svg
+#: ../stamps/town/monuments/cartoon/magic_stones
+msgid "Magic stones."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/monuments/cartoon/obelisk.svg
+#: ../stamps/town/monuments/cartoon/obelisk
+#, fuzzy
+msgid "An obelisk."
+msgstr "Перуника."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/monuments/cartoon/pyramid.svg
+#: ../stamps/town/monuments/cartoon/pyramid
+#, fuzzy
+msgid "A pyramid."
+msgstr "Сладок компир."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/monuments/cartoon/statue.svg
+#: ../stamps/town/monuments/cartoon/statue
+#, fuzzy
+msgid "A statue."
+msgstr "Ѕвезда."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/monuments/cartoon/sword_in_the_stone.svg
+#: ../stamps/town/monuments/cartoon/sword_in_the_stone
+#, fuzzy
+msgid "A sword in the stone."
+msgstr "Споменик."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/monuments/cartoon/totem.svg
+#: ../stamps/town/monuments/cartoon/totem
+#, fuzzy
+msgid "A totem pole."
+msgstr "Црвено јаболко."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/arrow.png
+#: ../stamps/town/roadsigns/arrow
+msgid "“Arrow”."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/blankroadsign.svg
+#: ../stamps/town/roadsigns/blankroadsign
+msgid "An empty roadsign to draw on!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/crossroads.png
+#: ../stamps/town/roadsigns/crossroads
+#, fuzzy
+msgid "“Crossroads”."
+msgstr "Премин за ученици."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/dead_end_sign.png
+#: ../stamps/town/roadsigns/dead_end_sign
+msgid "Dead end ahead!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/give_way_sign.png
+#: ../stamps/town/roadsigns/give_way_sign
+msgid "“Give Way” means you have to let other people go first."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/hospital.png
+#: ../stamps/town/roadsigns/hospital
+msgid "“Hospital”."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/no_entry_sign.png
+#: ../stamps/town/roadsigns/no_entry_sign
+msgid "No entry!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/no_uturn.png
+#: ../stamps/town/roadsigns/no_uturn
+msgid "“No U-Turn”."
+msgstr "Без свртување во спротивна насока."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/railroad_crossing.png
+#: ../stamps/town/roadsigns/railroad_crossing
+msgid "A railroad crossing."
+msgstr "Железничка пруга."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/roundabout.png
+#: ../stamps/town/roadsigns/roundabout
+msgid "Roundabout ahead! Which way will you go?"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/school_sign.png
+#: ../stamps/town/roadsigns/school_sign
+msgid "School ahead! Drive slowly!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/stop.png
+#: ../stamps/town/roadsigns/stop
+msgid "A “Stop” sign. Stop here, then go when it’s your turn."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/stoplight_01_red.png
+#: ../stamps/town/roadsigns/stoplight_01_red
+msgid "The red light means you must stop now."
+msgstr "Црвеното светло значи дека мора да застанеш веднаш."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/stoplight_02_yellow.png
+#: ../stamps/town/roadsigns/stoplight_02_yellow
+#, fuzzy
+msgid "The yellow light means you should stop if it is safe to do so."
+msgstr "Жолтото светло значи дека би требало да застанеш доколку е безбедно да го направиш тоа."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/stoplight_03_green.png
+#: ../stamps/town/roadsigns/stoplight_03_green
+#, fuzzy
+msgid "The green light means you can go if it is safe to do so."
+msgstr "Зеленото светло значи дека можеш да одиш доколку е сигурно да го направиш тоа."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/t-junction.png
+#: ../stamps/town/roadsigns/t-junction
+msgid "“T-intersection”."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/toilets.png
+#: ../stamps/town/roadsigns/toilets
+msgid "“Toilets”."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/traffic_cone.png
+#: ../stamps/town/roadsigns/traffic_cone
+#, fuzzy
+msgid "A traffic cone."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/xing_ped.png
+#: ../stamps/town/roadsigns/xing_ped
+msgid "Pedestrian Crossing (“PED XING”)."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/xing_school.png
+#: ../stamps/town/roadsigns/xing_school
+#, fuzzy
+msgid "“School Crossing”."
+msgstr "Премин за ученици."
+
+#. View at https://tuxpaint.org/stamps/stamps/town/roadsigns/yield.png
+#: ../stamps/town/roadsigns/yield
+msgid "“Yield” means you have to let other people go first."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/7spoke256.png
+#: ../stamps/vehicles/7spoke256
+msgid "A wheel! Put the brake calipers toward the rear."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/bikewheel.svg
+#: ../stamps/vehicles/bikewheel
+#, fuzzy
+msgid "A bicycle wheel."
+msgstr "Сина капа."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/blue_truck.svg
+#: ../stamps/vehicles/blue_truck
+#, fuzzy
+msgid "A blue truck."
+msgstr "Гумена патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/garbagetruck.png
+#: ../stamps/vehicles/garbagetruck
+#, fuzzy
+msgid "A garbage truck."
+msgstr "Гумена патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/iso_bus.svg
+#: ../stamps/vehicles/iso_bus
+#, fuzzy
+msgid "A bus."
+msgstr "Зебра."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/iso_fireengine.svg
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/emergency/firetruck.png
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/emergency/cartoon/fire_engine.png
+#: ../stamps/vehicles/iso_fireengine ../stamps/vehicles/emergency/firetruck
+#: ../stamps/vehicles/emergency/cartoon/fire_engine
+#, fuzzy
+msgid "A fire truck."
+msgstr "Гумена патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/iso_lorry1.svg
+#: ../stamps/vehicles/iso_lorry1
+#, fuzzy
+msgid "A logging truck."
+msgstr "Гумена патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/iso_lorry2.svg
+#: ../stamps/vehicles/iso_lorry2
+#, fuzzy
+msgid "A tanker truck."
+msgstr "Гумена патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/iso_lorry3.svg
+#: ../stamps/vehicles/iso_lorry3
+#, fuzzy
+msgid "A container truck."
+msgstr "Гумена патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/iso_lorry4.svg
+#: ../stamps/vehicles/iso_lorry4
+#, fuzzy
+#| msgid "A very small pumpkin."
+msgid "A small dump truck."
+msgstr "Многу мала тиква."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/toy_truck.svg
+#: ../stamps/vehicles/toy_truck
+#, fuzzy
+msgid "A toy truck."
+msgstr "Гумена патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/tyre_with_rim.svg
+#: ../stamps/vehicles/tyre_with_rim
+#, fuzzy
+msgid "A tire."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/wheel_tractor.png
+#: ../stamps/vehicles/wheel_tractor
+#, fuzzy
+msgid "A tractor wheel."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/auto/beetle.png
+#: ../stamps/vehicles/auto/beetle
+msgid "A VW Beetle."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/auto/sedan.png
+#: ../stamps/vehicles/auto/sedan
+#, fuzzy
+msgid "A sedan car."
+msgstr "Авион."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/auto/sportscar.svg
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/auto/sportscar2.png
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/auto/sportscar3.svg
+#: ../stamps/vehicles/auto/sportscar ../stamps/vehicles/auto/sportscar2
+#: ../stamps/vehicles/auto/sportscar3
+#, fuzzy
+#| msgid "A star."
+msgid "A sports car."
+msgstr "Ѕвезда."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/auto/truck.png
+#: ../stamps/vehicles/auto/truck
+#, fuzzy
+msgid "A pickup truck."
+msgstr "Гумена патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/construction/dumper.png
+#: ../stamps/vehicles/construction/dumper
+msgid "A dumper. It carries its load in the front."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/construction/cartoon/bulldozer.svg
+#: ../stamps/vehicles/construction/cartoon/bulldozer
+msgid "A bulldozer. It pushes dirt with a big shovel."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/construction/cartoon/cementMixer.png
+#: ../stamps/vehicles/construction/cartoon/cementMixer
+#, fuzzy
+msgid "A colorful toy cement truck."
+msgstr "Обоено виножито."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/construction/cartoon/forklift.svg
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/construction/cartoon/forklift2.svg
+#: ../stamps/vehicles/construction/cartoon/forklift
+#: ../stamps/vehicles/construction/cartoon/forklift2
+#, fuzzy
+msgid "A forklift truck."
+msgstr "Гумена патка."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/construction/cartoon/terex.png
+#: ../stamps/vehicles/construction/cartoon/terex
+#, fuzzy
+#| msgid "A very small pumpkin."
+msgid "A huge dump truck."
+msgstr "Многу мала тиква."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/construction/cartoon/towTruck.png
+#: ../stamps/vehicles/construction/cartoon/towTruck
+#, fuzzy
+msgid "A colorful toy tow truck."
+msgstr "Обоено виножито."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/cycle/bluebike.svg
+#: ../stamps/vehicles/cycle/bluebike
+#, fuzzy
+msgid "A blue bicycle."
+msgstr "Сина капа."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/cycle/motorbike.svg
+#: ../stamps/vehicles/cycle/motorbike
+#, fuzzy
+msgid "A motor bike."
+msgstr "Подарок."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/cycle/pink_tricycle.png
+#: ../stamps/vehicles/cycle/pink_tricycle
+#, fuzzy
+msgid "A pink tricycle."
+msgstr "Розова торта."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/emergency/sedan_police.png
+#: ../stamps/vehicles/emergency/sedan_police
+msgid "Police car emblems to put on the sedan."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/farming/cartoon/tractor.svg
+#: ../stamps/vehicles/farming/cartoon/tractor
+#, fuzzy
+msgid "A tractor."
+msgstr "Стап."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/farming/cartoon/tux_tractor.png
+#: ../stamps/vehicles/farming/cartoon/tux_tractor
+msgid "Tux the penguin in a farm tractor!"
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/flight/balloon360.png
+#: ../stamps/vehicles/flight/balloon360
+msgid "A hot air balloon."
+msgstr "Балон со жежок воздух."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/flight/cartoon/eddieCopter.png
+#: ../stamps/vehicles/flight/cartoon/eddieCopter
+msgid "Eddie the Helicopter."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/flight/planes/747.png
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/flight/planes/plane.svg
+#: ../stamps/vehicles/flight/planes/747 ../stamps/vehicles/flight/planes/plane
+msgid "An airplane."
+msgstr "Авион."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/flight/planes/cartoon/plane.png
+#: ../stamps/vehicles/flight/planes/cartoon/plane
+msgid "Tux Airways."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/locomotive/white_train.svg
+#: ../stamps/vehicles/locomotive/white_train
+#, fuzzy
+#| msgid "A white flag."
+msgid "A white locomotive."
+msgstr "Бело знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/locomotive/cartoon/boxcar.png
+#: ../stamps/vehicles/locomotive/cartoon/boxcar
+msgid "A boxcar is used to carry livestock."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/locomotive/cartoon/caboose.png
+#: ../stamps/vehicles/locomotive/cartoon/caboose
+msgid "The caboose—a carriage for the guard."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/locomotive/cartoon/carriage.png
+#: ../stamps/vehicles/locomotive/cartoon/carriage
+#, fuzzy
+msgid "A passenger carriage."
+msgstr "Авион."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/locomotive/cartoon/tanker.png
+#: ../stamps/vehicles/locomotive/cartoon/tanker
+msgid "Tankers carry bulk liquids."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/locomotive/cartoon/tender.png
+#: ../stamps/vehicles/locomotive/cartoon/tender
+msgid "The tender carries water and coal for the engine."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/locomotive/cartoon/toy_train.png
+#: ../stamps/vehicles/locomotive/cartoon/toy_train
+#, fuzzy
+#| msgid "A white flag."
+msgid "A steam locomotive."
+msgstr "Бело знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/locomotive/cartoon/trainSign.png
+#: ../stamps/vehicles/locomotive/cartoon/trainSign
+msgid "A train sign."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/masstransit/green_korean_bus.png
+#: ../stamps/vehicles/masstransit/green_korean_bus
+#, fuzzy
+#| msgid "A green fedora."
+msgid "A green bus."
+msgstr "Зелена капа."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/masstransit/cartoon/double_decker_bus.png
+#: ../stamps/vehicles/masstransit/cartoon/double_decker_bus
+msgid "A double decker bus."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/masstransit/cartoon/schoolbus.svg
+#: ../stamps/vehicles/masstransit/cartoon/schoolbus
+#, fuzzy
+#| msgid "A yellow flag."
+msgid "A yellow school bus."
+msgstr "Жолто знаме."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/race/f1_car.svg
+#: ../stamps/vehicles/race/f1_car
+msgid "A formula one race car."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/race/indycar.png
+#: ../stamps/vehicles/race/indycar
+#, fuzzy
+msgid "A race car."
+msgstr "Авион."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/ship/chineseJunk.png
+#: ../stamps/vehicles/ship/chineseJunk
+msgid "An old Chinese sailing ship."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/ship/sail_boat1.svg
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/ship/sail_boat2.svg
+#: ../stamps/vehicles/ship/sail_boat1 ../stamps/vehicles/ship/sail_boat2
+#, fuzzy
+#| msgid "A mailbox."
+msgid "A sail boat."
+msgstr "Поштенско сандаче."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/ship/walnutBoat.png
+#: ../stamps/vehicles/ship/walnutBoat
+#, fuzzy
+#| msgid "A mailbox."
+msgid "A walnut sailboat."
+msgstr "Поштенско сандаче."
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/ship/cartoon/bathyscape.png
+#: ../stamps/vehicles/ship/cartoon/bathyscape
+msgid "UB2006 “Penguin II” deep sea research vessel."
+msgstr ""
+
+#. View at https://tuxpaint.org/stamps/stamps/vehicles/ship/cartoon/tugboat.png
+#: ../stamps/vehicles/ship/cartoon/tugboat
+#, fuzzy
+msgid "A colorful toy tugboat."
+msgstr "Обоено виножито."
+
+#, fuzzy
+#~| msgid "A brown hen."
+#~ msgid "A brown present."
+#~ msgstr "Кафена кокошка."
+
+#, fuzzy
+#~| msgid "A ghost."
+#~ msgid "A gold present."
+#~ msgstr "Дух."
+
+#, fuzzy
+#~| msgid "A green pepper."
+#~ msgid "A green present."
+#~ msgstr "Зелена пиперка."
+
+#, fuzzy
+#~| msgid "A heart."
+#~ msgid "A pink heart."
+#~ msgstr "Срце."
+
+#, fuzzy
+#~| msgid "A heart."
+#~ msgid "A red heart."
+#~ msgstr "Срце."
+
+#, fuzzy
+#~| msgid "A red apple."
+#~ msgid "A red present."
+#~ msgstr "Црвено јаболко."
+
+#, fuzzy
+#~| msgid "A star."
+#~ msgid "A sportscar."
+#~ msgstr "Ѕвезда."
+
+#, fuzzy
+#~ msgid "A t-shirt."
+#~ msgstr "Срце."

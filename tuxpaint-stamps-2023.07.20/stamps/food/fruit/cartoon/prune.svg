@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 20010904//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg1" width="400pt" height="400pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs3">
+  <radialGradient id="radialGradient832" cx=".44118" cy=".54229" r=".45305">
+   <stop id="stop830" stop-color="#fff" stop-opacity=".28333" offset="0"/>
+   <stop id="stop831" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g id="g862" fill-rule="evenodd">
+  <path id="path930" d="m243.36 128.48c-110.67-62.95-295.46 253.83-29.444 327.95 205.09 10.153 299.52-342.16 76.149-322.87-7.1072 2.0306-32.49 0-46.705-5.0766z" fill="#54007f" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+  <path id="path931" d="m256.56 125.43c-39.597-3.046 31.599 29.444 22.461 9.1378 7.1072-56.858 53.621-81.513 72.912-83.544 52.796-10.153 8.1887-41.34-17.194-15.957-11.168 4.0613-50.766 20.306-78.179 90.363z" fill="#004e00" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+  <path id="path932" d="m138.79 369.11c2.0306-9.1378 27.414-196.97 100.52-219.31-7.1072-12.184-11.168-16.245-26.398-12.184-92.394 49.75-93.409 227.43-74.118 231.49z" fill-opacity=".1" stroke-width="1pt"/>
+  <path id="path933" d="m306.31 140.66c138.08 83.256-59.904 260.94-16.245 289.36 222.35-209.15 70.057-266.01 16.245-289.36z" fill="#ffffe8" fill-opacity=".1" stroke-width="1pt"/>
+  <path id="path934" d="m289.05 212.75c-71.072-30.459-138.08 61.934-61.934 124.88 60.919 40.613 113.72-93.409 61.934-124.88z" fill="url(#radialGradient832)" fill-opacity=".75" stroke-width="1pt"/>
+  <path id="path936" d="m265.04 133.33c-0.50967-3.3299 23.313-88.045 96.455-100.23 9.6435 9.488-72.597 9.6435-96.455 100.23z" fill="#090" fill-opacity=".5" stroke-width="1pt"/>
+ </g>
+ <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <Work rdf:about="">
+   <dc:title>Clipart by Nicu Buculei - pear</dc:title>
+   <dc:rights>
+    <Agent>
+     <dc:title>Nicu Buculei</dc:title>
+    </Agent>
+   </dc:rights>
+   <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   <license rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+  </Work>
+  <License rdf:about="http://web.resource.org/cc/PublicDomain">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+   <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+  </License>
+ </rdf:RDF>
+</svg>

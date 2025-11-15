@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 20010904//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg1" width="400pt" height="400pt" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs3">
+  <linearGradient id="linearGradient855">
+   <stop id="stop856" stop-color="#fff" stop-opacity="0" offset="0"/>
+   <stop id="stop857" stop-color="#ffa617" stop-opacity=".73333" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient850" x1=".84821" x2=".83036" y1=".095" y2="1.485" xlink:href="#linearGradient855"/>
+  <linearGradient id="linearGradient854" x1=".55147" x2=".51471" y1="-.14844" y2="1.5469" xlink:href="#linearGradient855"/>
+ </defs>
+ <path id="path968" d="m295.63 99.978c17.38 1.6627 27.384 0.25564 42.203 7.5948 14.82 7.3391 17.662-0.4405 29.559 11.458 11.897 11.898 19.591 1.0486 28.204 16.389-20.001 7.6704-58.668 37.175-68.174 49.545-10.725 13.956-15.939 34.28 6.4308 41.787-28.134 8.652-28.744 34.646 1.4609 50.147-29.422 4.4572-21.987 40.595 3.6145 53.956-20.391 14.348-21.513 33.858 2.2491 41.385-16.051 14.621 6.9999 34.89 44.601 37.543-9.2446 14.144-25.998 20.372-27.852 24.52-17.43 7.015-237.52-14.988-254.2-36.602 12.845-1.6472 34.214-6.526 42.995-14.536s58.512-23.152 35.91-37.979c16.288-16.595 7.701-57.183-8.7337-52.17 6.5462-17.084 22.199-40.185-8.5085-59.413 22.325-13.041 20.555-28.137-1.4557-45.027 23.952-8.9356-41.28-37.344-69.863-75.242 8.5398-6.9624 22.792-7.505 31.585-10.207 5.4831-1.8705 152.59-5.6427 169.97-3.1487z" fill="#dfddb8" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+ <path id="path866" d="m273.69 167.94c-28.94-21.88-44.853-22.833-86.309-11.44-15.823-20.426-66.913-4.6402-95.496-42.539 8.5398-6.9624 17.489-11.924 26.282-14.626 5.4831-1.8705 10.85-3.5462 16.043-5.0464 5.1937-1.5003 10.214-2.8252 15.006-3.9943 4.7912-1.1691 9.3529-2.1822 13.628-3.059 4.2756-0.8768 8.265-1.6172 11.912-2.2407 3.6468-0.6235 6.9508-1.1301 9.8556-1.5393 2.9048-0.40917 5.4103-0.72092 7.46-0.95473 2.0497-0.23381 3.6435-0.38969 4.7249-0.48711 1.0814-0.097421 1.6504-0.13639 1.6504-0.13639s90.871-18.237 100.3-5.1362c17.38-4.5245 50.365 5.559 32.481 19.085 29.966-7.5556 58.321-2.2083 51.657 14.11 22.552 4.3043 27.546 31.984 5.2226 25.228 11.819 17.393-13.774 15.593-24.864 26.564-28.403 28.098-82.231-27.592-89.029 5.5476m-50.609 231.38c-11.552 32.026 74.831 24.135 89.754-4.577 0.74323 28.764 35.284 14.561 72.885 17.214-9.2446 14.144-16.275 23.908-18.129 28.055-9.475 14.97-76.142 26.603-94.35 39.073-11.587 9.1447-89.436-1.22-107.59-13.301-24.829-22.238-45.3-44.294-61.977-65.909 12.845-1.6472 34.214-6.526 42.995-14.536s41.719 38.72 76.568 15.054" fill="#df3511" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+ <path id="path870" d="m275 470.93c8.897-17.25 16.294-34.76 22.644-51.478 6.3495-16.718 11.652-32.643 16.359-46.724s35.614 20.705 37.412 32.929c1.7975 12.223 4.2804 23.498 8.0048 32.019-3.1036 2.2862-8.6384 4.936-15.518 7.7678-6.8797 2.8317-15.104 5.8453-23.588 8.8589-8.4832 3.0136-17.225 6.0272-25.139 8.8589s-15.001 5.4816-20.174 7.7678z" fill="url(#linearGradient850)" fill-opacity=".75" fill-rule="evenodd" stroke-width="1pt"/>
+ <path id="path873" d="m196.8 128.44s-20.691-11.639-19.036-18.289c14.07 4.988 22.346 12.47 27.312 9.1446 4.9658-3.3253 4.9658 9.1447 9.104-6.6507 4.1382-15.795 15.725-33.253 14.07-15.795-1.6553 20.783 6.6211 24.94 24.001 9.1447 17.38-15.795 24.001-11.639 19.036 9.1447-24.829 27.434-80.28 19.121-74.487 13.301z" fill="url(#linearGradient854)" fill-opacity=".75" fill-rule="evenodd" stroke-width="1pt"/>
+ <path id="path871" d="m163.69 120.12c75.315 26.603 62.9 13.301 144.01-8.3133" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+ <path id="path867" d="m225.44 132.32c-3.3105-19.952 35.071-111.24 46.658-112.9 7.4487-0.83134 40.55 16.108 21.105 26.714 0 8.8388-7.4487-1.6627-12.414 1.6627-11.587 12.47-30.944 51.438-37.565 82.197l-17.784 2.3264z" fill="#4a2a00" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+ <path id="path2212" d="m302.29 184.45c-11.196 10.901-17.996 20.271-20.329 48.614-1.2995 15.785 1.1785 32.409 1.7678 48.614" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+ <path id="path2834" d="m224.25 324.11c2.236 16.669-1.4731 29.757-15.91 48.614" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+ <path id="path2835" d="m246.6 172.08c-0.29463 32.998-2.083 43.545-6.1872 60.988-2.9668 12.609-12.865 18.954-12.374 34.471 0.61832 19.559 8.985 24.815 12.374 39.775 5.1549 22.752 10.312 36.534 10.607 75.13-0.29463-40.364 0.80984-45.745 4.4194-68.059 2.8722-17.756 13.422-28.818 13.258-45.962-0.13135-13.792-10.142-32.919-14.142-46.846-3.9548-13.769-5.3033-3.5355-7.955-49.497z" fill="none" stroke="#000" stroke-linecap="round" stroke-width="5"/>
+ <path id="path3457" transform="translate(218.32 158.22)" d="m25.633 109.77a5.7452 12.816 0 1 0-11.49 0 5.7452 12.816 0 1 0 11.49 0z" fill-opacity=".75" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+ <path id="path4079" transform="translate(239.09 156.89)" d="m25.633 109.77a5.7452 12.816 0 1 0-11.49 0 5.7452 12.816 0 1 0 11.49 0z" fill-opacity=".75" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+ <path id="path4080" d="m247.49 218.93 0.88389 101.65" fill="none" stroke="#000" stroke-width="1pt"/>
+ <metadata>
+  <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <Work rdf:about="">
+    <dc:title>Apple Core</dc:title>
+    <dc:description>This apple has almost finished being eaten.</dc:description>
+    <dc:subject>food, fruit, trash</dc:subject>
+    <dc:publisher>
+     <Agent rdf:about="http://www.openclipart.org">
+      <dc:title>HASH(0x893e184)</dc:title>
+     </Agent>
+    </dc:publisher>
+    <dc:creator>
+     <Agent rdf:about="">
+      <dc:title>Nicu Buculei and Nathan Eady</dc:title>
+     </Agent>
+    </dc:creator>
+    <dc:rights>
+     <Agent rdf:about="">
+      <dc:title>Nicu Buculei and Nathan Eady</dc:title>
+     </Agent>
+    </dc:rights>
+    <dc:date/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <license rdf:resource="Public Domain">
+     <dc:date>7</dc:date>
+    </license>
+    <dc:language>en</dc:language>
+   </Work>
+   <License rdf:about="Public Domain">
+    <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+    <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+    <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+   </License>
+  </rdf:RDF>
+ </metadata>
+</svg>

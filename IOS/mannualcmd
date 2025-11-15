@@ -1,0 +1,1 @@
+xcodebuild -create-xcframework -library ./build/Release-iphonesimulator/libimagequant_sys_static.a -library ./build/Release-iphoneos/libimagequant_sys_static.a -output releas-xc-ios/libimagequant_sys.xcframework

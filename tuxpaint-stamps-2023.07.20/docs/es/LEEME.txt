@@ -1,0 +1,74 @@
+LEEME.txt de los Sellos del Tux Paint
+
+Tux Paint - Un programa de dibujo simple para niños.
+Esta es una colección de imágenes de 'sellos de goma' para el Tux Paint.
+
+Copyright 2002 por Bill Kendrick
+bill@newbreedsoftware.com
+http://www.newbreedsoftware.com/tuxpaint/?lang=es
+
+6 de Setiembre de 2002 - 3 de Noviembre de 2002
+
+
+Acerca de:
+----------
+  Tux Paint es un programa de dibujo para niños chicos. (Digamos, 3 a 10 años)
+  Está siendo desarrollado principalmente para satisfacer una necesidad
+  educacional o de "edutenimiento" para el sistema operativo de Código Abierto
+  "Linux", pero es compatible con otras plataformas, incluyendo Windows,
+  MacOS, BeOS, otras variantes de Unix, etc.
+
+  Este paquete es una colección de 'sellos de goma' para la herramienta
+  "Sellos" del Tux Paint.
+
+
+Instalación:
+-----------
+  Linux/Unix:
+  -----------
+    Como superusuario 'root', ejecutar el comando:
+
+      make install
+
+    
+    Por defecto el directorio "stamps" se ubica en /usr/local/share/tuxpaint/
+    
+    Para que Tux Paint vea los sellos, estos deben ser puestos en la misma
+    ubicación que la demás información del Tux Paint.
+    
+    Ver la documentación principal de instalación del Tux Paint,
+    "INSTALACION.txt", por información sobre cómo cambiar el lugar donde se
+    instalan los datos.
+
+
+  Windows:
+  --------
+    Hacer doble clic el ejecutable del instalador de Sellos del Tux Paint
+    (archivo .EXE) y seguir las instrucciones.
+
+    Se consultará dónde se desea ubicar los sellos del Tux Paint.
+    La opción por defecto debería ser apropiada, en tanto haya espacio
+    disponible. En caso contrario, escoger una ubicación distinta.
+
+    ¡Luego hacer clic sobre 'Install' para instalar los Sellos del Tux Paint!
+
+    (Recuerda que también puedes agregar los tuyos!  Ve la documentación
+     principal del Tux Paint.)
+
+
+Extendiéndolo:
+--------------
+  Por más información sobre cómo agregar tus propios sellos al Tux Paint,
+  ver la documentación principal del Tux Paint.
+
+
+¡Ayuda!
+-------
+  ¡Al equipo de Tux Paint le gustaría contar con más arte para la colección de
+  sellos! Si quieres colaborar, ¡por favor anótate en la lista de correo
+  de sellos del Tux Paint! (en inglés): 'tuxpaint-stamps'
+  Aquí:
+    http://www.newbreedsoftware.com/tuxpaint/lists/
+
+  ¡Gracias!
+

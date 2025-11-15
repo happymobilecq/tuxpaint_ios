@@ -1,0 +1,19 @@
+A wrapped gift.
+bg.utf8=Опакован подарък.
+ca.utf8=Un regal.
+ca@valencia.utf8=Un regal.
+cs.utf8=Zabalený dárek.
+fr.utf8=Un cadeau enveloppé.
+ga.utf8=Bronntanas.
+gl.utf8=Un agasallo envolto.
+gu.utf8=બાંધેલી ભેટ.
+is.utf8=Innpökkuð gjöf.
+ja.utf8=クリスマスプレゼント
+ka.utf8=შეფუთული საჩუქარი.
+nb.utf8=En innpakket gave.
+nn.utf8=Ei innpakka gåve.
+pt.utf8=Uma prenda embrulhada.
+sk.utf8=Zabalený darček.
+sq.utf8=Dhuratë e mbështjellë.
+uk.utf8=Подарунок в обгортці.
+zh_CN.utf8=礼物。

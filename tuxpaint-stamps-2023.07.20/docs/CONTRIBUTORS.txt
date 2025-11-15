@@ -1,0 +1,1111 @@
+CONTRIBUTORS.txt for Tux Paint Stamps
+
+Tux Paint - A simple drawing program for children.
+This is a collection of 'rubber stamp' images for Tux Paint.
+
+Copyright 2002-2023 by various contributors; see below
+https://tuxpaint.org/
+
+October 6, 2002 - April 18, 2023
+
+
+For specifics, see "CHANGES.txt" and/or check the text descriptions of
+the stamps for commented lines ("#") which often contain credits.
+
+
+Stamp Images
+------------
+  Bill Kendrick <bill@newbreedsoftware.com>
+
+    * Math symbols
+    * Music symbols
+    * Some fruit and vegetables
+    * Halloween
+    * Zoo animals
+
+
+  GOVIA Project
+    Justin Zeigler <jzeigler@osef.org>
+    http://govia.osef.org/
+
+    * US Coins
+    * Flowers
+    * Flags
+    * Cars and trucks
+    * Christmas
+    * Hanukkah
+
+
+  NASA and NSSDC
+    http://nssdc.gsfc.nasa.gov/
+
+    * Space stamps
+
+
+  National Oceanic & Atmospheric Adminstration (NOAA)
+    http://www.photolib.noaa.gov/
+
+    * Some sea life stamps
+
+
+  George Wong <gwong@hawaii.edu>
+    http://www.botany.hawaii.edu/faculty/wong/BOT135/LECT06.HTM
+
+    * Potato
+
+
+  MarketplaceFood.com
+    http://www.marketplacefood.com/weekly_specials.html
+
+    * Some fruit
+    * Some vegetables
+
+
+  Cocoranch Organic Farmers Market
+  Towani Organic Farm, Bangor, California
+    http://www.cocoranch.com/
+
+    * Some vegetables
+
+
+  Jacques Chion <jacques.chion@orange.fr>
+
+    * Euro coins
+
+
+  Ed Montgomery <edmontgomery@hotmail.com>
+
+    * Canadian coins
+    * Japanese coins
+
+
+  John O'Sullivan <johno@freesoftwaresolutions.com>
+
+    * Birds
+    * Fish
+
+
+  Jen and Ed Collins
+  (for allowing me to ransack their house with my camera)
+
+    * Tools
+    * Some fruit
+    * Some utensils and dishes
+
+
+  Boris Matovic
+    http://www.sxc.hu/browse.phtml?f=view&id=16742
+
+    * Grapes
+
+
+  Ahmed Al-Shukaili
+    http://www.sxc.hu/browse.phtml?f=view&id=111664
+
+    * Sliced orange
+
+
+  Peter Malinowsky
+    http://www.sxc.hu/browse.phtml?f=view&id=86046
+
+    * Sliced lime
+
+
+  Jean from DoodleLoo's <poptom@verizon.net>
+
+    * Easter stamps
+
+
+  Nicu Buculei <nicu@apsro.com>
+    http://nicubunu.ro/clipart/
+
+    * Cartoonish fruit stamps
+    * Cartoonish Christmas tree
+    * laptop.svg
+    * mobile.svg
+    * monitor.svg
+    * mouse.svg
+    * phone.svg
+    * calculator.svg
+
+
+  Mike Fitzpatrick <fritz@bulletdesign.net>
+    http://www.sxc.hu/browse.phtml?f=view&id=134314
+
+    * Pineapple (photo)
+
+
+  Jim Trice <jimtrice@linuxmail.org>
+
+    * Toy tug boat, copter, tow truck and cement mixer.
+    * Chinese junk and walnut sailboat.
+    * Toy lion doll.
+    * Singing dinosaur.
+
+
+  Chris Goerner <cgoerner@cowellas.sa.edu.au>
+
+    * Lemon
+    * Mandarine
+    * Yellow flower
+    * Pigface flower
+    * Fly (drawing)
+    * Abalone
+    * Adelaide Rosella
+    * Dingo
+    * Echinda
+    * Kangaroo
+    * Kangaroo (drawing)
+    * Little Penguin
+    * Magpie
+    * Murray mussel
+    * Rainbow lorikeet
+    * Silver gull
+    * Arrow
+    * Crossroads
+    * Hospital
+    * T-Junction
+    * Toilets
+
+
+  Childsplay (numerous animals)  <http://childsplay.sf.net/>
+  Images and sounds.
+  (GPL'd, copyright 2002-2005 Stas Zytkiewicz, <childsplay@users.sf.net>.
+  Adapted to use for Tux Paint by
+  Pere Pujal i Carabantes <perepujal@gmail.com>.)
+
+    + Badger
+    + Bear
+    + Beaver
+    + Bee
+    + Bison
+    + Blackbird
+    + Bull
+    + Camel
+    + Caribou
+    + Chimp
+    + Cow
+    + Crow
+    + Cuckoo
+    + Deer
+    + Doe
+    + Dog
+    + Dolphin
+    + Donkey
+    + Dromedary
+    + Duck
+    + Elephant
+    + Ferret
+    + Fly
+    + Fox
+    + Frog
+    + Gander
+    + Giraffe
+    + Goat
+    + Gorilla
+    + Grasshopper
+    + Hen
+    + Hippopotamus
+    + Hornet
+    + Horse
+    + Iguana
+    + Kangaroo
+    + Koala
+    + Lark
+    + Lion
+    + Marmot
+    + Mountain Goat
+    + Mouse
+    + Nandou
+    + Orca
+    + Owl
+    + Penguin
+    + Pig
+    + Quetzal
+    + Rabbit
+    + Ram
+    + Rooster
+    + Seagull
+    + Squirrel
+    + Tiger
+    + Tucan
+    + Turkey
+    + Vulture
+    + Whale
+    + Wombat
+    + Xanthia
+    + Yak
+    + Zebra
+
+
+  Steve Karg <steve@kargs.net>
+  (Public Domain)
+
+    + Cartoon fruit
+    + Broccoli
+    + Speech Balloon
+    + Thought Balloon
+    + Scream Balloon
+
+
+  Nicu Buculei, from an RPG game tileset
+  <http://nicubunu.blogspot.com/2008/01/quest-complete-rpg-map-tileset.html>
+  (Public domain)
+  (Collected, converted to PNG and optimized by Steve Karg <steve@kargs.net>)
+
+    + Various cartoon monuments
+    + Various cartoon houses
+    + Various cartoon town imagery
+
+
+  Caroline Ford <caroline.ford.work@googlemail.com>
+  (GNU Free Documentation License (GFDL))
+
+    + Kettle
+    + Wheelie Bin (garbage bin)
+    + Highlighter pen
+    + Mug
+    + UK Post Box
+    + Dead-End sign
+    + Give-Way sign
+    + Roundabout sign
+    + School sign
+    + Recycle symbol
+    + Beetle (VW Bug)
+    + Double Decker Bus
+      - fixed by Davo Smith <tuxpaint@davosmith.co.uk>
+    + Tricycle
+    + Naval ammunition shell
+    + WWII German Gun
+    + Holly Leaves
+    + Chocolate Easter Eggs
+    + Rugby Goal Posts
+    + No Entry sign
+    + Clock Face
+    + Alphabets (outlined/filled, uppercase/lowercase)
+      (Deja Sans font)
+      - English
+      - German
+        (Sounds from http://commons.wikimedia.org/wiki/Image:German_alphabet.ogg
+        License:GFDL)
+      - Spanish
+
+  Caroline Ford <caroline.ford.work@googlemail.com>
+  (GNU Free Documentation License (GFDL) (no invariant sections),
+  Creative Commons BY-SA and the GNU General Public License.)
+
+    + Home Compost Bin
+    + Animals from Mudchute Park and Farm, Tower Hamlets, London, England
+      (an urban farm for inner city children)
+      - Drake (sound effect)
+      - Hen (sound effect)
+      - Chicken (profile)
+      - Cow (white)
+      - Donkey
+      - Sheep
+      - Rabbit
+      - Baby sheep (lamb)
+      - Golden pig (1 & 2)
+     + garbagetruck.png
+     + daffodil.png
+     + spade.png
+     + cylinder.png
+     + cementmixer.png
+     + wheel_tractor.png
+
+    + Sound effects
+      - kettle.ogg
+      - glass.ogg
+      - bottle.ogg
+      - vacuum_cleaner.ogg
+
+  Wikimedia Commons (e.g., Wikipedia)
+  Adapted for Tux Paint by Bill Kendrick <bill@newbreedsoftware.com>
+    + Firetruck
+      Source: http://en.wikipedia.org/wiki/Image:E28_b.JPG
+      Wikipedia User: LangAM -- Aaron M. Lang <Aaron.lang@fbcrpb.com>
+      License: Creative Commons Attribution 2.5
+
+  Fonogeno <http://www.fonogeno.com/> sound collection
+  By Giuseppe Mangione <gm@fonogeno.com>, (c) 2006
+  License: Creative Commons Sampling Plus 1.0
+  Adapted for Tux Paint by Bill Kendrick <bill@newbreedsoftware.com>
+    + Sound "doppler_honk"
+
+  Wikimedia Commons (e.g., Wikipedia)
+  Adapted to use for Tux Paint by
+  Caroline Ford <caroline.ford.work@googlemail.com>
+    + Australian Rules Football
+      Source: http://upload.wikimedia.org/wikipedia/commons/0/01/Footy.JPG)
+      Wikipedia User: Scruffy.
+      License: Creative Commons BY-SA 2.0.
+
+    + Basketball
+      Source: http://upload.wikimedia.org/wikipedia/commons/7/7a/Basketball.png
+      Wikipedia User: reisio
+      License: Public Domain.
+
+    + Cricket ball
+      Source: http://upload.wikimedia.org/wikipedia/commons/b/b0/Cricketball.png
+      Wikipedia User: Albinomonkey
+      License: Public Domain.
+
+    + Green bus
+      Source: http://commons.wikimedia.org/wiki/Image:Seoulbus-green.jpg
+      Wikipedia User: Nesnad
+      License: GFDL and CC-BY-SA
+
+    + Tennis ball
+      Source: http://upload.wikimedia.org/wikipedia/commons/6/69/Tennis_ball.jpg
+      License: No usage restrictions.
+
+    + Tennis racket
+      Source: http://upload.wikimedia.org/wikipedia/commons/c/cf/Tennisketsjer.JPG
+      Wikipedia User: Glaux
+      License: Public Domain.
+
+    + Apricot
+      Source: http://commons.wikimedia.org/wiki/Image:Apricot_fruit.jpg
+      Wikipedia User: Geierunited
+      License: GFDL
+
+    + Watermelon (SVG)
+      Source: http://commons.wikimedia.org/wiki/Image:Watermelon.svg
+      Artist: James Kilfiger
+      License: Public Domain (from Open Clip Art Library)
+
+    + Classical Guitar
+      Source: from http://commons.wikimedia.org/wiki/Image:Classical_Guitar_two_views.jpg
+      Photographer: Martin M�ller
+      License: CC-BY-SA 2.0 DE
+
+    + Electric Guitar
+      Source: http://commons.wikimedia.org/wiki/Image:E-Gitarre.jpg
+      Photographer: Andr� Karwath
+      License: CC-BY-SA 2.5
+
+    + Electric Bass Guitar
+      Source: http://commons.wikimedia.org/wiki/Image:Ebass.jpg
+      German Wikipedia users: Stkrumm, FlorianB and Feitscher g
+      License: GFDL
+
+    + Drumkit
+      Source: http://commons.wikimedia.org/wiki/Image:Drumkit.jpg
+      Photographer: Pawel Wajda
+      License: GFDL
+
+    + Drumkit (sound effect)
+      Source: http://commons.wikimedia.org/wiki/Image:Rock_beat_ride_cymbal.ogg
+      Wikipedia user: Clngre
+      License: GFDL
+      (Note: sped up using Audacity by C. Ford)
+
+    + Trumpet
+      Source: http://commons.wikimedia.org/wiki/Image:Trumpet_1.jpg
+      Wikipedia user: PJ
+      License: GFDL and CC-BY-SA
+
+    + Traffic Cone
+      Source: http://commons.wikimedia.org/wiki/Image:Cones.jpg
+      License: PD
+
+    + Crash Cymbal
+      Source: http://commons.wikimedia.org/wiki/Image:2006-07-06_crash_paiste_16.jpg
+      Photographer: Stephan Czuratis
+
+    + Crash Cymbal (sound effect)
+      Source: http://commons.wikimedia.org/wiki/Image:Crash_cymbal.ogg
+      Wikipedia user: Clngre
+      License: GFDL
+
+    + Floor Tom
+      Source: http://commons.wikimedia.org/wiki/Image:2006-07-06_tom.jpg
+      Photographer: Stephan Czuratis
+
+    + Floor Tom (sound effect)
+      Source: http://commons.wikimedia.org/wiki/Image:Floor_tom.ogg
+      Wikipedia user: Clngre
+      License: GFDL
+
+    + Cello
+      Source: http://commons.wikimedia.org/wiki/Image:Cello_front_side.jpg
+      Photograph: Georg Feitscher
+      License: GFDL
+
+    + Cello (sound effect)
+      Source: http://commons.wikimedia.org/wiki/Image:WolfTone.ogg
+      Wikipedia user: Mdd4696
+      License: PD
+
+    + Violin
+      Source: http://commons.wikimedia.org/wiki/Image:Old_violin.jpg
+      Wikipedia user: Frink51
+      License: GFDL
+
+    + Violin (sound effect)
+      Source: http://commons.wikimedia.org/wiki/Image:Violin_vibrato.ogg
+      Wikipedia user: Clngre
+      License: GFDL
+
+    + Bassoon
+      Source: http://commons.wikimedia.org/wiki/Image:FoxBassoon.jpg
+      Photographer: Gregory Maxwell
+      License: GFDL (1.2 only)
+
+    + Bassoon (sound effect)
+      Source: http://commons.wikimedia.org/wiki/Image:Bassoon-technical-trills.ogg
+      Recorded by: Kat Walsh
+      License: GFDL
+
+    + Candy canes photo
+      Source: http://commons.wikimedia.org/wiki/Image:Candy_canes.png
+      Photograph by: Kathleen French
+      License: Public Domain
+
+    + German Christmas toy
+      Source: http://commons.wikimedia.org/wiki/Image:R%C3%A4ucherm%C3%A4nnchen.jpg
+      Photograph by: André Karwath
+      License: Creative Commons BY-SA
+
+    + Christmas tree photo
+      Source: http://commons.wikimedia.org/wiki/Image:Arbol_Navidad_01.jpg
+      Photograph by: Jorge Barrios
+      License: Public Domain
+
+    + Mince pie
+      Source: http://commons.wikimedia.org/wiki/Image:Mince_Pie_PICT6877a.jpg
+      Photograph by: Wikimedia commons user Jmb
+      License: Creative Commons BY 2.5
+
+    + Christmas pudding
+      Source: http://commons.wikimedia.org/wiki/Image:Christmas_pudding.JPG
+      Photograph by: Wikimedia commons user Musical Linguist
+      License: GFDL
+
+    + Roast turkey
+      Source: http://commons.wikimedia.org/wiki/Image:Thanksgiving_Turkey.jpg
+      Photograph by: Patrick Fitzgerald
+      License: Creative Commons BY 2.0
+
+    + Lightbulb
+      Source: http://commons.wikimedia.org/wiki/Image:Gluehlampe_01_KMJ.png
+      Photograph by: KMJ at Wikipedia, alpha masking by Edokter at Wikipedia
+      License: GFDL
+
+    + Apricot whole
+      Source: From http://commons.wikimedia.org/wiki/Image:Apricot_whole444.jpg
+      Photograph by: Benjamint444 at Wikipedia
+      License: GFDL
+
+    + Cherry_Stella
+      Source: http://commons.wikimedia.org/wiki/Image:Cherry_Stella444.jpg
+      Photograph by: Benjamint444 at Wikipedia
+      License: GFDL
+
+    + Strawberry2
+      Source: http://commons.wikimedia.org/wiki/Image:Strawberry444.jpg
+      Photograph by: Benjamint444 at Wikipedia
+      License: GFDL
+
+    + Woodlouse
+      Source: http://commons.wikimedia.org/wiki/Image:Woodlouse_2007-1.jpg
+      Photograph by: Joaquim Alves Gaspar
+      License: GFDL
+
+    + Brown_slug
+      Source: http://commons.wikimedia.org/wiki/Image:Brown_snail.jpg
+      Photograph by: Guttorm Flatab�
+      License: GFDL or CC-BY-SA 2.5
+
+    + mercurythermometer
+      Source: http://commons.wikimedia.org/wiki/File:Clinical_thermometer_38.7.JPG
+      Photograph by: User:Menchi and User:David
+      License: GFDL or CC-BY-SA 3.0
+
+  * Inukshuk
+    + Outline drawing
+    Ed Montgomery <edm@rocketmail.com>
+
+    + Photo
+    Ansgar Walk
+    (c) 1996, Creative Commons Attribution ShareAlike 2.5 License.
+    http://en.wikipedia.org/wiki/Image:Inunnguaq_Rankin_Inlet_1996-07-18.jpg
+
+  * The Open clipart library
+     http://www.openclipart.org/
+     All public domain, various authors
+     + sunglasses_01.svg
+     + t-shirt_01.svg
+     + forklift.svg (was montacarichi.svg)
+     + balloon.svg (was balloon-black-aj.svg)
+     + shamrock.svg (was shamrock_march_nartha_01.svg)
+     + vacuum_cleaner.svg (was blue_vacuum_cleaner_jaim_01.svg)
+     + padlock_open.svg (was lock_-_open_afief_halumi_01.svg)
+     + padlock_closed.svg (was padlock_aj_ashton_01.svg)
+     + lighthouse.svg (was lighthouse_matthew_gates_.svg)
+     + spider.svg
+     + spider2.svg (was ragnetto_incazzato_archi_01.svg)
+     + ant.svg
+     + toadstool.svg (was mushroom.svg)
+     + knitting.svg (was knitting_01.svg)
+     + scarecrow.svg (was spaventapasseri.svg)
+     + woman_dancing.svg (was my_lovely_baby_enrique_m_02.svg)
+     + woman_chemist.svg (was woman_chemist_gerald_g._01.svg)
+     + woman_doctor.svg (was woman_doctor_gerald_g._01.svg)
+     + woman_nurse.svg (was woman_nurse_gerald_g._01.svg)
+     + woman_police_officer_1.svg (was woman_police_01_gerald_g_01.svg)
+     + woman_police_officer_2.svg (was woman_police_02_gerald_g_01.svg)
+     + expresso.svg (was pipo_expresso.svg)
+     + sunglasses_02.svg based on sunglasses_01.svg, made by Caroline Ford
+     + digitalthermometer.svg (was rg1024_Digital_clinic_thermometer.svg)
+     + recyclingbox.svg (was AJ_Recycling_Bin.svg)
+     + sportscar.svg (was yves_guillou_sport_car_2.svg)
+     + monarchbutterfly.svg (was jimmiet_Monarch_Butterfly.svg)
+     + glasses1.svg modified by C Ford from geni_glasses.svg
+     + glasses2.svg modified by C Ford from geni_glasses.svg
+     + sportscar3.svg (was TheStructorr_Lamborghini_Gallardo.svg)
+     + bottle.svg (heavily modified tomas_arad_bottles.svg)
+     + hammer2.svg (was rejon_Hammer.svg)
+     + screwdriver.svg (was ryanlerch_screwdriver.svg)
+     + pencil.svg (was metalmarious_Short_Realistic_Pencil.svg)
+     + biro.svg (was BenBois_black_BIC_pen.svg)
+     + Washing-machine.svg (was Machovka_Washing-machine_3.svg)
+     + trash_can.svg (was hrum_trash.svg)
+     + fridge.svg (was Machovka_Fridge.svg)
+     + microwave.svg (Machovka_Microwave_oven_2.svg)
+     + globe.svg (was jeronimo_globe.svgz) 
+     + smallcake.svg (was SRD_small_cake.svg)
+     + wizardhat.svg (was made from papapishu_Wizard_in_blue_hat.svg)
+     + mortarboard.svg (was egore911_university_hat.svg)
+     + brownhat.svg (was liftarn_Adventurer_Hat.svg)
+     + greenhat.svg (was mairin_Leprechaun_s_hat_2.svg)
+     + cowboy_hat.svg (was nicubunu_Cowboy_hat.svg)
+     + brownhat2.svg (was nicubunu_Peasant_hat.svg)
+     + purplehat.svg (was nicubunu_Pimp_hat.svg)
+     + santahat2.svg (was TheresaKnott_Santa_Hat.svg)
+     + bellbottoms.svg (was liftarn_Bell_bottoms.svg)
+     + clothes_iron.svg (was johnny_automatic_clothes_iron.svg)
+     + crown1.svg (was Anonymous_Crown.svg)
+     + crown2.svg (was Anonymous_Crown.svg)
+     + bowtie.svg (was nicubunu_Tie_bow.svg)
+     + clotheshanger.svg (was johnny_automatic_coat_hanger.svg)
+     + bluejeans1.svg (was wsnaccad_blue_jeans.svg)
+     + bluejeans2.svg (made from wsnaccad_blue_jeans.svg)
+     + jacket.svg (was johnny_automatic_jacket.svg)
+     + bikini.svg (was freedo_Bikini.svg)
+     + top_skirt.svg (was freedo_Top_and_Skirt.svg)
+     + red_handbag.svg (was TheresaKnott_handbag.svg)
+     + red_highheel.svg (was papapishu_red_shoe.svg)
+     + hikingboot.svg (was Anonymous_Hiking_boot.svg)
+     + ballpointpen.svg (was baroquon_Blue_Ball_Point_Pen.svg)
+     + guitar2.png (was boobaloo_Guitar.png)
+     + t_baseballcap.png (from JicJac_Various_Clothing.svg, mod C Ford)
+     + t_glove.png (from JicJac_Various_Clothing.svg, mod C Ford)
+     + t_jacket.png (from JicJac_Various_Clothing.svg, mod C Ford)
+     + t_pants.png (from JicJac_Various_Clothing.svg, mod C Ford)
+     + t_poloshirt.png (by nicubunu, modded by C Ford)
+     + t_scarf.png (from JicJac_Various_Clothing.svg, mod C Ford)
+     + t_shirt.png (from JicJac_Various_Clothing.svg, mod C Ford)
+     + t_sock.png (from JicJac_Various_Clothing.svg, mod C Ford)
+     + t_tshirt.png (by nicubunu, modded by C Ford)
+     + present_red.svg (made from Minduka_Present_Blue_Pack.svg)
+     + present_gold.svg (made from Minduka_Present_Blue_Pack.svg)
+     + present_purple.svg (made from Minduka_Present_Blue_Pack.svg)
+     + present_green.svg (made from Minduka_Present_Blue_Pack.svg)
+     + present_chocolate.svg (made from Minduka_Present_Blue_Pack.svg)
+     + elfhat.svg (made from TheresaKnott_Santa_Hat.svg)
+     + bikewheel.svg (was carlitos_BikeWheel.svg)
+     + heart_pink.svg (made from maqndon_MyHeart.svg)
+     + heart_red.svg (was maqndon_MyHeart.svg)
+     + heart_gold.svg (made from maqndon_MyHeart.svg)
+     + wig.svg (was Angelo_Gemmi_black_wig_2.svg)
+     + eye_blue_left.svg (made from joanacristina_olhar_-_the_eye.svg)
+     + eye_green_left.svg (made from eye_blue_left.svg)
+     + eye_brown_left.svg (made from eye_blue_left.svg)
+     + eye2_drawing.svg (was nicubunu_Eye.svg)
+     + wig2.svg (was Angelo_Gemmi_wig.svg)
+     + manga_eye_left.svg (from da5id1_Manga_Face.svg)
+     + manga_eye_right.svg (from da5id1_Manga_Face.svg)
+     + hair_manga_2.svg (from da5id1_Manga_Face.svg)
+     + wig3.svg (from Angelo_Gemmi_laughing_bearded_face.svg)
+     + head_female.svg (from dagobert83_female_user_icon.svg)
+     + black_dress.svg (from paulliu_girl_with_silver_hair.svg)
+     + hair_manga.svg (from paulliu_girl_with_silver_hair.svg)
+     + spoon.svg (from stuuf_fork_and_spoon.svg)
+     + fork.svg (from stuuf_fork_and_spoon.svg)
+     + hardhat.svg (from adriano_Hard_Hat.svg)
+     + cherries2.svg (was elfurion_Cherry.svg)
+     + forklift2.svg (was Muga_Forklift_Truck.svg)
+     + bluebike.svg
+     + tractor.svg (was yman_Little_Green_Tractor.svg)
+     + isobus.svg (from rg1024_Six_isometric_vehicles.svg)
+     + isofireengine.svg (from rg1024_Six_isometric_vehicles.svg)
+     + isolorry1.svg (from rg1024_Six_isometric_vehicles.svg)
+     + isolorry2.svg (from rg1024_Six_isometric_vehicles.svg)
+     + isolorry3.svg (from rg1024_Six_isometric_vehicles.svg)
+     + isolorry4.svg (from rg1024_Six_isometric_vehicles.svg)
+     + umbrella.svg (was pixabella_Red_Umbrella.svg)
+     + painttube.svg (was Chrisdesign_color_tubes.svg)
+     + tyre_with_rim.svg (was azieser_Tire_with_rim.svg)
+     + schoolbus.svg (modified schoolfreeware_School_Bus.svg)
+     + blue_truck.svg (slightly modified Anonymous_Truck_2.svg)
+     + toy_truck.svg (was jonata_Car_Toy.svg)
+     + sail_boat1.svg (was Anonymous_Boat_1.svg)
+     + sail_boat2.svg (was Anonymous_Boat_2.svg)
+     + f1_car.svg (was Gerald_G_Formula_One_Car.svg)
+     + motorbike.svg (was Gerald_G_Motorcycle_Clipart.svg)
+     + white_train.svg (was mbs_ICE-Train.svg)
+     + moustache.svg (from Angelo_Gemmi_face_with_mustaches_1.svg)
+     + kite.svg (was schoolfreeware_Kite.svg)
+     + toyrocket.svg (was nicubunu_Toy_rocket.svg)
+     + blankroadsign.svg (was Anonymous_Roadsign_Bambi.svg)
+     + fork.svg (from MoSelf_Cutlery.svg)
+     + spoon.svg (from MoSelf_Cutlery.svg)
+     + knife.svg (from MoSelf_Cutlery.svg)
+     + coffeecup.svg (was mokush_Realistic_Coffee_cup_-_Front_3D_view.svg)
+     + kitten.svg (was sutrannu_Kitten_1.svg)
+     + cheetah.svg (was ha1flosse_leopard_cheetah.svg)
+     + zebra2.svg (was ha1flosse_zebra.svg)
+     + eye_yellow.svg (was laobc_Yellow_eye.svg)
+     + white_pants.svg (was sutrannu_Pants.svg)
+     + snowman.svg
+     + snowman2.svg
+     + snowflake.svg
+     + sledge.svg
+     + leafrake.svg
+     + bulldozer.svg (Steve Karg modified egore911_bulldozer.svg)
+     + loaf_of_bread (was johnny_automatic_loaf_of_bread.svg)
+     + bread.svg (was jean_victor_balin_bread.svg)
+     + girl_in_wheelchair.svg (was Gerald_G_Girl_in_wheelchair.svg)
+     + man_in_suit.svg (was Gerald_G_Man_in_Suit.svg)
+     + compact_disc.svg (was nicubunu_Compact_Disc.svg)
+     + camera.svg (was nicubunu_Digital_camera_(compact).svg)
+     + inkjet_printer.svg (was nicubunu_Inkjet_printer.svg)
+     + laser_printer.svg (was nicubunu_Laser_printer.svg)
+     + bee.svg (was johnny_automatic_bumble_bee.svg)
+     + mustang.svg
+     + plane.svg
+     + violin2.svg
+     + rudolf_reindeer.svg
+     + digitalcamera.svg
+     + DSLR_Camera.svg
+     + tealight.svg
+     + clock.svg
+     + stopwatch.svg
+     + bullet.svg
+     + longsword.svg
+     + guitar_electric_bass_2.svg
+     + pencil2.svg
+     + girlface.svg
+     + swallow.svg
+     + rocket1.svg
+     + rocket2.svg
+     + rocket3.svg
+     + rocket4.svg
+     + rocket5.svg
+     + satellite.svg
+
+  * Otter
+    Source: http://commons.wikimedia.org/wiki/Image:Fischotter_Lutra_lutra1.jpg
+    Photo by Factumquintus
+    License: Gnu/FDL Version 1.2 or any later version published by the
+    Free Software Foundation; with no Invariant Sections, no Front-Cover Texts,
+    and no Back-Cover Texts.
+    Prepared for Tux Paint by:
+    Pere Pujal i Carabantes <perepujal@gmail.com>.)
+
+  * Wingsze Seaman <wingsze.seaman@gmail.com>
+    + Volleyball cartoon
+
+  * Adhesive bandage
+    Source: http://commons.wikimedia.org/wiki/Image:AdhesiveBandage1.png
+    Original source: http://commons.wikimedia.org/wiki/Image:Sparadrap_2.jpg
+    Photo by: Rama
+    Retouched by: Booyabazooka, Poisend-Ivy
+    License: CeCILL, GFDL
+    Prepared for Tux Paint by:
+    Bill Kendrick <bill@newbreedsoftware.com>
+
+  * Erinn Lynch <elynchsb yahoo com>
+    Donated to Tux Paint under Creative Commons By-SA 2.5
+    Prepared for Tux Paint by Bill Kendrick
+    + Pelican
+    + Great Blue Heron
+    + Great Blue Heron Flying
+
+  * Wolfgang Silbermayr <wolfgang.silbermayr gmail com>
+    Donated to Tux Paint under the terms of the GPL license. 
+    + Cheese stamp
+
+  * Paul venter
+    + Helmeted Guineafowl
+      http://en.wikipedia.org/wiki/File:Helmeted_guineafowl_kruger00.jpg
+      (GNU Free Documentation License (GFDL) (no invariant sections))
+
+  * VHSS Irimpanam, a village school in Kerala, India via Vimal Joseph
+    <vimal.joseph@gmail.com>, CC-BY-SA 3.0
+    + adeenia.png
+    + anthoorium.png
+    + appooppanthady.png
+    + bolsom.png
+    + chemparathi.png
+    + chuvanna_plastic_poo.png
+
+  * Anna Bujak, as tasks in GCI 2011 GNU/GPL2+
+    + eiffel_tower.png
+    + eye.png
+    + hedgehog.png
+    + ladybug2.png
+    + mermaid.png
+    + pengwin.png
+    + penguin_with_spider.png
+    + pizza.png
+    + snail2.png
+    + snowman.png
+    + spider_football.png
+    + spider_computer.png
+    + spider_fly.png
+    + teddy_bear.png
+    + wings.png
+
+  * Ivana as a task in GCI 2011 GNU/GPL2+
+    + button.png
+    + Santa.png
+    + tooth.png
+    + Ivana also provided the serbian translation for the 3 stamps above.
+
+
+
+Translations
+------------
+  Acholi
+  A Kenneth <akogwal@gmail.com>
+
+  Afrikaans
+  Petri Jooste <petrijooste@yahoo.com>
+  Piet Pompies <bill@gates.org>
+
+  Akan
+  Derrick Frimpong <flexyflame2006@yahoo.com>
+
+  Albanian
+  Besnik Bleta <besnik@programeshqip.org>
+  Ajri M. Shej, Canonical Ltd, and Rosetta Contributors
+    (via Caroline Ford <caroline.ford.work@googlemail.com>)
+
+  Amharic translation
+  Solomon Gizaw <solohavi@yahoo.com>
+  http://pootle.locamotion.org/am/tuxpaint/
+
+  Arabic
+  Khalid Al Holan <alholan@gmail.com>
+  Mohammed <ab.kareem026@gmail.com>
+
+  Aragones
+  Juan Pablo Martinez Cortes <juanpabl@gmail.com>
+
+  Armenian
+  Anush MKRTCHYAN
+  Jasmine Udea
+
+  Asturian
+  Xandru Armesto <xandru@armesto.eu>
+
+  Australian English
+  Chris Goerner, Canonical Ltd, and Rosetta Contributors
+  via Caroline Ford <caroline.ford.work@googlemail.com>
+
+  Basque
+  Juan Irigoien <juanirigoien@yahoo.es>
+  Ander Elortondo <ander.elor@gmail.com> [retired]
+  Alexander Gabillondo <alexgabilondo@gmail.com>
+
+  Belarusian
+  Eugene Zelenko <greendeath@mail.ru>
+  Mikhail Melnik
+  Descriptive sounds by Ksenya Buraya.
+
+  Brazilian Portuguese
+  Frederico Goncalves Guimaraes <frederico@teia.bio.br>
+  Daniel Jose Viana <danjovic@vespanet.com.br>
+  Fred Maranhão <fred.maranhao@gmail.com>
+
+  Brazilian Portuguese descriptive sounds
+  (animals/insects/cartoon/butterfly
+   food/vegetables/garlics
+   food/vegetables/redlettuce
+   food/vegetables/pepper
+   food/vegetables/lettuce
+   food/vegetables/pumpkin_small
+   food/vegetables/potato
+   food/vegetables/mushroom
+   food/vegetables/yam
+   food/vegetables/onion
+   food/vegetables/chilepepper
+   food/vegetables/corn
+   food/vegetables/eggplant
+   food/fruit/cartoon/raspberry
+   food/spices/ginger)
+  Recorded by various Brazilian school children.
+  Contributed by Ana Cristina <a9fm@yahoo.com>
+
+  British English
+  Karl Ove Hufthammer <karl@huftis.org>
+  Caroline Ford <caroline.ford.work@googlemail.com>
+  John Arundel <john@splange.f2s.com> letter and number sounds
+
+  Bulgarian
+  Schoolsplay
+  Vankata453 <https://sourceforge.net/u/vankata453>
+  Krasimir Petkov <wtfn00bz@ymail.com>, as a work in Google Code In
+  Descriptive sounds by Krasimir Petkov.
+
+  Catalan
+  Pere Pujal Carabantes <perepujal@gmail.com>
+  Robert Buj Gelonch <rbuj@users.sf.net>
+
+  Chinese (Simplified)
+  Huang Zuzhen <zuzhenhuang@vip.sina.com>
+  Wang Jian <lark@linux.net.cn>
+  臧传明 <qdeduos@163.com>
+  
+  Chinese (Traditional)
+  Song Huang <Song@ossacc.org>
+
+  Croation
+  Paulo Pavačić <pavacic.p@gmail.com>
+
+  Czech
+  Jozef Říha <jose1711@gmail.com>
+  Zdeněk Chalupský <chalzd@gmail.com>
+  Václav Čermák <vaclav.cermak@gmail.com>
+
+  Danish
+  Rasmus Ljungmann Pedersen <rasmuslp@gmail.com>
+  Joe Hansen <joedalton2@yahoo.dk>
+  Mogens J�ger <mogensjaeger@get2net.dk>
+  Rasmus Erik Voel Jensen <i18n@solsort.dk> [retired]
+
+  Dutch
+  Sanne Stams
+  Geert Stams <geertstams@wanadoo.nl>
+  Willem Heppe <heppew@yahoo.com>
+
+  Finnish
+  Tarmo Toikkanen <tarmo.toikkanen@iki.fi>
+  Olli <ollinpostit@gmail.com>
+
+  Fula translation
+  Ibraahiima SAAR <ibrahima.sarr@pulaagu.com>, Fula Localization Project, http://www.pulaar-fulfulde.org/
+
+  French
+  Jacques Chion <jacques.chion@orange.fr>
+  Many descriptive sounds by PaulK
+
+  Galician
+  Miguel Bouzada <mbouzada@gmail.com>
+  Leandro Regueiro <unho@gulo.org>
+
+  Georgian
+  Gia Shervashidze <giasher@gmail.com>
+
+  German
+  Fabian Franz <FabianFranz@gmx.de>
+  Ingo Blechschmidt <iblech@web.de>
+  Daniel Herding <DHerding@gmx.de>
+  Burkhard L�ck <lueck@hube-lueck.de>
+  Stephanie Schilling <stephanieschilling@online.de>
+  Schoolsplay
+  Helge Kreutzmann <debian@helgefjell.de>
+
+  Greek
+  Serafeim Kyriaki <pse04178@rhodes.aegean.gr>
+  Sokratis Sofianopoulos <sokratis.sofianopoulos@gmail.com>
+  The Greek Linux i18n Team <i18ngr@lists.hellug.gr>
+
+  Gujarati
+  Kartik Mistry <kartik.mistry@gmail.com>
+
+  Hebrew
+  Pete Salzman <p@dirac.org>
+  Jorge Mariano <mjminfo@mjminformatique.com>
+
+  Hindi
+  Aki <akash.nawani@gmail.com> as a task in Google Code In
+
+  Hungarian
+  T�r�k G�bor <gabo@linuxportal.hu>
+  Nagy Akos <nagy.akos@codespring.ro>
+
+  Icelandic
+  Pjetur G. Hjaltason <pjetur@pjetur.net>
+  Sveinn í Felli <sv1@fellsnet.is>
+
+  Inuktitut
+  Harvey Ginter <harveyginter@gmail.com>
+
+  Irish Gaelic translation
+  Kevin Patrick Scannell <kscanne@gmail.com>
+
+  Italian
+  Simona Riva <simona.riva@tiscali.it>
+  Flavio "Iron Bishop" Pastore <ironbishop@fsfe.org>
+  Marco Masucci <marcomasucci@liberainformatica.it>
+  Schoolsplay
+
+  Japanese
+  TOYAMA Shin-ichi <dolphin6k@wmail.plala.or.jp>
+
+  Kabyle
+  Yacine Bouklif <yacine_tizi2003@yahoo.fr>
+
+  Khmer
+  Khoem Sokhem <khoemsokhem@khmeros.info>
+  Auk Piseth <piseth_dv@khmeros.info>
+
+  Korean
+  Mark K. Kim <tuxpaint@cbreak.org>
+  Sohyun Iris Lee
+
+  Kurdish
+  Erdal Ronahi, El�xanLora, Canonical Ltd, and Rosetta Contributors
+  via Caroline Ford <caroline.ford.work@googlemail.com>
+
+  Lithuanian
+  Mantas Kriauciunas <monte@mail.lt>
+  Rita Verbauskaite <verba@centras.lt>
+  Andrius Jurkus <bwolas@gmail.com> (via Schoolsplay)
+
+  Macedonian
+  fly_man, Canonical Ltd, and Rosetta Contributors
+  via Caroline Ford <caroline.ford.work@googlemail.com>
+
+  Malay
+  Muhammad Najmi Ahmad Zabidi <mnajem@linuxmail.org>
+
+  Malayalam
+  Haris Ibrahim K. V. <blucalvin@gmail.com>
+  Sharan Narayan <sharan.nyn@gmail.com>
+
+  Northern Sotho
+  Pheledi <pheledi@mosekolatranslation.co.za>
+
+  Norwegian Bokmal
+  Dag H. Loras <dag.loraas@operamail.com>
+  Klaus Ade Johnstad <klaus@skolelinux.no>
+  Karl Ove Hufthammer <karl@huftis.org>
+  Descriptive sounds: From Schoolsplay (via Caroline Ford)
+
+  Norwegian Nynorsk
+  Karl Ove Hufthammer <karl@huftis.org>
+
+  Norwegian Nynorsk descriptive sounds
+  CereProc's CereVoice Cloud text-to-speech service
+    <https://www.cereproc.com/> (Voice: Hulda-CereWave)
+  Creation, pronunciation adjustments, and QA by
+    by Karl Ove Hufthammer <karl@huftis.org>
+  "I have gotten confirmation from CereProc that it is OK to
+  distribute the resulting speech files under a free license." -Karl
+
+  Occitan
+  Yannig MARCHEGAY (Kokoyaya), Canonical Ltd, and Rosetta Contributors
+  via Caroline Ford <caroline.ford.work@googlemail.com>
+
+  Persian
+  Farinaz Hedayat <farinaz.hedayat@gmail.com>
+
+  Polish
+  Robert Glowczynski <robertg@software.com.pl>
+
+  Portuguese (Portugal)
+  Hugo Carvalho <hugokarvalho@hotmail.com>
+  Sergio Marques <smarquespt@gmail.com>
+  Ricardo Cruz <rick2@aeiu.pt>
+  Tiago Lebre <tiagolebre@gmail.com>
+  Schoolsplay
+
+  Romanian
+  Schoolsplay
+
+  Russian
+  Nikolay Parukhin <parukhin@gmail.com>
+  Sergei Popov <skein@rambler.ru>
+  Eugene Zelenko <greendeath@mail.ru>
+  Schoolsplay
+  Yuri Kozlov <yuray@komyakino.ru>
+
+  Scottish Gaelic
+  Niall Tracey <internationiall@hotmail.com>
+  GunChleoc <fios@foramnagaidhlig.net>
+  Michael Bauer<fios@akerbeltz.org>
+
+  Serbian cyrillic
+  Ivana <reci.ne.silvesteru@gmail.com> as a work in Google Code-In
+
+  Serbian latin
+  Ivana <reci.ne.silvesteru@gmail.com> as a work in Google Code-In
+
+  Shuswap (Secwepemctín)
+  Neskie Manuel <neskiem@gmail.com>
+
+  Slovak
+  Jozef Říha <jose1711@gmail.com>
+  Jaroslav Rynik <jrynik@yahoo.co.uk>
+  Martin, El�xanLora, Canonical Ltd, and Rosetta Contributors
+    via Caroline Ford <caroline.ford.work@googlemail.com>
+
+  Slovene
+  Schoolsplay
+
+  Slovenian
+  Matej Urbančič <mateju@svn.gnome.org>
+  Urska Colner <urska.colner@agenda.si>
+
+  Songhay
+  Mohomodou Houssouba <mh@bollag-areal.ch>
+
+  Spanish
+  Gabriel Gazzan <ggabriel@internet.com.uy>
+  Teresa Orive <teresa.g.orive@gmail.com>
+  Lantz Gomez de Segura <lantzgs@yahoo.com>
+  Matías Bellone <matiasbellone+debian@gmail.com>
+  Descriptive sounds: Estefanía Ortiz
+
+  Swedish
+  Henrik Holst <henrik.holst@millistream.com>
+  Sebastian Rasmussen <sebras@gmail.com>
+  Schoolsplay
+
+  Swahili
+  Martin Benjamin <martin.benjamin@yale.edu>
+  Alberto Escudero-Pascual <aep@it46.se>
+  qleeph <caargwings@gmail.com>
+
+  Thai
+  Ouychai Chaita <ae.freeman@gmail.com>
+
+  Turkish
+  Doruk Fisek <dfisek@fisek.com.tr>
+
+  Ukrainian
+  Serhij Dubyk <serhijdubyk@gmail.com>
+  Yuri Chornoivan <yurchor@ukr.net>
+  Sugar Labs i18n team <https://translate.sugarlabs.org/accounts/yurchor/>
+
+  Valencian
+  Pilar Embid Giner <embid_mar@gva.es>
+
+  Venetian
+  Fabio Lazarin, El Galepìn <mistro@elgalepin.com>
+
+  Vietnamese
+  Clytie Siddall <clytie@riverland.net.au>
+
+  Welsh
+  Kevin Donnelly <kevin@dotmon.com>
+
+  Zulu
+  abel <sedric@translate.org.za>
+
+Notes:
+  Schoolsplay: http://www.schoolsplay.org/

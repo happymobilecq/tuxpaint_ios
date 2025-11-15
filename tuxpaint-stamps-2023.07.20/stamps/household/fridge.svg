@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" width="167.72" height="300.13" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata8334">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Lednice</dc:title>
+    <dc:date>23.11.2003</dc:date>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Sarka Slukova</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:publisher>
+     <cc:Agent>
+      <dc:title>ZS a MS Machovo namesti</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:language>Cz</dc:language>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>lednice</rdf:li>
+      <rdf:li>ice-house</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-129.33 -655.34)">
+  <g id="g11019" transform="matrix(.33831 0 0 .33831 86.955 635.67)" stroke="#000">
+   <rect id="rect8337" x="126.45" y="83.618" width="460.92" height="860.65" fill="#e4d8ee" stroke-width="2"/>
+   <path id="rect9224" d="m126.25 82.516 459.44 1.102 1.9912 624.08h-461.43v-625.18z" fill="#e4d8ee" fill-opacity=".98919" stroke-width="2"/>
+   <rect id="rect10112" x="146.84" y="728.09" width="163.16" height="22.434" fill-opacity=".98919" stroke-width="2"/>
+   <path id="path10116" d="m126.25 113.11 459.44 1.0481 1.9912 593.54h-461.43v-594.59z" fill="#e4d8ee" fill-opacity=".98919" stroke-width="2"/>
+   <rect id="rect10114" x="146.84" y="658.48" width="163.16" height="22.434" fill-opacity=".98919" stroke-width="2"/>
+   <path id="path10118" transform="matrix(.79376 0 0 .7643 789.31 -77.287)" d="m-273.29 230.46a6.1184 6.1184 0 1 1-12.237 0 6.1184 6.1184 0 1 1 12.237 0z" fill="#7dd98e" fill-rule="evenodd" stroke-width="1.2839px"/>
+   <path id="path10120" transform="matrix(.79376 0 0 .7643 679.67 -77.287)" d="m-273.29 230.46a6.1184 6.1184 0 1 1-12.237 0 6.1184 6.1184 0 1 1 12.237 0z" fill-rule="evenodd" stroke-width="1.2839px"/>
+   <path id="path10122" transform="matrix(.79376 0 0 .7643 707.67 -77.287)" d="m-273.29 230.46a6.1184 6.1184 0 1 1-12.237 0 6.1184 6.1184 0 1 1 12.237 0z" fill="#00ff01" fill-opacity=".23243" fill-rule="evenodd" stroke-width="1.2839px"/>
+   <path id="path10124" transform="matrix(.79376 0 0 .7643 737.67 -77.287)" d="m-273.29 230.46a6.1184 6.1184 0 1 1-12.237 0 6.1184 6.1184 0 1 1 12.237 0z" fill="#75d986" fill-opacity=".92432" fill-rule="evenodd" stroke-width="1.2839px"/>
+   <path id="path10126" transform="matrix(.79376 0 0 .7643 764.4 -77.287)" d="m-273.29 230.46a6.1184 6.1184 0 1 1-12.237 0 6.1184 6.1184 0 1 1 12.237 0z" fill="#0f0" fill-rule="evenodd" stroke-width="1.2839px"/>
+   <path id="rect11013" d="m587.36 83.618 32.631-24.474-2.0395 844.34-30.592 40.789v-860.65z" fill="#e4d8ee" stroke-width="2"/>
+   <path id="rect11016" d="m159.08 59.144h460.92l-33.141 23.964-459.39-2.0395 31.612-21.924z" fill="#e4d8ee" stroke-width="2"/>
+  </g>
+ </g>
+</svg>

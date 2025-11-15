@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg548" width="300" height="227.62" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g id="g834" transform="matrix(.60335 0 0 .60335 -1.1588 -39.111)" fill-rule="evenodd">
+  <path id="path597" transform="translate(4.4194 -45.962)" d="m54.801 430.17s51.265-264.28 185.62-267.82c152.91 4.419 209.48 252.79 212.13 267.82-60.104 47.73-262.51 90.156-397.75 1e-3z" fill="#006cc1" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+  <path id="path598" transform="translate(4.4194 -45.962)" d="m159.98 472.6c-10.017-164.4 66.586-304.94 78.666-310.24 16.794 2.652 124.63 205.06 108.72 310.24-45.963 10.606-134.35 15.91-187.38 0z" fill="#ffac00" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+  <path id="path599" transform="translate(4.4194 -45.962)" d="m2.516 149.53c-1.7677 19.445 154.81 32.269 211.38 24.314 16.794-7.071 30.937-10.607 48.614-0.884 68.944 15.91 230.69 8.839 227.16-16.794-17.677-22.981-162.63-20.329-231.58-7.071-8.839 5.304-23.865 9.723-44.194-2.651-14.142-9.723-205.35-17.856-211.38 3.0864z" fill="#ffed00" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+  <path id="path600" transform="translate(4.4194 -45.962)" d="m223.62 153.52c-1.768 9.722 25.632 11.489 35.355 3.535 5.303-52.149-30.937-56.568-35.355-3.535z" fill="#ac00ff" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+  <path id="path601" d="m63.64 380.68c29.168-132.58 97.227-229.81 126.4-241.3-144.96 159.1-32.704 312.01-126.4 241.3z" fill="#fff" fill-opacity=".5"/>
+  <path id="path602" d="m243.95 74.852c-7.955 8.8388-15.026 36.24-9.723 35.356 20.329 9.722 2.652-18.562 9.723-35.356z" fill="#fff" fill-opacity=".49804"/>
+  <path id="path603" d="m361.51 418.68c50.381-40.659 63.64-98.996 60.989-116.67 7.954 13.258 36.239 72.479 23.864 82.201-15.025 9.723-35.355 22.097-84.853 34.472z" fill-opacity=".25"/>
+  <path id="path604" d="m271.35 107.56c-5.303-4.42 178.54-21.213 212.13 1.768-51.266-11.491-152.03-7.071-212.13-1.768z" fill-opacity=".24706"/>
+  <path id="path605" d="m12.973 100.19c-15.026 7.0709 136.4 37.422 201.81 21.513-84.853-4.42-124.91 3.2362-201.81-21.513z" fill="#fff" fill-opacity=".75"/>
+ </g>
+ <metadata id="metadata15">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:title>Clipart by Nicu Buculei - piggybank</dc:title>
+    <dc:description/>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>people</rdf:li>
+      <rdf:li>hat</rdf:li>
+      <rdf:li/>
+      <rdf:li>clothing</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+    <dc:publisher>
+     <cc:Agent rdf:about="http://www.openclipart.org">
+      <dc:title>Nicu Buculei</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:creator>
+     <cc:Agent rdf:about="">
+      <dc:title>Nicu Buculei</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:rights>
+     <cc:Agent rdf:about="">
+      <dc:title>Nicu Buculei</dc:title>
+     </cc:Agent>
+    </dc:rights>
+    <dc:date/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://web.resource.org/cc/PublicDomain">
+     <dc:date/>
+    </cc:license>
+    <dc:language>en</dc:language>
+   </cc:Work>
+   <cc:License rdf:about="http://web.resource.org/cc/PublicDomain">
+    <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+</svg>
