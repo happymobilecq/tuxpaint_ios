@@ -1,0 +1,19 @@
+                     Outil 'Magie' de Tux Paint : Saturer
+
+                           Groupe: Filtres couleurs
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Cela augmente la saturation des couleurs là où vous promenez la souris.
+
+Cet outil permet à la fois de travailler avec un simple clic et à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Désaturer, Assombrir, Éclaircir, Teinter, Enlever une couleur, &
+Garder une couleur.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

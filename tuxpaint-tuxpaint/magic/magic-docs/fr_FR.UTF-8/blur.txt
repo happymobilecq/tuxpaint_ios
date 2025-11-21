@@ -1,0 +1,19 @@
+                       Outil 'Magie' de Tux Paint : Flou
+
+                              Groupe: Distorsions
+
+              Auteurs : Bill Kendrick <bill@newbreedsoftware.com>
+                     Albert Cahalan <albert@users.sf.net>
+
+Ceci floute l'image là où vous promenez la souris.
+
+Cet outil permet à la fois de travailler avec un simple clic et à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Affiner & Baver.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

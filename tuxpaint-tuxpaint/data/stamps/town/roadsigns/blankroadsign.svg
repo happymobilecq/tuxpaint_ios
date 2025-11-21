@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg1" width="513.39" height="450.65" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata3">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:title>SVG Road Signs</dc:title>
+    <dc:description>UK roadsigns</dc:description>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>transport</rdf:li>
+      <rdf:li>roadsign</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+    <dc:publisher>
+     <cc:Agent rdf:about="http://www.openclipart.org">
+      <dc:title>John Cliff</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>John Cliff</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:rights>
+     <cc:Agent>
+      <dc:title>John Cliff</dc:title>
+     </cc:Agent>
+    </dc:rights>
+    <dc:date/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+    <dc:language>en</dc:language>
+   </cc:Work>
+   <cc:License rdf:about="http://web.resource.org/cc/PublicDomain">
+    <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g id="g1702" transform="translate(-127.81 -150.13)" fill-rule="evenodd" stroke-width="3pt">
+  <path id="path590" transform="translate(111.97 -132.33)" d="m43.764 733.93c-19.081-1.5622-32.074-23.738-23.713-41.084 34.582-60.038 192.42-331.19 230.34-397.7 10.894-15.744 36.595-15.908 47.436 6e-3 34.704 59.968 191.87 330.89 230.51 396.98 8.1878 17.306-4.5211 39.646-23.723 41.078-69.286 0.0707-384.29 0.30396-460.84 0.71827z" fill="#f00"/>
+  <path id="path605" transform="translate(111.97 -132.33)" d="m72.024 689.21 402.22-1.1653-200.88-346.9-201.34 348.07z" fill="#fff"/>
+ </g>
+</svg>

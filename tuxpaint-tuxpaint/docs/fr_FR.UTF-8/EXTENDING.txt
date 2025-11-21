@@ -1,0 +1,1139 @@
+                                   Extension
+                                   Tux Paint
+                                version 0.9.31
+
+       Copyright © 2002-2023 by divers contributeurs; voir AUTHORS.txt.
+                             https://tuxpaint.org/
+
+                                 mai 29, 2023
+
++-------------------------------------------------------------+
+|                     Table des matières                      |
+|-------------------------------------------------------------|
+|   * Où vont les fichiers                                    |
+|       + Fichiers standards                                  |
+|       + Fichiers personnels                                 |
+|   * Pinceaux                                                |
+|       + Options de pinceau                                  |
+|   * Tampons                                                 |
+|       + Images des tampons                                  |
+|       + Texte de description des tampons                    |
+|       + Effets sonores des tampons                          |
+|       + Son descriptif du tampon                            |
+|       + Options des tampons                                 |
+|       + Mise en miroir et retournement                      |
+|   * Polices                                                 |
+|   * 'Images de démarrage'                                   |
+|       + Images de démarrage avec style 'livre de coloriage' |
+|       + Images de démarrage avec 'style scénique'           |
+|       + Options d'image de démarrage                        |
+|   * 'Modèles'                                               |
+|       + Options des images Modèle                           |
+|   * Traductions                                             |
+|   * Méthodes alternatives de saisie                         |
+|   * Clavier virtuel sur écran                               |
+|   * Outils 'Magie'                                          |
++-------------------------------------------------------------+
+
+Si vous souhaitez ajouter ou modifier des éléments tels que des pinceaux, des
+images de démarrage, des tampons en caoutchouc et d'autres contenus utilisés
+par Tux Paint , vous pouvez le faire assez facilement en ajoutant, modifiant ou
+supprimant simplement des fichiers là où Tux Paint les recherche.
+
+💡 Remarque : vous devrez redémarrer Tux Paint pour que les modifications
+prennent effet.
+
+Où vont les fichiers
+
+Fichiers standards
+
+Tux Paint recherche ses différents fichiers de données dans son répertoire
+'data'.
+
+Linux et Unix
+
+    L'emplacement de ce répertoire dépend de la valeur définie pour
+    "DATA_PREFIX" lors de la construction de Tux Paint . Voir INSTALL. pour
+    plus de détails.
+
+    Par défaut, ce répertoire est :
+
+        /usr/local/share/tuxpaint/
+
+    Si vous l'avez installé à partir d'un paquetage, c'est plutôt :
+
+        /usr/share/tuxpaint/
+
+
+
+Windows
+
+    Tux Paint recherche un répertoire appelé 'data' dans le même répertoire que
+    l'exécutable. C'est le répertoire que l'installateur a utilisé lors de
+    l'installation de Tux Paint, par exemple :
+
+        C:\Program Files\TuxPaint\data
+
+
+
+macOS
+
+    Tux Paint stocke ses fichiers de données dans l'icône de l'application "Tux
+    Paint" (qui est en fait un type spécial de dossier sur macOS & Mac OS X
+    avant lui). Les étapes suivantes expliquent comment accéder aux dossiers
+    qu'il contient :
+
+     1. Affichez un menu «contextuel» en maintenant la touche [Control]
+        enfoncée et en cliquant sur l' icône Tux Paint dans le Finder . (Si
+        vous avez une souris avec plus d'un bouton, vous pouvez simplement
+        cliquer avec le bouton droit de la souris sur l'icône.)
+     2. Sélectionnez "Afficher le contenu" dans le menu qui apparaît. Une
+        nouvelle fenêtre du Finder apparaîtra avec un dossier à l'intérieur
+        appelé " Contents".
+     3. Ouvrez le dossier "Contents " et ouvrez le dossier "Resources" qui se
+        trouve à l'intérieur.
+     4. Vous y trouverez divers sous-dossiers, tels que " starters", "stamps",
+        " brushes", etc. Ajouter du nouveau contenu à ces dossiers rendra
+        celui-ci disponible pour tout utilisateur qui lance cette copie (icône)
+        de Tux Paint .
+
+    💡 Remarque : Si vous installez une version plus récente de Tux Paint et
+    remplacez ou supprimez l'ancienne version, vous perdrez les modifications
+    apportées avec les instructions ci-dessus, faites donc des sauvegardes de
+    votre nouveau contenu (tampons,pinceaux, etc.).
+
+    Tux Paint recherche également les fichiers dans un dossier "Tux Paint" que
+    vous pouvez placer dans votre dossier système "Application Support" (situé
+    sous "Library" à la racine de votre système de fichiers) :
+
+        /Library/Application Support/TuxPaint/
+
+    Lorsque vous passez à une version plus récente de Tux Paint , le contenu de
+    ce dossier "TuxPaint" restera à la même place et restera accessible à tous
+    les utilisateurs de Tux Paint .
+
+
+
+
+Fichiers personnels
+
+Vous pouvez également créer des pinceaux, des images de démarrage, des modèles
+et des polices dans votre propre répertoire où Tux Paint les retrouvera.
+
+Windows
+
+    Votre dossier personnel Tux Paint est stocké dans votre dossier
+    "Application Data". Par exemple, sur un Windows plus récent :
+
+        C:\Documents and Settings\(nom d'utilisateur)\Application Data\TuxPaint
+        \
+
+
+
+macOS
+
+    Votre dossier personnel Tux Paint est stocké dans votre dossier
+    «Application Support» :
+
+        /Users/(nom d'utilisateur)/Library/Application Support/TuxPaint/
+
+
+
+Linux et Unix
+
+    Vos fichiers personnels Tux Paint vont dans un 'répertoire caché' que l'on
+    trouve dans votre répertoire personnel "$(HOME)/.tuxpaint/" (également
+    appelé "~/.tuxpaint/".
+
+    Autrement dit, si votre répertoire personnel est "/home/tux", alors votre
+    répertoire Tux Paint est "/home/tux/.tuxpaint/".
+
+    N'oubliez pas le point (" .") avant le "tuxpaint" !
+
+
+
+
+Pour ajouter des pinceaux, des tampons, des 'images de démarrage',des modèles
+et des polices créez des sous-répertoires dans votre répertoire personnel Tux
+Paint nommés respectivement "brushes", "stamps", "starters", "templates", "
+fonts".
+
+(Par exemple, si vous avez créé un pinceau nommé "flower.png", vous le mettrez
+dans "~/.tuxpaint/brushes/" sous Linux ou Unix.)
+
+Pinceaux
+
+Les pinceaux utilisés pour dessiner avec les outils "Pinceau" et "Lignes" dans
+Tux Paint sont tout simplement des fichiers image PNG.
+
+L'alpha (transparence) de l'image PNG est utilisée pour déterminer la forme du
+pinceau, ce qui signifie que la forme peut être «anti-crénelée» et même
+partiellement transparente !
+
+Les pixels en niveaux de gris dans le pinceau PNG seront dessinés en utilisant
+la couleur actuellement sélectionnée dans Tux Paint . Les pixels de couleur
+seront teintés.
+
+Options de pinceau
+
+Outre une une forme graphique, les pinceaux peuvent également recevoir d'autres
+attributs. Pour ce faire, vous devez créer un «fichier de données» pour brosse.
+
+Un fichier de données de brush's est simplement un fichier texte ASCII
+contenant les options pour le brush.
+
+Le fichier porte le même nom que l'image PNG , mais une extension ".dat". (par
+exemple, le fichier de données "brosse.png" est le fichier texte "brosse.dat"
+qui se trouve dans le même répertoire.)
+
+Espacement des pinceaux
+
+    Depuis la version 0.9.16 de Tux Paint , vous pouvez désormais spécifier
+    l'espacement des coups de pinceaux (c'est-à-dire la fréquence à laquelle
+    ils sont dessinés). Par défaut, l'espacement correspond à la hauteur du
+    pinceau, divisée par 4.
+
+    Ajoutez une ligne contenant la ligne "spacing=N" au fichier de données du
+    pinceau, où "N" est l'espacement souhaité pour les coups de pinceau. (Plus
+    le nombre est bas, plus le pinceau est dessiné souvent.)
+
+
+
+Pinceaux animés
+
+    Depuis la version 0.9.16 de Tux Paint , vous pouvez désormais créer des
+    pinceaux animés. Au fur et à mesure que le pinceau est utilisé, chaque
+    image de l'animation est dessinée.
+
+    Disposez chaque trame sur une grande image PNG. Par exemple, si votre
+    pinceau mesure 30x30 et que vous avez 5 trames, l'image doit être 150x30.
+
+    Ajoutez une ligne contenant la ligne "frames=N" au fichier de données du
+    pinceau, où"N" est le nombre d'images dans le pinceau.
+
+    ⚙ Remarque : si vous préférez que les images apparaissent de manière
+    aléatoire plutôt que séquentielle, ajoutez en plus une ligne contenant "
+    random" au fichier de données du pinceau.
+
+
+
+Pinceaux directionnels
+
+    Depuis la version 0.9.16 de Tux Paint , vous pouvez désormais créer des
+    pinceaux orientables. Au fur et à mesure que le pinceau est utilisé,
+    différentes formes sont dessinées, en fonction de la direction du pinceau.
+
+    Les formes orientables sont divisées en carrés de 3x3 dans une image PNG.
+    Par exemple, si votre pinceau fait 30x30, l'image doit être de 90x90 et
+    chacune des formes orientables est placée dans une grille de 3x3. La région
+    centrale n'est pas orientable. Le haut à droite est utilisé pour le
+    mouvement vers le haut, et vers la droite. Etc ...
+
+    Ajoute une ligne contenant le mot "directional" au fichier de données
+    brosse.
+
+
+
+Pinceaux tournants
+
+    Depuis la version 0.9.27 de Tux Paint , vous pouvez désormais créer des
+    pinceaux tournants. Au fur et à mesure que le pinceau est utilisé, il
+    tourne sur 360 degrés, en fonction de la direction du pinceau.
+
+    Ajoute une ligne contenant le mot "rotate" au fichier de données brosse.
+
+
+
+Pinceaux animés orientables ou tournants
+
+    Vous pouvez mélanger animation et orientation (ou rotation) dans un même
+    pinceau. Utilisez les deux options ("frames=N" et "directional" ou "rotate)
+    en deux lignes séparées dans le fichier ".dat" qui concerne le pinceau.
+
+    Pour les pinceaux directionnels, disposez le pinceau de manière à ce que
+    chaque ensemble 3x3 de formes orientables soit disposé sur une grande image
+    PNG. Par exemple, si le pinceau mesure 30x30 et qu'il y a 5 cadres, ce sera
+    450x90. (Les 150x90 pixels les plus à gauche de l'image représentent les 9
+    formes de direction pour la première image, par exemple).
+
+
+
+
+Placez les PNG de l'image du pinceau (et tous les fichiers texte de données)
+dans le répertoire "brushes".
+
+💡 Remarque : si vos nouveaux pinceaux se présentent tous sous forme de carrés
+ou de rectangles pleins, c'est que vous avez oublié d'utiliser la transparence
+alpha ! Consultez le fichier de documentation "PNG" pour plus d'informations et
+de conseils.
+
+Tampons
+
+Tous les fichiers liés aux tampons vont dans le répertoire "stamps". Il est
+utile de créer des sous-sous-répertoires pour organiser les tampons. (Par
+exemple, vous pouvez avoir un dossier "holidays" avec "halloween" et
+"christmas" comme sous-dossiers.)
+
+Images des tampons
+
+Les tampons en caoutchouc dans Tux Paint peuvent être constitués d'un certain
+nombre de fichiers séparés. Le seul fichier requis est, bien entendu, l'image
+elle-même.
+
+Depuis la version 0.9.17 de Tux Paint , les tampons peuvent être des images
+bitmap PNG ou bien des images vectorielles SVG. Ils peuvent être en couleur ou
+en niveaux de gris. Le canal alpha (transparence) des PNG est utilisé pour
+déterminer la forme réelle de l'image (sinon vous obtiendriez un grand
+rectangle sur vos dessins).
+
+Les fichiers PNG peuvent être de n'importe quelle taille, et Tux Paint (par
+défaut) fournit un ensemble de boutons de redimensionnement pour permettre à
+l'utilisateur d'ajuster le tampon vers le haut (plus grand) et vers le bas
+(plus petits).
+
+Les SVG sont basés sur des vecteurs et seront mis à l'échelle de manière
+adéquate pour le canevas utilisé.
+
+💡 Remarque : si vos nouveaux des tampons basés sur PNG se présentent tous sous
+forme de carrés ou de rectangles pleins, c'est que vous avez oublié d'utiliser
+la transparence alpha ! Consultez le fichier de documentation "PNG" pour plus
+d'informations et de conseils.
+
+💡 Remarque : si vos nouveaux tampons SVG semblent avoir beaucoup de zones
+vides, assurez-vous que le «document» SVG n'est pas plus grand que la ou les
+formes qu'il contient. S'ils sont coupés, assurez-vous que le «document» est
+suffisamment grand pour contenir la ou les formes. Voir le fichier de
+documentation " SVG" pour plus d'informations et de conseils.
+
+⚙ Utilisateurs avancés : Le HOWTO Advanced Stamps décrit, en détail, comment
+créer des images PNG qui seront parfaitement mises à l'échelle lorsqu'elles
+seront utilisées comme tampons dans Tux Paint .
+
+Texte de description des tampons
+
+Tux Paint affichera un texte descriptif quand un tampon est sélectionné. Le
+texte est mis dans fichier (avec texte simple) ayant le même nom que le PNG ou
+SVG, mais avec une extension ".txt". (par exemple, "stamp.png" dont la
+description est "stamp.txt" est placée dans le même répertoire).
+
+La première ligne du fichier texte sera utilisée comme description de l'image
+du tampon, en anglais américain. Il doit être encodé en UTF-8.
+
+Support pour la régionalisation
+
+    Des lignes supplémentaires peuvent être ajoutées au fichier texte pour
+    fournir des traductions de la description, à afficher lorsque Tux Paint
+    s'exécute dans une langue différente (comme le français ou l'espagnol).
+
+    Le début de la ligne doit correspondre au code de langue de la langue en
+    question (par exemple, "fr" pour le français et "zh_TW" pour le chinois
+    traditionnel), suivi de ".utf8=" et de la description traduite (codée en
+    UTF-8).
+
+    Pour les développeurs de Tux Paint : Il y a des scripts dans le répertoire
+    "po" pour convertir les fichiers texte au format PO (et inversement) pour
+    une traduction facile vers différentes langues. Par conséquent, vous ne
+    devez jamais ajouter ni modifier directement les traductions dans les
+    fichiers ".txt".
+
+    Si aucune traduction n'est disponible pour la langue dans laquelle Tux
+    Paint est en cours d'exécution, le texte anglais américain sera utilisé.
+
+
+
+Utilisateurs de Windows
+
+    Utilisez NotePad ou WordPad pour modifier / créer ces fichiers.
+    Assurez-vous de les enregistrer en texte brut et assurez-vous qu'ils ont
+    une extension ".txt" à la fin du nom de fichier.
+
+
+
+
+Effets sonores des tampons
+
+Tux Paint peut jouer un effet sonore quand un tampon est choisi. Par exemple,
+le son d'un canard faisant coin-coin, ou un bref morceau de musique quand un
+instrument est choisi. Les fichiers doivent être aux formats "WAVE (".wav")" ou
+OGG Vorbis (".ogg"), et porter le même nom que l'image PNG ou SVG.( par ex.,
+l'effet sonore "stamp.ogg" est le son du fichier "stamp.svg" qui est dans le
+même répertoire).
+
+Support pour la régionalisation
+
+    Pour les sons de différentes locales (par exemple, si le son est quelqu'un
+    qui dit un mot, et que vous voulez des versions traduites du mot prononcé),
+    créez également des fichiers WAV ou OGG avec l'étiquette de la locale dans
+    le nom de fichier, sous la forme : "stamp_LOCALE.EXT"
+
+    L'effet sonore qui sera joué lorsque le tampon correspondant au fichier
+    image "stamp.png" est choisi, et que Tux Paint utilise la langue espagnole,
+    sera "stamp_es.wav". Avec la langue française, ce sera "stamp_fr.wav". Avec
+    le portugais brésilien, "stamp_pt_BR.wav", etc ...
+
+    Si aucun effet sonore localisé ne peut être chargé, Tux Paint tentera de
+    charger le fichier son «par défaut». (par exemple, "stamp.wav")
+
+
+
+
+💡 Remarque : Pensez à utiliser les descriptions sonores; voir 'Son descriptif
+du tampon' ci-dessous.
+
+Son descriptif du tampon
+
+Tux Paint peut également émettre une description sonore quand on choisit un
+tampon. Par ex., une personne disant le mot "canard" quand on choisit un
+canard, ou le nom d'un instrument de musique quand on en choisit un. Les
+fichiers peuvent être au format "WAVE (".wav")" ou "OGG Vorbis (".ogg")", et on
+le même nom que l'image PNG ou SVG, avec "_desc" à la fin (par ex., le son
+descritid de "stamp.svg" est le fichier son "stamp_desc.ogg" dans le même
+répertoire).
+
+Support pour la régionalisation
+
+    Pour les descriptions sonores dans différentes langues, créez également des
+    fichiers WAV ou OGG avec à la fois "_desc" et le libellé des paramètres
+    régionaux dans le nom de fichier, sous la forme : "stamp_desc_LOCALE.EXT"
+
+    L'description sonore qui sera joué lorsque le tampon correspondant au
+    fichier image "stamp.png" est choisi, et que Tux Paint utilise la langue
+    espagnole, sera "stamp_desc_es.wav". Avec la langue française, ce sera
+    "stamp_desc_fr.wav". Avec le portugais brésilien, "stamp_desc_pt_BR.wav",
+    etc ...
+
+    Si aucun description sonore localisé ne peut être chargé, Tux Paint tentera
+    de charger le fichier son «par défaut». (par exemple, "stamp_desc.wav")
+
+
+
+
+Options des tampons
+
+Outre une une forme graphique, un texte de description, un effet sonore et une
+description orale, les tampons peuvent également recevoir d'autres attributs.
+Pour ce faire, vous devez créer un «fichier de données» pour tampon.
+
+Un fichier de données de tampon est simplement un fichier texte ASCII contenant
+les options pour le tampon.
+
+Le fichier porte le même nom que l'image PNG ou SVG , mais une extension
+".dat". (par exemple, le fichier de données "stamp.png" est le fichier texte
+"stamp.dat" qui se trouve dans le même répertoire.)
+
+Tampons colorés
+
+    Les tampons peuvent être soit "colorables" soit '"teintables"
+
+    Colorable
+
+        Les tampons "colorables" fonctionnent comme des pinceaux - vous
+        choisissez le tampon pour obtenir la forme, puis choisissez la couleur
+        que vous voulez. (Les tampons de symboles, comme les tampons
+        mathématiques et musicaux, en sont un exemple.)
+
+        Rien sur l'image d'origine n'est utilisé à l'exception de la
+        transparence (du canal "alpha"). La couleur du tampon ressort unie.
+
+        Ajoute une ligne contenant le mot "colorable" au fichier de données
+        tampon.
+
+
+
+    Teinté
+
+        Les tampons «teintés» sont similaires aux tampons «colorables», sauf
+        que les détails de l'image originale sont conservés. (Pour le dire
+        techniquement, l'image d'origine est utilisée, mais sa teinte est
+        modifiée en fonction de la couleur actuellement sélectionnée.)
+
+        Ajoute une ligne contenant le mot "tintable" au fichier de données
+        tampon.
+
+
+
+    Options de teinture :
+
+        En fonction du contenu de votre tampon, vous souhaiterez peut-être que
+        Tux Paint utilise l'une des nombreuses méthodes pour le teinter.
+        Ajoutez l'une des lignes suivantes au fichier de données du tampon :
+
+        Coloriage normal — "tinter=normal" (par défaut)
+            C'est le mode normal de teinture. Tout d'abord, la teinte primaire
+            du tampon est déterminée. (Par exemple, l'image d'une fleur avec sa
+            tige aura la couleur des pétales considérée comme teinte primaire
+            de l'ensemble de l'image). Puis on trouve la partie de l'image la
+            plus saturée. Avec "le mode de teinture normal", l'étendue de la
+            teinte utilisée pour faire cela démarre dans un angle de ±18° de la
+            teinte primaire trouvée dans l'étape 1. (Si aucune n'est trouvée,
+            ce sera dans une étendue de 50 %, puis on réessaie). Tout ce qui
+            est à l'intérieur de l'étendue de 50 % (par ex. ±27°) est modifié
+            pour avoir la teinte de la couleur choisie par l'utilisateur.
+
+        Coloriage étroit — "tinter=narrow"
+            C'est comme l'option "normal" décrite plus haut, mais avec une
+            étendue de teinte plus faible de ±6°. Tout ce qui est trouvé dans
+            l'étendue (par ex. ±9°) est teinté. Si une trop grande partie de
+            vitre image est teintée, essayez cette option.
+
+        Coloriage 'toutes tonalités' — "tinter=anyhue"
+            Cela rempappe toutes les teintes du tampon. C'est pareil que les
+            options "anyhue" et "narrow" décrites auparavant, mais l'étendu de
+            teinte est ±180°.
+
+        Coloriage vectoriel — "tinter=vector"
+            Cela mappe «noir à blanc» à «noir à destination».
+
+
+
+
+
+
+
+Tampons inaltérables
+
+    Par défaut, un tampon peut être retourné, affiché comme une image miroir,
+    ou les deux. Cela se fait à l'aide des boutons de commande sous le
+    sélecteur de tampon, en bas à droite de l'écran dans Tux Paint .
+
+    Parfois, cela n'a pas de sens pour un timbre d'être retourné ou reflété;
+    par exemple, des timbres de lettres ou de chiffres. Parfois, les tampons
+    sont symétriques, il n'est donc pas utile de laisser l'utilisateur les
+    retourner ou les refléter.
+
+    Pour empêcher un tampon d'être qui a été inversé verticalement, ajoutez une
+    ligne contenant le mot «noflip» au fichier de données du tampon.
+
+    Pour empêcher un tampon d'être qui a été inversé horizontalement, ajoutez
+    une ligne contenant le mot «nomirror» au fichier de données du tampon.
+
+
+
+Taille initiale du tampon
+
+    Par défaut, Tux Paint suppose que votre tampon est dimensionné de manière
+    appropriée pour un affichage non mis à l'échelle sur un canevas de 608x472.
+    Il s'agit de la taille originale du canevas pour Tux Paint , pour un écran
+    640x480. Tux Paint ajustera ensuite le tampon en fonction de la taille
+    réelle du canevas et, si c'est activé, des contrôles de taille du tampon
+    définis par l'utilisateur.
+
+    Si votre tampon est trop grand ou trop petit, vous pouvez spécifier un
+    facteur d'échelle. Si votre tampon est 2,5 fois plus large (ou haut) qu'il
+    devrait l'être, ajoutez une des options, représentant toutes le même
+    réglage, à votre fichier de données du tampon.(Un signe égal,"=", peut être
+    ajouté après le mot "scale".)
+
+      + "scale 40%"
+      + "scale 5/2"
+      + "scale 2.5"
+      + "scale 2:5"
+
+
+Utilisateurs de Windows
+
+    Utilisez NotePad ou WordPad pour modifier / créer ces fichiers.
+    Assurez-vous de les enregistrer en texte brut et assurez-vous qu'ils ont
+    une extension ".txt" à la fin du nom de fichier.
+
+
+
+
+Mise en miroir et retournement
+
+Dans certains cas, vous souhaiterez peut-être fournir une version pré-dessinée
+de l'image miroir, de l'image inversée ou même des deux d'un tampon. Par
+exemple, imaginez une photo d'un camion de pompiers avec les mots Service
+d'incendie écrits sur le côté. Vous ne voulez probablement pas que ce texte
+apparaisse à l'envers lorsque l'image est retournée !
+
+Pour créer une version miroir d'un tampon que vous voulez que Tux Paint
+utilise, plutôt que d'en faire un miroir seul, créez simplement un deuxième
+fichier graphique ".png" ou ".svg" avec le même nom, sauf avec "_mirror" avant
+l'extension du nom de fichier.
+
+Par exemple, pour le tampon "stamp.png", vous créeriez un autre fichier nommé
+"stamp_mirror.png", qui sera utilisé lorsque le tampon est mis en miroir
+(plutôt que d'utiliser une version à l'envers de "stamp.png").
+
+Depuis Tux Paint 0.9.18, vous pouvez également fournir une image pré-retournée
+avec "_flip" dans le nom, et / ou une image qui est à la fois en miroir et
+retournée, en la nommant " _mirror_flip".
+
+💡 Remarque : Si l'utilisateur retourne et reflète une image, et qu'un
+"_mirror_flip" pré-dessiné n'existe pas, mais que "_flip" ou "_mirror" existe ,
+il sera utilisé, et reflété ou retourné, selon le cas.
+
+Polices
+
+Les fontes utilisées par Tux Paint sont des fontes True Type Fonts (TTF).
+
+Placez-les simplement dans répertoire "fonts". Tux Paint chargera la police et
+fournira quatre tailles différentes dans le sélecteur «Lettres» lors de
+l'utilisation des outils "Texte" ou "Étiquette".
+
+'Images de démarrage'
+
+Les images «de démarrage» apparaissent dans la boîte de dialogue «Nouveau»,
+avec des choix d'arrière-plan de couleur unie.
+
+Quand vous utilisez une 'image de démarrage', faites des modifications, puis la
+sauvegardez, l'image d'origine n'est pas écrasée. De plus, quand vous éditez
+votre nouvelle image, les contenus de 'l'image de démarrage' initiale peuvent
+l'affecter.
+
+Images de démarrage avec style 'livre de coloriage'
+
+Le type le plus élémentaire "d'image de démarrage" est similaire à une image
+dans un livre de coloriage. C'est le contour d'une forme que vous pouvez
+ensuite colorier et ajouter des détails. Dans Tux Paint , lorsque vous
+dessinez, tapez du texte ou des tampons, le contour reste «au-dessus» de ce que
+vous dessinez. Vous pouvez effacer des parties du dessin que vous avez faites,
+mais vous ne pouvez pas effacer le contour.
+
+Pour créer ce type "d'image de départ", dessinez simplement une image noir et
+blanc avec contour dans un programme de dessin, et sauvegardez la en tant
+fichier PNG ou SVG. Si vous sauvegardez en PNG, vous pouvez optionellement
+rendre l'image noire et transparente, plutôt que noire et blanche, mais ceci
+(depuis Tux Paint 0.9.21) n'est pas requis.
+
+Images de démarrage avec 'style scénique'
+
+En plus de la superposition de style `` livre de coloriage '', vous pouvez
+également fournir une image d'arrière-plan séparée dans le cadre d'une "image
+de démarrage''. La superposition agit de la même manière : elle ne peut pas
+être dessinée, effacée ou affectée par les outils «Magie». Cependant,
+l'arrière-plan peut l'être !
+
+Lorsque l'outil «Gomme» est utilisé sur une image basée sur ce type d'image de
+démarrage, plutôt que de transformer le canevas en une couleur unie, telle que
+le blanc, il restaure cette partie du canevas avec l'image d'arrière-plan
+d'origine à partir de image de démarrage.
+
+En créant à la fois une superposition et un arrière-plan, vous pouvez créer une
+«image de démarrage» qui simule la profondeur. Imaginez un arrière-plan qui
+montre l'océan et une superposition qui est l'image d'un récif. Vous pouvez
+ensuite dessiner (ou tamponner) des poissons sur l'image. Ils apparaîtront dans
+l'océan, mais jamais «devant» le récif.
+
+Pour créer ce type d'image de départ, créez simplement une superposition (avec
+transparence) comme décrit ci-dessus et enregistrez-la au format PNG. Créez
+ensuite une autre image (sans transparence) et enregistrez-la avec le même nom
+de fichier, mais avec "-back" ajouté au nom. (par exemple, "starter-back.png"
+serait l'image d'arrière-plan de l'océan qui correspond à la superposition ou
+au premier plan.)
+
+Pour de meilleurs résultats, les images de démarrage doivent être de la même
+taille que le canevas de Tux Paint . (Voir la section "Chargement d'autres
+images dans Tux Paint " du README pour plus de détails sur le dimensionnement.)
+Si ce n'est pas le cas, elles seront étirées, sans affecter la forme ("rapport
+hauteur / largeur"); cependant, des bavures peuvent être apparaître sur les
+bords.
+
+Placez-les dans le répertoire "starters". Lorsque la boîte de dialogue
+«Nouveau» est accessible dans Tux Paint , les images de démarrage apparaîtront
+avec l'écran qui apparaît, suivant les différents choix de couleurs unies.
+
+💡 Remarque :Les 'Images de démarrage' sont 'attachés' aux images sauvegardées,
+via un petit fichier texte qui a le même nom que le fichier sauvegardé, mais
+avec ".dat" comme extension. Ceci permet de continuer de s'occuper du dessin,
+mais après avoir quitté Tux Paint, oi bien une autre image a été chargée, ou
+bien une nouvelle image a été créée (En d'autres termes, si vous basez un
+dessin sur un image de démarrage, il sera toujours changé par lui).
+
+Options d'image de démarrage
+
+Outre une une image, les 'Images de démarrage' peuvent également recevoir
+d'autres attributs. Pour ce faire, vous devez créer un «fichier de données»
+pour image de 'Départ'. (Note : Tux Paint avant la version 0.9.29 ne supporte
+pas options de démarrage.)
+
+Un fichier de données de starter's est simplement un fichier texte ASCII
+contenant les options pour le starter.
+
+Le fichier porte le même nom que l'image , mais une extension ".dat". (par
+exemple, le fichier de données "starter.png" est le fichier texte "starter.dat"
+qui se trouve dans le même répertoire.)
+
+allowscale
+
+    Quand une image de démarrage a un ratio d'aspect (proportion largeur/
+    hauteur) différent de celui du canevas de Tux Paint, elle sera dimensionnée
+    pour remplir entièrement le canevas sans l'étirer (en changeant le ratio
+    d'aspect); par exemple une image carrée sur un canevas de format portrait
+    sera placée au centre de ce canevas. Par défaur, Tux Paint prend la bande
+    de pixels aux bords de l'image et l'étend jusqu'aux bords du canevas, en
+    "l'étalant".
+
+    Si l'image de démarrage peut être rognée dans une ou les deux directions, "
+    allowscale" peut être utilisé pour dire à Tux Paint quel comportement est
+    permis :
+
+      + Pour les images pour lesquelles c'est d'accord pour rogner les bords
+        gauche et droite, mais les bords haut et bas doivent être conservés,
+        utilisez "allowscale=horizontal".
+          o Si le ratio d'aspect de l'image de démarrage est plus large que
+            celui du canevas, elle sera mise à l'échelle pour avoir la même
+            hauteur que le canevas et gauche et droite seront rognés.
+          o Si le ratio d'aspect de l'image de démarrage est plus haut que
+            celui du canevas, elle sera mise à l'échelle pour avoir la même
+            hauteur que le canevas et il n'y aura pas de rognage, et les bords
+            de gauche et droite seront barbouillés.
+
+      + Pour les images pour lesquelles c'est d'accord pour rogner les bords
+        haut et bas, mais les bords gauche et droite doivent être conservés,
+        utilisez "allowscale=vertical".
+          o Si le ratio d'aspect de l'image de démarrage est plus haut que
+            celui du canevas, elle sera mise à l'échelle pour avoir la même
+            largeur que le canevas et haut et bas seront rognés.
+          o Si le ratio d'aspect de l'image de démarrage est plus large que
+            celui du canevas, elle sera mise à l'échelle pour avoir la même
+            largeur que le canevas et il n'y aura pas de rognage, et les bords
+            de haut et bas seront barbouillés.
+
+      + Si on accepte de rogner soit le haut et le bas, soit la droite et la
+        gauche, utilisez "allowscale=both". Le contenu de l'image de démarrage
+        sera toujours en accord avec la canevas, indépendamment de son ratio
+        d'aspect par rapport à celui du canevas.
+      + Le comportement par défaut est de ne pas faire de rognage. Ceci peut
+        être spécifié explicitement avec "allowscale=none".
+
+
+arrière-plan
+
+    Cette option vous permet de spécifier comment Tux Paint doit remplir le
+    reste du canevas, lorsque l'image de démarrage ne s'accorde pas dans l'une
+    ou l'autre direction. Par , comme dit auparavant, Tux Paint "barbouillera"
+    les bords de cette image. (Ceci peut être spécifié expkicitement avec "
+    background=smear".)
+
+    Vous pouvez spécifier à la place une couleur unie en arrière-plan (par ex.
+    pour une image de démarrage du style 'livre de coloriage', avec "background
+    =#fff").
+
+    Les couleurs peuvent être listées en utilisant trois nombres décimaux (par
+    exemple, "255 68 136") ou un 'triplet' hexadécimal de 6 ou 3 chiffres (par
+    exemple, " #ff4488" ou "#F48").
+
+    Voyez la section "Fichier de palette couleur" section de la "documentation
+    Options" pour plus de détails.
+
+
+
+gravité
+
+    Cette option vous permet de spécifier comment Tux Paint doit positionner
+    une image de démarrage lorsqu'elle a été rognée dans l'une ou l'autre
+    direction. Par défaut, placera le centre de l'image de démarrage xomme
+    celui du canevas. (Ceci peut être spécifié explicitement avec "gravity=
+    center".)
+
+    Par exemple, si le haut de l'image de démarrage est avec le contenu le plus
+    important, vous pouvez spécifier "gravity=top". Ou si le bas à droite est
+    plus important, spécifiez "gravity=bottom-right".
+
+    Options disponibles :
+      + center — formes à partir du centre (par défaut)
+      + top — formes à partir du centre en haut
+      + bottom — formes à partir du centre en bas
+      + left — préférer le centre gauche
+      + right — préférer le centre droit
+      + top-left — préférer en haut à gauche
+      + top-right — préférer en haut à droite
+      + bottom-left — préférer en bas à gauche
+      + bottom-right — préférer en bas à droite
+
+    [ Une image au format paysage avec un horizon où le soleil est au milieu et
+    une construction sur le côté droit. ]
+
+    Vue sur le centre d'une image de démarrage étirée pour être en accord avec
+    la largeur du canevas.
+
+
+    [ Image au format portrait avec un horizon, le soleil au milieu et le côté
+    gauche d'une construction à droite. ]
+
+    Vue sur le centre d'une image de démarrage étirée pour être en accord avec
+    la hauteur du canevas.
+
+
+    [ Image au format paysage avec le ciel, le soleil en bas et le haut d'une
+    construction sur la droite. ]
+
+    Vue sur le haut d'une image de démarrage étirée pour être en accord avec la
+    largeur du canevas.
+
+
+    [ Image, au format paysage, du sol avec le soleil en haut. ]
+
+    Vue sur le bas d'une image de démarrage étirée pour être en accord avec la
+    largeur du canevas.
+
+
+    [ Image, au format portrait, d'un horizon avec le soleil à gauche et une
+    construction au milieu. ]
+
+    Vue sur le droit d'une image de démarrage étirée pour être en accord avec
+    la hauteur du canevas.
+
+
+
+
+
+💡 Note : Les Modèles (description plus bas) peuvent eux aussi avoir des
+options, et ont les mêmes options que les images de démarrage.
+
+
+'Modèles'
+
+Les images «Modèle» apparaissent également dans la boîte de dialogue «Nouveau»,
+avec les choix d'arrière-plan de couleur unie et les «Images de démarrage».
+(Remarque: Tux Paint avant la version 0.9.22 ne disposait pas de la
+fonctionnalité 'Template'.)
+
+À la différence des images dessinées dans Tux Paint par les utilisateurs puis
+réouvertes plus tard, l'ouverture d'un «modèle» crée un nouveau dessin. Lorsque
+vous enregistrez, l'image «modèle» n'est pas écrasée. À la différence des
+«images de démarrage», il n'y a pas de «calque» immuable au-dessus du canevas.
+Vous pouvez dessiner sur n'importe quelle partie de celui-ci.
+
+Lorsque l'outil «Gomme» est utilisé sur une image basée sur ce type d'image
+'modèle', plutôt que de transformer le canevas en une couleur unie, telle que
+le blanc, il restaure cette partie du canevas avec l'image d'arrière-plan
+d'origine à partir de image 'modèle'.
+
+Les «modèles» sont simplement des fichiers image (au format PNG, JPG, SVG ou
+KPX (KidPix)). Aucune préparation ou conversion n'est requise.
+
+Pour de meilleurs résultats, les images 'modèle' doivent être de la même taille
+que le canevas de Tux Paint . (Voir la section "Chargement d'autres images dans
+Tux Paint " du README pour plus de détails sur le dimensionnement.) Si ce n'est
+pas le cas, elles seront étirées, sans affecter la forme ("rapport hauteur /
+largeur"); cependant, des bavures peuvent être apparaître sur les bords.
+
+Placez-les dans le répertoire "templates". Lorsque la boîte de dialogue
+«Nouveau» est accessible dans Tux Paint , les images 'modèle' apparaîtront avec
+l'écran qui apparaît, suivant les différents choix de couleurs unies.
+
+💡 Remarque :Les 'Modèles' sont 'attachés' aux images sauvegardées, via un petit
+fichier texte qui a le même nom que le fichier sauvegardé, mais avec ".dat"
+comme extension. Ceci permet de continuer de s'occuper du dessin, mais après
+avoir quitté Tux Paint, oi bien une autre image a été chargée, ou bien une
+nouvelle image a été créée (En d'autres termes, si vous basez un dessin sur un
+image 'modèle', il sera toujours changé par lui).
+
+
+Options des images Modèle
+
+Tout comme 'Les images de démarrage', un fichier de configuration peut être
+spécifié, celui-ci décrivant le comportement de Tux Paint quand on utilise des
+'images de démarrage' sur un canevas qui n'a pas des proportions identiques
+(ratio d'aspect). Voir "Options des iamges de démarrage" ci-dessus. (Note : Tux
+Paint avant la version 0.9.29 ne supporte pas options de démarrage.)
+
+💡 On peut aussi créer des modèles de base (sans options) à partir de dessins
+existants et sauvegardés avec la boîte de dialogue "Ouvrir" de Tux Paint. Ils
+seront placés dans le répertoire de modèles personnels de l'utilisateur. (Note
+: Tux Paint avant la version 0.9.31 ne supporte pas Création de Modèle depuis
+la boîte de dialogue Ouvrir.)
+
+Traductions
+
+Tux Paint supporte de nombreux langages, grâce à l'utilisation de la
+bibliothèque de localisation "gettext". (Voir la section "Langages" de la
+"documentation Options " pour savoir comment changer les paramètres régionaux
+dans Tux Paint .)
+
+Pour traduire Tux Paint dans une nouvelle langue, copiez le fichier de modèle
+de traduction, "tuxpaint.pot" (trouvé avec le code source de Tux Paint , dans
+le dossier "src/po/"). Renommez la copie en tant que ".po", avec le nom
+approprié aux paramètres régionaux de votre traduction (par exemple, "es.po"
+pour l'espagnol; ou "pt_BR.po" pour le portugais brésilien , contre "pt.po" ou
+"pt_PT.po" pour le portugais parlé au Portugal).
+
+Ouvrez le fichier nouvellement créé ".po - vous pouvez l'éditer à l'aide d'un
+éditeur de texte simple comme Emacs, Pico ou vi sur Linux ou NotePad sous
+Windows. Le texte anglais original utilisé dans Tux Paint se trouve dans les
+lignes commençant par "msgid". Entrez vos traductions de chacune de ces parties
+de texte dans les lignes vides "msgstr" directement sous les lignes "msgid"
+correspondantes . ( Remarque : ne supprimez pas les guillemets.)
+
+Exemple :
+
+    msgid "Smudge"
+    msgstr "Manchar"
+
+    msgid "Click and drag to draw large bricks."
+    msgstr "Haz clic y arrastra para dibujar ladrillos grandes."
+
+De nombreux outils existent pour gérer les catalogues de traduction 'gettext',
+vous n'avez donc pas besoin de les éditer avec un éditeur de texte. En voici
+quelques uns :
+
+  * Poedit
+  * Gtranslator (GNOME Translator)
+  * Virtraal
+  * Lokalize
+
+💡 Remarque : Il est préférable de toujours travailler avec le dernier modèle de
+catalogue de texte Tux Paint ("tuxpaint.pot"), car si nouveau texte est ajouté
+et l'ancien texte peut être parfois modifié. Le catalogue de textes de la
+prochaine version inédite de Tux Paint se trouve dans le référentiel Git de Tux
+Paint (voir : https://tuxpaint.org/download/source/git/ ), et sur le site Web
+de Tux Paint à https://tuxpaint.org/help/po/.
+
+Pour modifier une traduction existante, téléchargez le dernier fichier ".po"
+pour cette langue et modifiez-le comme décrit ci-dessus.
+
+Vous pouvez envoyer des fichiers de traduction nouveaux ou modifiés à Bill
+Kendrick , responsable du développement principal de Tux Paint , à :
+bill@newbreedsoftware.com, ou les poster sur la liste de diffusion
+"tuxpaint-i18n" (voir : https://tuxpaint.org/lists/ ).
+
+Autrement, si vous avez un compte chez SourceForge.net , vous pouvez demander à
+être ajouté au projet "tuxpaint" et obtenir un accès en écriture au référentiel
+de code source Git afin que vous puissiez valider vos modifications
+directement.
+
+💡 Remarque : La prise en charge de nouveaux locales nécessite des ajouts au
+code source de Tux Paint ( "/src/i18n.h" et "/src/i18n.c"), et nécessite des
+mises à jour de Makefile, pour s'assurer que les fichiers ".po" sont compilés
+en fichiers ".mo", et utilisables pendant l'exécution.
+
+Méthodes alternatives de saisie
+
+Les outils "Texte" et "Étiquette" de Tux Paint peuvent fournir des méthodes de
+saisie alternatives pour certaines langues. Par exemple, lorsque Tux Paint
+fonctionne avec un environnement local japonais, la touche droite [Alt] droit
+peut être pressée pour basculer entre les modes Latin, Romanized Hiragana et
+Romanized Katakana. Cela permet de saisir des caractères et des mots natifs
+dans l'outil "Texte" ou 'Étiquette' en tapant une ou plusieurs touches sur un
+clavier avec des caractères latins (par exemple, un clavier US QWERTY ).
+
+Pour créer une méthode d'entrée pour une nouvelle locale, créez un fichier
+texte avec un nom basé sur la locale (par exemple, "ja" pour le japonais), avec
+".im" comme extension (par exemple, "ja.im").
+
+Le fichier ".im" peut avoir plusieurs sections configuration de caractères pour
+différents modes. Par exemple, sur un système de clavier japonais, la saisie de
+[K] [A] en mode Hiragana génère un caractère Unicode "か" différent de la
+saisie de [K] [A] en mode Katakana ("カ").
+
+Répertoriez les configurations de caractères dans ce fichier, un par ligne.
+Chaque ligne doit contenir (séparés par des espaces) :
+
+  * la valeur Unicode du caractère, en hexadécimal (plusieurs caractères
+    peuvent être listés, séparés par deux points (':'), ce qui permet à
+    certaines séquences de correspondre à des mots)
+  * la séquence de touches (les caractères ASCII qui doivent être saisis pour
+    générer le caractère Unicode)
+  * un drapeau (ou "-" pour rien)
+
+Commencez les sections de configuration de caractères supplémentaires avec une
+ligne contenant le mot «section».
+
+Exemple :
+
+    # Hiragana
+    304B ka -
+    304C ga -
+    304D ki -
+    304E gi -
+    304D:3083 kya -
+    3063:305F tta -
+
+    # Katakana
+    section
+    30AB ka -
+    30AC ga -
+    30AD ki -
+    30AE gi -
+
+⚙ RemarqueLes lignes vides du fichier ".im" sont ignorées, aussi bien que les
+lignes commençant par le caractère "#" ( livre/dièse)-- on peut l'utiliser pour
+ajouter des commentaires, comme dans l'exemple ci-dessus.
+
+💡 Remarque : Les significations des indicateurs sont spécifiques à la langue et
+sont traitées par le code source spécifique à la langue dans "src/im.c". Par
+exemple, "b" est utilisé en coréen pour gérer Batchim, qui peut être reporté au
+caractère suivant.
+
+💡 Remarque : La prise en charge de nouveaux méthodes de saisie nécessite des
+ajouts au code source de Tux Paint ( "/src/im.c"), et nécessite des mises à
+jour de Makefile, pour s'assurer que les fichiers ".im" sont disponibles pour
+être utilisés lors de l'exécution du programme.
+
+Clavier virtuel sur écran
+
+Depuis la version 0.9.22, les outils «Texte» et «Étiquette» de Tux Paint
+peuvent présenter un clavier à l'écran qui permet d'utiliser le pointeur (via
+une souris, des systèmes de suivi oculaire, etc.) pour saisir des caractères.
+Les fichiers qui décrivent la mise en page et les clés disponibles sont stockés
+dans le répertoire "osk" de Tux Paint . Chaque disposition de clavier est
+définie par un certain nombre de fichiers (dont certains peuvent être partagés
+par différentes dispositions).
+
+Nous utiliserons le clavier QWERTY comme exemple :
+
+Fichier d'aperçu de la disposition ("qwerty.layout")
+
+Il s'agit d'un fichier texte qui spécifie les autres fichiers utilisés pour
+décrire l'agencement et la disposition des touches.
+
+    layout qwerty.h_layout
+    keymap us-intl-altgr-dead-keys.keymap
+    composemap en_US.UTF-8_Compose
+    keysymdefs keysymdef.h
+    keyboardlist qwerty.layout default.layout
+
+⚙ RemarqueLes lignes vides du fichier ".layout" sont ignorées, aussi bien que
+les lignes commençant par le caractère "#" ( livre/dièse)-- on peut l'utiliser
+pour ajouter des commentaires, comme dans l'exemple ci-dessus.
+
+La ligne "keyboardlist" décrit les dispositions vers lesquelles on bascule
+lorsque l'utilisateur clique sur les boutons gauche et droit du clavier. (Voir
+ci-dessous.)
+
+Fichier de disposition du clavier (qwerty.h_layout")
+
+Ceci décrit la taille du clavier (sous forme de grille L × H), et répertorie
+chaque touche avec son code numérique (voir le fichier "keymap", ci-dessous),
+la largeur à laquelle il doit être dessiné (généralement "1.0", pour en prendre
+un espace sur le clavier, mais dans l'exemple ci-dessous, notez que les touches
+"TAB" et "SPACE" sont beaucoup plus larges), le caractère ou le texte à
+afficher sur la touche, selon les touches de modification qui ont été enfoncées
+(une pour chacune : pas de modificateurs, [Shift] , [AltGr] et [Shift] +
+[AltGr] ), et enfin si la touche est affectée ou non par la touche [CapsLock]
+(utilisez "1") ou [AltGr] (alt graphiques alternatifs) (utilisez "2"), ou pas
+du tout (utilisez "0").
+
+    WIDTH 15
+    HEIGHT 5
+
+    KEY 49 1.0 ` ~ ` ~ 0
+    KEY 10 1.0 1 ! ¡ ¹ 0
+    KEY 11 1.0 2 @ ² ˝ 0
+    KEY 12 1.0 3 # · ³ 0
+    KEY 13 1.0 4 $ ¤ £ 0
+    KEY 14 1.0 5 % € ¸ 0
+    KEY 15 1.0 6 ^ ¼ ^ 0
+    ...
+    KEY 21 1.0 = + × ÷ 0
+    KEY 22 2.0 DELETE DELETE DELETE DELETE 0
+
+    NEWLINE
+
+    KEY 23 1.5 TAB TAB TAB TAB 0
+    KEY 24 1.0 q Q ä Ä 1
+    KEY 25 1.0 w W å Å 1
+    KEY 26 1.0 e E é É 1
+    KEY 27 1.0 r R ® ® 1
+    ...
+
+    NEWLINE
+
+    # Flèche gauche pour revenir au clavier précédent
+    KEY 2 1.0 <- <- <- <- 0
+
+    KEY 133 2.0 Cmp Cmp Cmp Cmp 0
+
+    # Les touches ALT ou ALTGR sont utilisées dans im pour changer de mode de
+    saisie
+    KEY 64 2.0 Alt Alt Alt Alt 0
+
+    # Espace
+    KEY 65 7.0 SPACE SPACE SPACE SPACE 0
+
+    KEY 108 2.0 AltGr AltGr AltGr AltGr 0
+
+    # Flèche droite pour aller au clavier suivant
+    KEY 1 1.0 -> -> -> -> 0
+
+Notez ici que les touches alphabétiques ( [Q], [W] , [1] , etc.) seront
+affectées par CapsLock , tandis que les touches numériques ( [1] , [2] , etc.),
+[Espace] , etc. ne le sont pas.
+
+Les codes clés jusqu'à "8" sont réservés à un usage interne. Ceux actuellement
+utilisés sont décrits ci-dessous.
+
+  * 0 — bouton vide
+  * 1 — disposition suivante (pour le réglage "keyboardlist" du fichier
+    d'agencement)
+  * 2 — disposition précédente (pour le réglage "keyboardlist" du fichier
+    d'agencement)
+
+Fichier keymap ("us-intl-altgr-dead-keys.keymap")
+
+Ce fichier définit quels codes de touches numériques (vus dans les fichiers de
+disposition du clavier, tels que "qwerty.h_layout" décrits ci-dessus) doivent
+correspondre aux caractères réels qu'une application comme Tux Paint s'attend à
+recevoir lorsque des touches (par exemple, sur un clavier réel) sont enfoncées.
+
+Si vous utilisez un système d'exploitation tel que Linux, qui tourne sous
+X-Window et qui dispose de l'outil "xmodmap" en ligne de commande, vous pouvez
+l'utiliser avec l'option "-pke" ('print keymap expressions') pour générer un
+fichier keymap.
+
+    keycode 9 = Escape NoSymbol Escape Escape
+    keycode 10 = 1 exclam exclamdown onesuperior 1 exclam 1 exclam NoSymbol
+    onesuperior
+    keycode 11 = 2 at twosuperior dead_doubleacute 2 at 2 at onehalf
+    twosuperior
+    keycode 12 = 3 numbersign periodcentered threesuperior dead_macron
+    periodcentered
+    ...
+    keycode 52 = z Z ae AE Arabic_hamzaonyeh asciitilde guillemotright NoSymbol
+    Greek_zeta Greek_ZETA U037D U03FF
+    keycode 53 = x X x X Arabic_hamza Arabic_sukun guillemotleft NoSymbol
+    Greek_chi Greek_CHI rightarrow leftarrow
+    keycode 54 = c C copyright cent Arabic_hamzaonwaw braceright Greek_psi
+    Greek_PSI copyright
+    keycode 55 = v V v V Arabic_ra braceleft Greek_omega Greek_OMEGA U03D6
+    keycode 56 = b B b B UFEFB UFEF5 Greek_beta Greek_BETA U03D0
+    keycode 57 = n N ntilde Ntilde Arabic_alefmaksura Arabic_maddaonalef
+    Greek_nu Greek_NU U0374 U0375
+    keycode 58 = m M mu mu Arabic_tehmarbuta apostrophe Greek_mu Greek_MU U03FB
+    U03FA
+    keycode 59 = comma less ccedilla Ccedilla Arabic_waw comma comma less
+    guillemotleft
+    keycode 60 = period greater dead_abovedot dead_caron Arabic_zain period
+    period greater guillemotright periodcentered
+    keycode 61 = slash question questiondown dead_hook Arabic_zah
+    Arabic_question_mark slash question
+    keycode 62 = Shift_R NoSymbol Shift_R Shift_R
+    ...
+
+Fichier Composemap ("en_US.UTF-8_Compose")
+
+Ce fichier décrit les caractères qui peuvent être composés avec plusieurs
+entrées. Par exemple, "[Compose]" suivi de "[A] " et "[E]" peut être utilisé
+pour créer le caractère "æ".
+
+Le fichier fourni avec Tux Paint est basé sur le composemap anglais américain
+UTF-8 (Unicode) fourni avec le système X Window de X.Org . La version actuelle
+de la bibliothèque Xlib se trouve sur la page Web à l' adresse https://
+www.x.org/releases/current/doc/libX11/i18n/compose/en_US.UTF-8.html.
+
+Fichier de définitions des Keysim ("keysymdef.h")
+
+Ce fichier (qui est un fichier d'en-tête du langage de programmation C )
+provient également du système X Window . Il définit les valeurs Unicode de
+chaque keycap (par exemple, "XK_equal" correspond à "U+003D", pour le caractère
+"=" ("EQUALS SIGN").
+
+💡 Remarque : Ce fichier n'est pas compilé avec Tux Paint, mais il est lu et
+analysé durant l'exécution de celui-ci.
+
+Il est peu probable qu'une modification de ce fichier soit requise.
+
+Outils 'Magie'
+
+Les outils 'Magie" de Tux Paint sont des morceux de programmes, extérieurs aux
+programme principal de Tux Paint, qui sont chargés comme des "plugins" au
+démarrage, et interagissent avec le programme en utilisant une "Interface de
+Programmation d'Application" (API). Les plugins qui viennent avec Tux Paint
+(tout comme Tux Paint) sont écrites en langage C.
+
+Consultez la Documentation sur les outils API 'Magic' pour savoir comment
+écrire vos API personnelles.
+

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="455.78763"
+   id="svg2"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="elephant.svg"
+   sodipodi:version="0.32"
+   width="613.99933"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <metadata
+     id="metadata3">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Elephant Outline</dc:title>
+        <dc:description>Clip art for coloring book creation</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>mammal</rdf:li>
+            <rdf:li>asia</rdf:li>
+            <rdf:li>animal</rdf:li>
+            <rdf:li>africa</rdf:li>
+            <rdf:li>coloring</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://www.openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matthew Loewen</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Matthew Loewen</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 236.93495 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="640.54669 : 236.93495 : 1"
+       inkscape:persp3d-origin="320.27335 : 157.95663 : 1"
+       id="perspective8" />
+  </defs>
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1.0"
+     id="base"
+     inkscape:current-layer="svg2"
+     inkscape:cx="375.0458"
+     inkscape:cy="288.42106"
+     inkscape:document-units="px"
+     inkscape:guide-bbox="true"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="726"
+     inkscape:window-width="1024"
+     inkscape:window-x="611"
+     inkscape:window-y="70"
+     inkscape:zoom="0.51123084"
+     pagecolor="#ffffff"
+     showgrid="true"
+     showguides="true"
+     fit-margin-top="3"
+     fit-margin-left="3"
+     fit-margin-bottom="3"
+     fit-margin-right="3"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       id="guide9809"
+       orientation="vertical"
+       position="-525.1386,4.8649025"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     d="M 18.672881,282.43778 C 27.577595,234.95647 22.712545,186.11683 30.127801,138.59164 40.114344,90.71118 73.387351,46.659503 120.55722,31.576801 177.2615,4.7818455 242.52129,-4.5917205 303.65888,10.962443 c 42.06306,7.762061 83.46169,19.718742 122.71416,36.930446 26.36853,-21.572203 63.99943,-41.8353525 97.56322,-24.570693 22.11686,31.790102 62.87783,48.968785 74.8337,87.758894 13.75443,31.24706 16.71137,67.80048 2.22481,99.38458 -13.76095,40.7381 -29.73427,82.50497 -27.14677,126.3294 10.95196,19.38977 56.42712,49.85619 19.46403,67.18878 -39.70435,9.00842 -53.15656,-38.9289 -58.02124,-69.18213 -10.06133,-42.34667 -14.40485,-86.06483 -28.06841,-127.52187 -19.94011,16.35288 -6.77409,52.27335 -28.45906,70.32059 -12.5581,21.60174 -41.38497,12.66746 -33.03581,-13.48297 -1.61341,-38.28915 -14.55598,-74.79785 -31.15799,-108.81845 -11.12115,-35.99497 7.9652,-79.784061 43.33717,-93.410669 20.12356,2.23798 35.26335,17.861339 53.44154,25.247469 M 17.768893,281.52514 c 19.199828,-30.79402 43.200738,-62.82194 40.409372,-101.31083 1.271458,-12.56472 0.793456,-61.94217 -2.895863,-26.65047 -4.679369,30.6915 -7.196723,66.80467 15.841398,91.12181 15.31628,19.65265 31.31595,55.44624 5.47182,73.34795 -22.200064,17.01322 -54.608996,18.88915 -71.5022741,42.8408 -9.96255,31.84558 27.1765941,61.07452 52.9035101,73.50054 29.908204,-2.28177 30.931514,-52.40435 64.268624,-56.62731 32.87581,-20.18307 69.01958,-35.21089 99.035,-59.93007 13.92671,-27.97767 -12.35017,-52.26388 -28.15968,-72.37416 -7.89287,-11.29374 -16.39758,-22.11061 -24.41273,-33.32683 m 186.45799,-20.48985 c -6.02868,33.43701 -33.09796,56.21936 -51.3101,82.98944 -4.55917,31.51491 2.37248,63.89504 -3.00423,95.1281 -14.25269,21.15319 -45.03881,51.8459 -9.36147,71.19736 22.59835,23.89612 57.72161,7.67064 55.3715,-24.62807 5.96576,-33.62239 27.80058,-59.85348 46.33064,-87.11445 13.54521,-20.59003 23.62087,-43.08248 32.30609,-66.11267 m 24.35831,26.65233 c -29.523,2.28956 -69.90845,32.06067 -36.31896,59.54352 27.19727,22.7976 16.91502,73.5889 48.29784,88.02232 21.37713,3.74315 76.5884,-4.36055 48.00418,-33.66717 -23.83458,-25.85802 -24.00646,-59.58072 -24.97651,-92.20318 -6.93841,-16.32979 -2.62954,-69.08695 21.9369,-41.70312 6.00338,6.31507 11.35649,13.60716 19.06316,17.96142 m -334.54816,50.4154 c -14.03164,34.02807 22.83754,68.84479 3.7916,101.80181 -21.9222,16.86875 -63.71705,14.98185 -75.05813,-13.75057 -4.04667,-16.41828 4.54206,-32.48205 5.13555,-48.83001 m 97.50402,-81.38182 c 23.9592,14.6908 51.59634,29.59318 80.59341,23.43893 M 572.46728,181.01561 c 29.51654,-13.25701 -15.31461,22.63433 -0.2512,0.1991 m 13.25947,-42.05922 c -4.28221,2.64353 -8.56441,5.28705 -12.84659,7.93059"
+     id="path1342"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.87462372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+</svg>

@@ -1,0 +1,17 @@
+                         Tux Paint "Magic" Tool: Light
+
+                                Group: Painting
+
+               Author: Bill Kendrick <bill@newbreedsoftware.com>
+
+This draws a glowing beam on the canvas, in the currently-selected color. The
+more you use it on one spot, the more white it becomes.
+
+This tool is operated in a freehand fashion.
+
+This tool offers multiple size settings.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

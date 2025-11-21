@@ -1,0 +1,18 @@
+                   Outil 'Magie' de Tux Paint : Lunettes 3D
+
+                           Groupe: Filtres couleurs
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Cet outil permet de séparer sur l'image entière les canaux de couleur rouge et
+cyan, créant ainsi des images anaglyphiques qui peuvent être utilisées avec des
+lunettes 3D.
+
+Cet outil permet de travailler en mode à main levée.
+
+Voir aussi : Sép des couleurs. & Vision double.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

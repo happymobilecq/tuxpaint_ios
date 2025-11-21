@@ -1,0 +1,19 @@
+                    Outil 'Magie' de Tux Paint : Assombrir
+
+                           Groupe: Filtres couleurs
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Cela assombrit les couleurs là où vous promènerez la souris. (Si vous le faites
+plusieurs fois au même endroit, vous aurez éventuellement du noir.)
+
+Cet outil permet à la fois de travailler avec un simple clic et à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Éclaircir, Teinter, Saturer, & Désaturer.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

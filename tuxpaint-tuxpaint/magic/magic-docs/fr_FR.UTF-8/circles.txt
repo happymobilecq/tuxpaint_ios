@@ -1,0 +1,17 @@
+                     Outil 'Magie' de Tux Paint : Cercles
+
+                              Groupe: Distorsions
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Cela transforme votre image en coups de pinceaux circulaires autour du point où
+vous avez cliqué.
+
+Cet outil permet à la fois de travailler avec un simple clic et à main levée.
+
+Voir aussi : Raies.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

@@ -1,0 +1,18 @@
+                        Tux Paint "Magic" Tool: Pattern
+
+                            Group: Pattern Painting
+
+            Author: Pere Pujal i Carabantes <pere@fornol.no-ip.org>
+
+Draws a tiled pattern around the picture.
+
+This tool is operated in a freehand fashion.
+
+This tool offers multiple size settings.
+
+See also: Tiles.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

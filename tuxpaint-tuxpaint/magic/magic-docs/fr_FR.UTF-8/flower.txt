@@ -1,0 +1,22 @@
+                      Outil 'Magie' de Tux Paint : Fleur
+
+                              Groupe: Artistique
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Cet outil dessine des petites fleurs avec des feuilles et des tiges. Cliquez
+pour positionner la base, puis déplacez la souris vers le haut pour avoir la
+tige, et finalement relâchez le bouton de la souris pour finir la fleur. Elle
+sera dessinée avec la couleur sélectionnée. La forme et la taille de la tige
+dépend de la manière dont vous bougez la souris.
+
+Cet outil permet de travailler en mode à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Herbe.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

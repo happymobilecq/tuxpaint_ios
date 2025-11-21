@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2920" width="37.317" height="310.69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs2922">
+  <linearGradient id="linearGradient2892-1" x1="61.573" x2="78.543" y1="441.15" y2="585.4" gradientTransform="translate(-78.543 -308.43)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3759-7"/>
+  <linearGradient id="linearGradient3759-7">
+   <stop id="stop3761-8" stop-color="#7b7b7b" offset="0"/>
+   <stop id="stop3763-9" stop-color="#969696" offset=".39825"/>
+   <stop id="stop3765-1" stop-color="#7d7d7d" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2886" x1="135.86" x2="86.714" y1="377.7" y2="372.22" gradientTransform="translate(-78.72 -308.43)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3723"/>
+  <linearGradient id="linearGradient3723">
+   <stop id="stop3725" stop-color="#868686" offset="0"/>
+   <stop id="stop3727" stop-color="#333" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2880" x1="97.758" x2="101.12" y1="351.44" y2="376.72" gradientTransform="translate(-78.543 -308.43)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3769" stop-color="#7b7b7b" offset="0"/>
+   <stop id="stop3771" stop-color="#aaa" offset=".59164"/>
+   <stop id="stop3773" stop-color="#7d7d7d" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2877" x1="111.19" x2="107.13" y1="356.92" y2="393.69" gradientTransform="translate(-78.543 -308.43)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3759-7"/>
+  <linearGradient id="linearGradient3006" x1="85.342" x2="107.32" y1="584.99" y2="623.48" gradientTransform="matrix(.98577 0 0 .98577 -77.37 -301.59)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3723"/>
+ </defs>
+ <metadata id="metadata2925">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-261.34 -288.45)">
+  <g id="g2951" transform="translate(261.34 288.45)">
+   <path id="path3688" d="m9.4018 166.48c0 79.146-15.58 106.86-6.6277 134.8 4.2653 13.314 22.516 11.744 25.663 0 7.2529-27.068-6.3152-46.943-6.3152-133.73 0-10.617 15.195-25.422 15.195-52.781 0-48.642-6.8919-114.77-21.908-114.77-14.396 0-11.1 85.243-11.1 131.86 0 20.025 5.0931 25.237 5.0931 34.618z" color="#000000" fill="url(#linearGradient2892-1)"/>
+   <path id="path3743" d="m34.771 121.68c-2.2074 28.581-14.142 34.295-20.153 28.638-6.0104-5.6568-6.0104-19.092-6.0104-41.012s-3.6921-107.48 6.364-107.48c14.916 0 24.309 61.461 19.799 119.85z" color="#000000" fill="url(#linearGradient2886)" opacity=".3"/>
+   <path id="path3780" d="m8.092 59.978c0.51287-3.0907 3.1416-5.5156 5.8122-6.8447 1.7711-1.3549 4.3624-1.6003 5.5459-3.7155 1.5688-2.2286 2.7991-4.6889 4.681-6.6947 1.4015-2.5933 4.847-2.3261 6.2522-4.8511 1.7224-2.4488 0.88423 1.8506 1.6606 2.7179-0.0149 2.0119 1.6331 4.1572 0.36375 6.0653-2.3084 2.0684-3.8189 4.8439-4.6036 7.824-0.33998 2.5175-2.3236 3.9056-4.7419 3.4557-1.9497 0.83076-2.9798 2.8853-4.5625 4.1997-1.7992 2.438-4.5049 4.0029-6.3011 6.4234-1.3755 1.9503-2.3132 4.2555-3.8594 6.0394-0.51412-5.3878-0.38188-9.6376-0.24733-14.619z" color="#000000" fill="url(#linearGradient2880)" opacity=".3"/>
+   <path id="path3790" d="m33.656 51.818c-2.1165 2.2055-3.6974 6.2494-5.321 8.7412-2.4928 1.0512-3.8716 3.2234-5.1228 5.5325-1.7653 2.4836-4.6016 3.6396-6.9884 5.3984-3.1361 1.4289-3.9934 4.9192-6.2883 7.1014-2.8035 0.41929-1.6733 18.95-0.9026 18.385 2.8452-1.7155 4.7791-4.4281 6.9684-6.8035 2.8883-1.9553 5.4596-4.4171 7.6226-7.1477 2.4415-4.3825 4.7301-8.8848 6.6977-13.507 1.0923-2.3639 0.0128-4.9921 1.1295-7.347 0.73291-2.6781 2.9448-4.5856 2.5701-7.6776-0.12315-0.66368-0.23643-1.7569-0.36525-2.6762z" color="#000000" fill="url(#linearGradient2877)" opacity=".3"/>
+   <path id="path3868" d="m4.8972 298.37c1.5469 7.006 8.111 11.929 14.885 8.7416 7.5116-3.5345 8.587-15.236 8.6391-21.577 0.0924-11.243-1.0813-19.551-2.4292-30.563-0.41872-3.4209-1.0987-9.7877-1.7856-12.922-0.0206 8.8713 1.3585 17.47-0.29165 26.291-2.4483 8.2896 0.27533 23.441-7.6217 28.994-3.9169 2.7542-10.959-2.6978-11.396 1.0354z" color="#000000" fill="url(#linearGradient3006)" opacity=".3"/>
+  </g>
+ </g>
+</svg>

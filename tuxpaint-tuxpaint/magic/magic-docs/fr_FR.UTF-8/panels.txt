@@ -1,0 +1,18 @@
+                     Outil 'Magie' de Tux Paint : Panneaux
+
+                        Groupe: Déformations de l'image
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Rétrécit l'image et le répète quatre fois dans une grille de 2x2. Utile pour la
+création de bande dessinée à 4 panneaux. Peut être également utilisé pour un
+effet yeux-composés (insectes).
+
+Cet outil travaille avec un seul clic.
+
+Voir aussi : Zoom avec carreau.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

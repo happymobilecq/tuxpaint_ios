@@ -1,0 +1,3 @@
+"Nun" stands for "nisht," or "nothing." If the dreidel lands on "nun," you do nothing.
+is.utf8="Nun" stendur fyrir "nisht", eða "ekkert". Ef dreidel-skopparakringluteningurinn lendir á "nun", gerirðu ekkert.
+nn.utf8=Nun tyder «nisht» – ingenting. Viss dreidelen landar på nun, får du ingenting.

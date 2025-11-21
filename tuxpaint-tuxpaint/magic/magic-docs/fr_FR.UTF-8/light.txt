@@ -1,0 +1,17 @@
+                     Outil 'Magie' de Tux Paint : Lumière
+
+                                Groupe: Peindre
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Ceci dessine un rayon lumineux sur le canevas, avec la couleur sélectionnée.
+Plus vous l'utilisez sur une zone donnée, plus il devient clair.
+
+Cet outil permet de travailler en mode à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

@@ -1,0 +1,18 @@
+                       Outil 'Magie' de Tux Paint : Zoom
+
+                        Groupe: Déformations de l'image
+
+           Auteur : Pere Pujal i Carabantes <pere@fornol.no-ip.org>
+
+Cliquez et balayez vers le haut pour zoomer, et vers le bas pour dézoomer.
+(Quand vous dézoomer, la couleur que vous avez choisie est utilisée comme
+couleur d'arrière-plan)
+
+Cet outil permet de travailler en mode à main levée.
+
+Voir aussi : Rush & Zoom avec carreau.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

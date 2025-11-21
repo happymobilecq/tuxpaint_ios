@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg1" width="890" height="542.5" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs3">
+  <radialGradient id="radialGradient2471" cx="233.17" cy="1527" r="157.17" gradientTransform="scale(2.1443 .46636)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1722" stop-color="#815017" offset="0"/>
+   <stop id="stop1723" stop-color="#ec932b" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient2472" cx="490.85" cy="327.54" r="241.45" gradientTransform="scale(.78224 1.2784)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1716" stop-color="#a6671e" offset="0"/>
+   <stop id="stop1717" stop-color="#ec932b" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g id="layer1">
+  <g id="g2443" transform="translate(-6.0506e-12 8.75)">
+   <g id="g2440" transform="matrix(1 0 0 1 376.11 511.97)" fill-opacity=".70732">
+    <path id="path1769" transform="matrix(1.2303 0 0 .92177 -387.36 -870.52)" d="m731.3 774.53a357.01 179.95 0 1 1-714.03 0 357.01 179.95 0 1 1 714.03 0z" color="#000000" display="block"/>
+    <path id="path1773" transform="matrix(1 0 0 1 -386.09 -853.53)" d="m460.58 334.12c78.399 0 141.51 75.825 141.51 170.01v160.45c0 94.187-283.03 94.187-283.03 0v-160.45c0-94.187 63.115-170.01 141.51-170.01z" color="#000000" display="block"/>
+   </g>
+   <g id="g1742" transform="matrix(1 0 0 1 -49.978 -349.06)">
+    <path id="path1684" transform="matrix(1.2303 0 0 .92177 31.224 .50734)" d="m731.3 774.53a357.01 179.95 0 1 1-714.03 0 357.01 179.95 0 1 1 714.03 0z" color="#000000" display="block" fill="#ec932b" stroke="#000" stroke-width="4.6951"/>
+    <path id="path1685" d="m934.51 711.72c0 69.05-189.7 48.127-432.16 48.127-242.46 0-449.87 18.269-449.87-50.781 7.0846-87.627 203.87-162.25 446.33-162.25 242.46 0 435.7 82.58 435.7 164.9z" color="#000000" display="block" fill="#835117" stroke="#000" stroke-width="5"/>
+    <path id="path1688" d="m831.56 761.44c-85.394-0.67318-97.096 1.0559-339.56 1.0559s-251.8-2.4168-313.75-2.7758c36.386-95.999 100.92-137.35 343.38-137.35 242.46 0 272.25 62.734 309.92 139.07z" color="#000000" display="block" fill="#ec932b" stroke="#000" stroke-width="2.5"/>
+    <path id="path1720" d="m831.56 761.44c-85.394-0.67318-97.096 1.0559-339.56 1.0559s-251.8-2.4168-313.75-2.7758c36.386-95.999 100.92-137.35 343.38-137.35 242.46 0 272.25 62.734 309.92 139.07z" color="#000000" display="block" fill="url(#radialGradient2471)" stroke="#000" stroke-width="2.5"/>
+    <path id="rect1061" transform="translate(32.5 17.5)" d="m460.58 334.12c78.399 0 141.51 75.825 141.51 170.01v160.45c0 94.187-283.03 94.187-283.03 0v-160.45c0-94.187 63.115-170.01 141.51-170.01z" color="#000000" display="block" fill="#ec932b" stroke="#000" stroke-width="5"/>
+    <path id="path1714" d="m465.46 368.78c60.199 0 108.66 67.141 108.66 150.54v142.08c0 83.399-217.33 83.399-217.33 0v-142.08c0-83.399 48.464-150.54 108.66-150.54z" color="#000000" display="block" fill="url(#radialGradient2472)"/>
+    <path id="path1687" transform="translate(32.5 17.5)" d="m602.09 599.13v65.454c0 94.187-283.03 94.187-283.03 0v-65.454c83.495 49.77 179.38 67.045 283.03 0z" color="#000000" display="block" fill="#ff000d" stroke="#000" stroke-width="2.5"/>
+    <path id="path1692" d="m598.97 437.69c0 35.304-14.721 87.212-31.978 87.212-14.349 0-20.35-25.745-20.35-61.049s-31.792-66.863-2.9071-66.863c28.885 0 55.234 5.3955 55.234 40.699z" color="#000000" display="block" fill-opacity=".61585"/>
+    <rect id="rect1694" x="175.87" y="785.03" width="33.527" height="25.145" ry="12.573" color="#000000" display="block" fill-opacity=".90244"/>
+    <rect id="rect1698" x="220.87" y="785.03" width="33.527" height="25.145" ry="12.573" color="#000000" display="block" fill-opacity=".90244"/>
+    <rect id="rect1699" x="265.87" y="785.03" width="33.527" height="25.145" ry="12.573" color="#000000" display="block" fill-opacity=".90244"/>
+    <rect id="rect1700" x="308.37" y="785.03" width="33.527" height="25.145" ry="12.573" color="#000000" display="block" fill-opacity=".90244"/>
+    <rect id="rect1701" x="345.87" y="785.03" width="33.527" height="25.145" ry="12.573" color="#000000" display="block" fill-opacity=".90244"/>
+    <rect id="rect1702" x="385.87" y="785.03" width="33.527" height="25.145" ry="12.573" color="#000000" display="block" fill-opacity=".90244"/>
+    <rect id="rect1703" x="430.87" y="785.03" width="33.527" height="25.145" ry="12.573" color="#000000" display="block" fill-opacity=".90244"/>
+    <rect id="rect1704" x="470.87" y="785.03" width="33.527" height="25.145" ry="12.573" color="#000000" display="block" fill-opacity=".90244"/>
+    <rect id="rect1705" x="515.87" y="785.03" width="33.527" height="25.145" ry="12.573" color="#000000" display="block" fill-opacity=".90244"/>
+    <rect id="rect1706" x="565.87" y="785.03" width="33.527" height="25.145" ry="12.573" color="#000000" display="block" fill-opacity=".90244"/>
+    <rect id="rect1707" x="608.37" y="785.03" width="33.527" height="25.145" ry="12.573" color="#000000" display="block" fill-opacity=".90244"/>
+    <rect id="rect1708" x="655.87" y="785.03" width="33.527" height="25.145" ry="12.573" color="#000000" display="block" fill-opacity=".90244"/>
+    <rect id="rect1709" x="693.37" y="785.03" width="33.527" height="25.145" ry="12.573" color="#000000" display="block" fill-opacity=".90244"/>
+    <rect id="rect1710" x="733.37" y="785.03" width="33.527" height="25.145" ry="12.573" color="#000000" display="block" fill-opacity=".90244"/>
+    <rect id="rect1711" x="773.37" y="785.03" width="33.527" height="25.145" ry="12.573" color="#000000" display="block" fill-opacity=".90244"/>
+   </g>
+  </g>
+ </g>
+ <metadata>
+  <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work rdf:about="">
+    <dc:title>Sombrero</dc:title>
+    <dc:description/>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>sombrero</rdf:li>
+      <rdf:li>hat</rdf:li>
+      <rdf:li/>
+      <rdf:li>clothing</rdf:li>
+      <rdf:li>people</rdf:li>
+      <rdf:li>ethnic</rdf:li>
+      <rdf:li>cultural</rdf:li>
+      <rdf:li>mexico</rdf:li>
+      <rdf:li>mexican</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+    <dc:publisher>
+     <cc:Agent rdf:about="http://www.openclipart.org">
+      <dc:title>Dave Pena</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:creator>
+     <cc:Agent rdf:about="">
+      <dc:title>Dave Pena</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:rights>
+     <cc:Agent rdf:about="">
+      <dc:title>Dave Pena</dc:title>
+     </cc:Agent>
+    </dc:rights>
+    <dc:date/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="Public Domain">
+     <dc:date/>
+    </cc:license>
+    <dc:language>en</dc:language>
+   </cc:Work>
+   <cc:License rdf:about="Public Domain">
+    <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+</svg>

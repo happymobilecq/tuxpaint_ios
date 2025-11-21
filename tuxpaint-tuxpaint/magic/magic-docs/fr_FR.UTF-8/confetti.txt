@@ -1,0 +1,16 @@
+                    Outil 'Magie' de Tux Paint : Confettis
+
+                                Groupe: Peindre
+
+                   Auteur : Adam Rakowski <foo-script@o2.pl>
+
+Jetez des confettis sur l'image !
+
+Cet outil permet de travailler en mode à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

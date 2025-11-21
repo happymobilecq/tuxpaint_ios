@@ -1,0 +1,19 @@
+                   Outil 'Magie' de Tux Paint : Arc-en-ciel
+
+                                Groupe: Peindre
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Semblable à un pinceau, mais lorsque vous promenez la souris, vous obtenez un
+spectre de couleurs brillantes.
+
+Cet outil permet de travailler en mode à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Arc-en-ciel doux & Arc-en-ciel.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

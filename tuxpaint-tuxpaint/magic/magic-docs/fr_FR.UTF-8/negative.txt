@@ -1,0 +1,18 @@
+                     Outil 'Magie' de Tux Paint : Négatif
+
+                           Groupe: Filtres couleurs
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Cela inverse les couleurs là où vous promenez la souris. (p. ex. le blanc
+devient noir et vice-versa). Les valeurs des composants rouges, verts et bleus
+des pixels sont inversées.
+
+Cet outil permet à la fois de travailler avec un simple clic et à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

@@ -1,0 +1,14 @@
+                      Outil 'Magie' de Tux Paint : Foudre
+
+                              Groupe: Artistique
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Dessine un éclair entre deux points de l'image.
+
+Cet outil permet de travailler en mode à main levée.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

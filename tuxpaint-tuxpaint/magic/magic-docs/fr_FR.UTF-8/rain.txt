@@ -1,0 +1,18 @@
+                      Outil 'Magie' de Tux Paint : Pluie
+
+                                Groupe: Peindre
+
+                Auteur : Andrew Corcoran <akanewbie@gmail.com>
+
+Dessine des gouttes de pluie.
+
+Cet outil permet à la fois de travailler avec un simple clic et à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Boule de neige & Flocon de neige.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

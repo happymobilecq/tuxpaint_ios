@@ -1,0 +1,16 @@
+                    Outil 'Magie' de Tux Paint : Renverser
+
+                        Groupe: Déformations de l'image
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Semblable à "Miroir". Cliquez et toute l'image sera inversée haut/bas.
+
+Cet outil travaille avec un seul clic.
+
+Voir aussi : Miroir.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

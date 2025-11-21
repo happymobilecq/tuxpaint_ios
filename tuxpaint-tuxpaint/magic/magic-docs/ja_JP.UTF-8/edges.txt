@@ -1,0 +1,18 @@
+                         Tux Paint "Magic" Tool: Edges
+
+                                Group: Distorts
+
+                 Author: Andrew Corcoran <akanewbie@gmail.com>
+
+Trace the edges in your picture, over a white background.
+
+This tool offers both freehand and one-click operation.
+
+This tool offers multiple size settings.
+
+See also: Emboss & Silhouette.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

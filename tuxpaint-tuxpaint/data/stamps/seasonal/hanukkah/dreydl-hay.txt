@@ -1,0 +1,3 @@
+"Hei" stands for "halb" or "half." If the dreidel lands on "hei," take half of what’s in the middle, plus one if there’s an odd number of objects.
+is.utf8="Hei" stendur fyrir "halb", eða "hálfur". Ef dreidel-skopparakringluteningurinn lendir á "hei", skal taka helminginn af því sem er á miðjunni, plús einn ef hutirnir eru í oddatölu.
+nn.utf8=Hei tyder «halb» – halv. Viss dreidelen landar på hei, ta halvparten av potten (runda opp ved oddetal).

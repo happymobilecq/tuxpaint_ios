@@ -1,0 +1,16 @@
+                      Outil 'Magie' de Tux Paint : Puzzle
+
+                              Groupe: Distorsions
+
+                   Auteur : Adam Rakowski <foo-script@o2.pl>
+
+Bouge des parties de ton dessin comme une pièce de puzzle.
+
+Cet outil permet de travailler en mode à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

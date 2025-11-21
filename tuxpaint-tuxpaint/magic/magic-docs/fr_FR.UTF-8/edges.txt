@@ -1,0 +1,18 @@
+                      Outil 'Magie' de Tux Paint : Bords
+
+                              Groupe: Distorsions
+
+                Auteur : Andrew Corcoran <akanewbie@gmail.com>
+
+Trace les bordures dans votre dessin, avec un arrière-plan blanc.
+
+Cet outil permet à la fois de travailler avec un simple clic et à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Relief & Silhouette.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

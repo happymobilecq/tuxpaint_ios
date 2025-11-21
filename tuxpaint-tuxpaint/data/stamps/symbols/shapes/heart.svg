@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg5353" width="180" height="160.28" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs5355">
+  <filter id="filter5301">
+   <feGaussianBlur id="feGaussianBlur5303" stdDeviation="35.518097"/>
+  </filter>
+  <filter id="filter5089">
+   <feGaussianBlur id="feGaussianBlur5091" stdDeviation="2.0296004"/>
+  </filter>
+  <linearGradient id="linearGradient5228" x1="-17378" x2="-17378" y1="3827.2" y2="3994.5" gradientTransform="matrix(14.249 0 0 -14.249 242623 62886)" gradientUnits="userSpaceOnUse">
+   <stop id="stop4925" stop-color="#f00" offset="0"/>
+   <stop id="stop4927" stop-color="#b70a0a" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata5358">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-5.0007 -108.29)">
+  <g id="g5311" transform="matrix(.062423 0 0 .062423 407.61 -252.74)" fill-rule="evenodd">
+   <path id="path5187" d="m-5633.3 5796.7c-802.38-14.426-1544.9 1240.4 618.36 2541.4 2.3654-4.2677 11.499-4.2677 13.865 0 2233-1343 1369.9-2636.5 540.72-2535.8-323.25 39.255-475.78 218.66-547.64 372.96-71.859-154.3-224.41-333.7-547.66-372.96-25.92-3.1491-51.753-5.0799-77.644-5.5458z" fill="url(#linearGradient5228)" stroke="#000" stroke-linejoin="round" stroke-width="26.11"/>
+   <path id="path5195" transform="matrix(14.249 0 0 -14.249 245964 64979)" d="m-17688 4045.3c-14.06 19.029-24.699 44.251-17.25 67.813 6.496 20.549 27.186 35.553 48.906 34.25 6.882-0.2412 14.604-2.0166 20.156-5.2188-30.916-1.043-58.799-28.252-58.875-59.469-0.634-13.45 2.721-26.86 8.344-39-0.427 0.5417-0.854 1.0834-1.281 1.625z" fill="#f55" filter="url(#filter5089)"/>
+   <path id="path5197" transform="matrix(14.249 0 0 -14.249 245964 64979)" d="m-17698 4072.8c-7.576 18.548-6.849 42.263 8.282 57.062 9.593 9.7205 24.317 15.075 37.468 13.344-29.044-9.0759-50.098-39.944-45.687-70.562l-0.063 0.1562z" fill="#faa" filter="url(#filter5089)"/>
+   <path id="path5201" transform="matrix(14.249 0 0 -14.249 245964 64979)" d="m-17699 4104.4c2.086 12.972 10.36 25.18 22.469 30.594-10.116-8.2002-18.067-19.018-22.594-31.188l0.125 0.5937z" fill="#fff" filter="url(#filter5089)"/>
+   <path id="path5278" d="m-3824.4 6087c95.511 871.77-341.58 1448.7-1185.7 2186.3 1030-572.82 1706.6-1491.5 1185.7-2186.3z" fill="#f55" filter="url(#filter5301)"/>
+   <path id="path5307" d="m-3748.8 6358.9c-7.3308 330.35-97.462 624.34-261.44 903.56-101.66 173.12-231.21 340.79-386.16 510.09 213.13-183.42 387.24-380.49 506.47-579.28 172.22-287.15 232.7-570.64 141.12-834.38z" fill="#faa" filter="url(#filter5301)"/>
+   <path id="path5309" d="m-3735.3 6510.8c-27.982 274-114.93 524.51-255.16 763.28-33.714 57.408-70.414 114.15-110 170.53 73.739-86.814 137.91-174.9 190.84-263.16 138.46-230.87 203.44-456.29 174.31-670.66z" fill="#fff" filter="url(#filter5301)"/>
+  </g>
+ </g>
+</svg>

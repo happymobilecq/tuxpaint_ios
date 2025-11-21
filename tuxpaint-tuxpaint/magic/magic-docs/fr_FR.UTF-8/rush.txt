@@ -1,0 +1,18 @@
+                       Outil 'Magie' de Tux Paint : Rush
+
+                        Groupe: Déformations de l'image
+
+           Auteurs : Pere Pujal i Carabantes <pere@fornol.no-ip.org>
+                   Bill Kendrick <bill@newbreedsoftware.com>
+
+Cliquez et balayez vers la haut pour zoomer, ou vers le bas pour dézoomer. Le
+résultat sera flou/barbouillé.
+
+Cet outil permet de travailler en mode à main levée.
+
+Voir aussi : Rush, Zoom avec carreau, & Zoom.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

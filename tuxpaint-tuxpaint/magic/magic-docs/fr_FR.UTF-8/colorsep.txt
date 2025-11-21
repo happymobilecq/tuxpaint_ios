@@ -1,0 +1,18 @@
+                Outil 'Magie' de Tux Paint : Sép des couleurs.
+
+                           Groupe: Filtres couleurs
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Cet outil sépare une couleur du dessin entier, la déplaçant à l'écart des
+autres (semblable à l'effet 'lunettes 3D, mais vous pouvez choisir la couleur à
+séparer et la direction de la séparation).
+
+Cet outil permet de travailler en mode à main levée.
+
+Voir aussi : Lunettes 3D & Vision double.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

@@ -1,0 +1,16 @@
+                  Outil 'Magie' de Tux Paint : Boule de neige
+
+                        Groupe: Décorations des images
+
+                Auteur : Andrew Corcoran <akanewbie@gmail.com>
+
+Remplit le dessin de boules de neige.
+
+Cet outil travaille avec un seul clic.
+
+Voir aussi : Pluie & Flocon de neige.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

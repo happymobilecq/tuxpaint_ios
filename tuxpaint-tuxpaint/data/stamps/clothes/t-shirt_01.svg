@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 20010904//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg1" width="160pt" height="160pt" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work rdf:about="">
+    <dc:title>t-shirt</dc:title>
+    <dc:description/>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li/>
+      <rdf:li>people</rdf:li>
+      <rdf:li>clothing</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+    <dc:publisher>
+     <cc:Agent rdf:about="http://www.openclipart.org">
+      <dc:title>Nicu Buculei</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Nicu Buculei</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:rights>
+     <cc:Agent>
+      <dc:title>Nicu Buculei</dc:title>
+     </cc:Agent>
+    </dc:rights>
+    <dc:date/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+    <dc:language>en</dc:language>
+   </cc:Work>
+   <cc:License rdf:about="http://web.resource.org/cc/PublicDomain">
+    <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g id="g2776" fill-rule="evenodd">
+  <path id="path2773" d="m7.7955 97.974c2.4954 3.8391 28.857 15.12 36.573 12.78 2.9166-2.9167 2.6474-16.271 4.375-19.687 4.223 13.284-4.8376 85.654-5.1041 96.978 11.251 7.8688 95.169 7.0237 114.9 2.3408 3.0313-4.299-7.2915-67.994-6.2558-97.131 1.9955 2.9194 3.134 10.579 3.6458 13.854 8.1395 2.3408 37.724-4.3749 39.912-8.0207 0.07592-7.293-20.225-63.437-25.329-66.353-5.7374-4.9429-40.461-16.901-45.4-22.351-1.1398-0.63704-2.0402-2.2489-2.6734-3.1699-5.6989 2.625-33.791 3.6528-39.018-0.43821-1.2633 1.5124-1.1295 2.4784-3.0296 3.3513-3.6458 0-35.826 15.276-46.538 23.913-7.7297 9.1691-27.4 59.291-26.058 63.935z"/>
+  <path id="path909" d="m83.031 4.5938c-5.5778 7.8694-20.593 10.564-29.864 16.897-9.1567 5.6033-21.16 8.9517-25.501 19.76-8.8803 18.034-17.111 35.241-21.885 54.812 3.1058 9.337 16.747 10.859 25.065 14.627 2.798 0.73475 8.5892 2.3702 12.269 1.5124 2.9659-2.6436 3.8208-7.7804 5.3176-16.662 4.0786 17.298-5.3962 65.862-6.6179 93.042 7.6179 6.3316 22.639 4.2518 33.748 5.5234 27.842 0.90749 59.962-0.49903 85.749-1.4856-1.164-9.3158-2.5277-21.275-2.3208-31.091-1.8022-17.841-4.8754-34.961-5.7818-52.878-0.58065-1.203-0.40892-8.045-0.79807-11.447 2.468 5.1698 4.018 11.28 4.051 12.41 5.4231-0.95387 23.35-3.2565 28.274-4.2716 5.2269-0.2986 10.084-0.94947 12.845-3.0724-0.09645-2.4801-1.5749-7.1465-2.5902-14.762-6.1806-18.75-12.254-37.831-21.991-55.072-9.1069-7.7732-22.374-9.4203-32.973-14.85-9.3384-2.6388-12.53-7.5102-18.929-11.289-11.784 3.2732-24.26 4.5892-38.067-1.7054zm0.9375 3.8616c12.06 3.538 25.288 3.0748 37.5 0.60714 8.5025 9.0385 22.07 10.699 32.919 16.2 11.088 3.22 20.883 11.292 23.477 23.087 6.5217 16.226 13.131 34.394 16.894 51.499-11.273 4.9686-25.05 5.7937-37.384 5.2768 1.1772-6.2259-7.2873-21.468-7.1998-7.8662 0.05933 30.523 7.657 62.469 8.1909 92.933-30.244 2.2145-63.211 3.2064-93.645 1.2698-10.506-0.56228-24.957-2.0514-18.642-16.485 2.0954-26.908 6.6258-54.244 5.0421-81.272-5.1572-13.111-5.8425 10.377-8.0268 14.983-11.969-0.2594-25.133-4.3572-35.054-10.772 4.8936-19.798 13.913-40.166 23.145-58.316 5.9942-10.353 18.834-13.412 28.57-19.381 7.2463-4.7861 17.821-6.3398 24.214-11.763z"/>
+ </g>
+</svg>

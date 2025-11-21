@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 20010904//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg1" width="400pt" height="400pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs3">
+  <linearGradient id="linearGradient850" x1=".15074" x2="1.25" y1=".4322" y2="-.22034">
+   <stop id="stop830" stop-color="#fff" stop-opacity=".525" offset="0"/>
+   <stop id="stop831" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient854" x1="4.9006e-17" y1=".5" y2=".5">
+   <stop id="stop856" stop-color="#fff" stop-opacity="0" offset="0"/>
+   <stop id="stop857" stop-color="#5f0e00" stop-opacity=".41667" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="g845" fill-rule="evenodd">
+  <path id="path847" d="m388.75 93.75c-18.75-17.5 31.25-30 37.5-23.75 10 5-8.75 8.75-7.5 17.5s0 55 10 57.5 22.5 11.25 22.5 23.75c31.25 77.5-91.25 290-381.25 183.75-5-3.75-32.5-35-37.5-42.5-2.5-8.75-6.25-30 8.75-37.5 128.75-33.75 277.5 32.5 345-118.75 11.25-26.25 2.5-60 2.5-60z" fill="#ffe200" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+  <path id="path849" d="m43.75 290 2.5-12.5c92.5-35 263.75 38.75 346.25-120-41.25 112.5-113.75 181.25-348.75 132.5z" fill="url(#linearGradient850)" stroke-width="1pt"/>
+  <path id="path851" d="m386.15 89.136c2.9146-17.6 29.112-18.073 36.445-18.945 11.985 1.5663-15.487 21.445-36.445 18.945z" fill="#442400" stroke-width="1pt"/>
+  <path id="path852" d="m32.518 305.14c-0.93269-18.37-1.8654-24.428 8.7439-30.487 4.6168 6.9252 3.75 28.37-8.7439 30.487z" fill="#442400" stroke-width="1pt"/>
+  <path id="path853" d="m133.75 366.25c218.75 55 292.99-83.122 306.25-116.25 22.5-40 8.75-85 8.75-85-1.25 135-142.5 243.75-315 201.25z" fill="url(#linearGradient854)" fill-opacity=".75" stroke-width="1pt"/>
+ </g>
+ <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <Work rdf:about="">
+   <dc:title>Clipart by Nicu Buculei - pear</dc:title>
+   <dc:rights>
+    <Agent>
+     <dc:title>Nicu Buculei</dc:title>
+    </Agent>
+   </dc:rights>
+   <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   <license rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+  </Work>
+  <License rdf:about="http://web.resource.org/cc/PublicDomain">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+   <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+  </License>
+ </rdf:RDF>
+</svg>

@@ -1,0 +1,16 @@
+                         Tux Paint "Magic" Tool: Noise
+
+                                Group: Distorts
+
+                 Author: Andrew Corcoran <akanewbie@gmail.com>
+
+Add random noise and static to your picture.
+
+This tool offers both freehand and one-click operation.
+
+This tool offers multiple size settings.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

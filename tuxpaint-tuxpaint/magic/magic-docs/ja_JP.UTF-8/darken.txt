@@ -1,0 +1,19 @@
+                        Tux Paint "Magic" Tool: Darken
+
+                             Group: Color Filters
+
+               Author: Bill Kendrick <bill@newbreedsoftware.com>
+
+This darkens the colors wherever you drag the mouse. (Do it to the same spot
+many times, and it will eventually become black.)
+
+This tool offers both freehand and one-click operation.
+
+This tool offers multiple size settings.
+
+See also: Lighten, Tint, 「ほうわ」, & 「ひほうわ」.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

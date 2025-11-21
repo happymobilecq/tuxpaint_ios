@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg1061" width="100pt" height="71pt" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs3">
+  <linearGradient id="linearGradient2336">
+   <stop id="stop2337" offset="0"/>
+   <stop id="stop2338" stop-color="#a6a6a6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1116" x1="22.187" x2="16.78" y1="132.77" y2="61.286" gradientTransform="scale(2.137 .46795)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2336"/>
+  <linearGradient id="linearGradient1117" x1="26.261" x2="69.193" y1="51.747" y2="26.685" gradientTransform="matrix(1.0336 -.16389 .14965 .94376 -9.9971 2.205)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2336"/>
+  <linearGradient id="linearGradient1118" x1="33.908" x2="34.285" y1="34.427" y2="63.931" gradientTransform="matrix(1.0336 -.16389 .14965 .94376 -.092646 1.3552)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1705" offset="0"/>
+   <stop id="stop1706" stop-color="#f0f0f0" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1119" x1="18.647" x2="29.078" y1="54.173" y2="32.977" gradientTransform="scale(1.8428 .54266)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2336"/>
+ </defs>
+ <g id="layer1">
+  <g id="g1111" transform="matrix(1.9857 0 0 1.9857 -21.708 -27.002)" fill-rule="evenodd" stroke-width="0">
+   <path id="path1700" transform="matrix(.98766 -.15661 .15661 .98766 -11.763 4.2456)" d="m77.159 53.182a31.136 6.8182 0 1 1-62.273 0 31.136 6.8182 0 1 1 62.273 0z" fill="url(#linearGradient1116)"/>
+   <path id="path1703" d="m26.258 50.271-7.4493-27.261 34.511-5.5666 1.5665 28.436c-2.058 2.058-7.8827 10.421-28.629 4.3914z" fill="url(#linearGradient1117)"/>
+   <path id="path2355" d="m26.251 50.277-7.3876-27.296 34.426-5.3393 1.5568 28.183c-1.7614 1.875-7.8494 10.482-28.595 4.4523z" fill="url(#linearGradient1118)" opacity=".65"/>
+   <path id="path1071" transform="matrix(.93313 -.14796 .15661 .98766 -7.9062 2.0936)" d="m61.477 24.773a18.523 5.4545 0 1 1-37.045 0 18.523 5.4545 0 1 1 37.045 0z" fill="url(#linearGradient1119)"/>
+  </g>
+ </g>
+ <metadata>
+  <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work rdf:about="">
+    <dc:title>tophat</dc:title>
+    <dc:description/>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>festive</rdf:li>
+      <rdf:li>hat</rdf:li>
+      <rdf:li>clothing</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+    <dc:publisher>
+     <cc:Agent rdf:about="http://www.openclipart.org">
+      <dc:title>Benji Park</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:creator>
+     <cc:Agent rdf:about="">
+      <dc:title>Benji Park</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:rights>
+     <cc:Agent rdf:about="">
+      <dc:title>Benji Park</dc:title>
+     </cc:Agent>
+    </dc:rights>
+    <dc:date/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="Public Domain">
+     <dc:date/>
+    </cc:license>
+    <dc:language>en</dc:language>
+   </cc:Work>
+   <cc:License rdf:about="Public Domain">
+    <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" width="744.09" height="1052.4" sodipodi:docbase="/home/steve/data/clipart/karg" sodipodi:docname="peach.svg" sodipodi:version="0.32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" pagecolor="#ffffff"/>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Peach</dc:title>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Steve Karg</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:publisher>
+     <cc:Agent>
+      <dc:title>kargs.net</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+    <cc:license rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+   </cc:Work>
+   <cc:License rdf:about="http://web.resource.org/cc/PublicDomain">
+    <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <g id="g5687" transform="matrix(1.7304 0 0 1.7304 -386.85 -391.47)">
+   <path id="path3937" d="m436.31 354.17s-54.672-4.5211-86.744-23.093c-32.072-18.571-32.67-56.2-32.67-56.2s60.792 12.928 92.864 31.5c32.072 18.571 26.549 47.793 26.549 47.793z" fill="#549e00" fill-rule="evenodd" stroke="#000" stroke-width=".5608px" sodipodi:nodetypes="cscsc"/>
+   <path id="path4812" d="m440.69 349.97s54.838 1.5057 88.754-13.434 38.639-52.276 38.639-52.276-61.844 6.1789-95.76 21.119c-33.917 14.94-31.633 44.591-31.633 44.591z" fill="#549e00" fill-rule="evenodd" stroke="#000" stroke-width=".5608px" sodipodi:nodetypes="cscsc"/>
+   <path id="path3062" d="m435.79 348.29s-12.886-23.329-1.3564-46.659c11.53-23.329 47.475-46.659 47.475-46.659l4.0693 8.7485s-32.893 17.862-43.406 39.368c-10.512 21.507 1.3564 46.659 1.3564 46.659l-8.1386-1.4581z" fill-rule="evenodd" stroke="#000" stroke-width=".49222px" sodipodi:nodetypes="csccscc"/>
+   <path id="path1307" d="m610.53 475.51c0 96.994-76.8 175.71-171.43 175.71-94.629 0-171.43-78.72-171.43-175.71 0-96.994 80.953-174.04 175.39-125.12 71.771-54.286 167.47 28.121 167.47 125.12z" fill="#ff7d73" sodipodi:nodetypes="csscc"/>
+  </g>
+ </g>
+</svg>

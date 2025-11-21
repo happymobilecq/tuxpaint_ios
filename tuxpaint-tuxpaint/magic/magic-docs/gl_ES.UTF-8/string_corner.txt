@@ -1,0 +1,16 @@
+                     Tux Paint "Magic" Tool: String Corner
+
+                                Group: Artistic
+
+            Author: Pere Pujal i Carabantes <pere@fornol.no-ip.org>
+
+Draw V-shaped string art at right angles.
+
+This tool is operated in a freehand fashion.
+
+See also: String V & String Edges.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

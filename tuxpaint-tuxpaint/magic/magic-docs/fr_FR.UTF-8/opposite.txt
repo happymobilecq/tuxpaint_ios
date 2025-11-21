@@ -1,0 +1,18 @@
+                  Outil 'Magie' de Tux Paint : Complémentaire
+
+                           Groupe: Filtres couleurs
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Cela convertit les couleurs là où vous promenez la souris en leurs
+complémentaires (opposées). (p.ex. le bleu devient orange et vice versa). Cela
+change la teinte des pixels, sans changer la saturation ou la luminosité.
+
+Cet outil permet à la fois de travailler avec un simple clic et à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

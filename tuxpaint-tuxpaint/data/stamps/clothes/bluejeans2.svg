@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" width="312.45" height="600.03" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <filter id="filter3669" x="-.18755" y="-.88119" width="1.3751" height="2.7624">
+   <feGaussianBlur id="feGaussianBlur3671" stdDeviation="1.4178087"/>
+  </filter>
+  <clipPath id="clipPath3818">
+   <path id="path3820" d="m547.86 5.2193-0.71428 20.714c37.62 22.244 86.662 21.213 137.14 25l0.71429-12.857-137.14-32.857z" fill="none" stroke="#000" stroke-width="1px"/>
+  </clipPath>
+  <filter id="filter4019">
+   <feGaussianBlur id="feGaussianBlur4021" stdDeviation="0.71796772"/>
+  </filter>
+  <filter id="filter4291" x="-.31981" y="-.050079" width="1.6396" height="1.1002">
+   <feGaussianBlur id="feGaussianBlur4293" stdDeviation="1.436794"/>
+  </filter>
+  <radialGradient id="radialGradient2535" cx="566.43" cy="235.94" r="9.0714" gradientTransform="matrix(1 0 0 .21284 0 185.72)" gradientUnits="userSpaceOnUse">
+   <stop id="stop4241" stop-color="#0b0b6b" offset="0"/>
+   <stop id="stop4243" stop-color="#0b0b6b" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient2538" cx="566.43" cy="235.94" r="9.0714" gradientTransform="matrix(1 -1.0686e-6 2.0798e-6 3.2279 -.00049071 -525.65)" gradientUnits="userSpaceOnUse">
+   <stop id="stop4233" offset="0"/>
+   <stop id="stop4235" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient2599" cx="590" cy="170.25" r="110.44" gradientTransform="matrix(2.0312 -.27882 .32284 2.7926 -862.64 -89.898)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3327" stop-color="#11117e" offset="0"/>
+   <stop id="stop3329" stop-color="#000046" offset="1"/>
+  </radialGradient>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-299.15 -36.617)">
+  <path id="path3226" d="m321.84 626.17c0.2488-71.078-0.41298-151.02-0.43502-215.78-0.02204-64.759 4.5082-79.651 1.4684-112.15-3.0398-32.499-18.108-77.61-21.164-109.9-5.9466-62.835 1.4155-75.095 40.435-150.98 21.338 0.39166 40.566 13.305 63.858 17.95 18.811 3.7516 48.409-0.12211 69.036 7.591 13.992 44.738 21.962 82.481 31.274 125.48 13.418 61.954 7.8851 128.53 39.095 192.8 24.773 62.924 44.128 143.56 65.453 217.76-11.609 21.581-42.93 22.421-61.641 24.656-24.675-40.513-23.773-98.055-37.981-146.17-10.815-41.084-20.868-82.168-46.48-123.25l-67.652-172.03c-4.0958 2.6768-6.6346 86.131-12.164 206.51-2.9665 64.587 9.1096 109.63 10.337 143.16 1.9731 36.313 3.6069 50.78 5.8362 64.129 3.8933 23.311-57.623 56.715-79.277 30.235z" fill="url(#radialGradient2599)" stroke="#000" stroke-linecap="round" stroke-width="1.4764"/>
+  <path id="path3317" transform="matrix(1.76 0 0 1.4892 -649.05 16.662)" d="m557.86 234.51c5.7143 2.8035 11.429 4.7099 17.143 0" fill="url(#radialGradient2535)" fill-rule="evenodd" filter="url(#filter3669)" stroke="url(#radialGradient2538)" stroke-width="1px"/>
+  <path id="path3323" d="m397.99 178.39-6.7252 0.9608 29.122-36.449-22.396 35.489z" fill="#080849" fill-rule="evenodd"/>
+  <g id="g4341" transform="matrix(-1.1614 -.20666 -.24168 1.2326 1119.1 142.18)" fill="none" stroke-width="1px">
+   <path id="path4247" d="m605 41.648c-0.77789 18.02 7.9208 40.194-1e-5 56.429l-6.4286 11.429" filter="url(#filter4291)" stroke="#000"/>
+   <path id="path4249" d="m601 41.648c-0.77789 18.02 7.9208 40.194-1e-5 56.429l-6.4286 11.429" stroke="#161562"/>
+  </g>
+  <path id="path3321" transform="matrix(1.4144 0 0 1.5412 -450.25 4.3956)" d="m599.86 111.08v7.8572l-24.286-31.429 24.286 23.571z" fill="#080849" fill-rule="evenodd" filter="url(#filter4019)"/>
+  <g id="g4353" transform="matrix(1.2601 .69994 -.64234 1.3731 -315.13 -376.93)" fill="none" opacity=".46316">
+   <path id="path4347" transform="matrix(.7584 0 0 .67842 92.1 37.518)" d="m605 41.648c-0.77789 18.02 7.9208 40.194-1e-5 56.429l-6.4286 11.429" filter="url(#filter4291)" stroke="#000" stroke-width="1px"/>
+   <path id="path4349" d="m555.33 65.773c-0.58995 12.225 6.0071 27.269-1e-5 38.282l-4.8754 7.7534" stroke="#161562" stroke-width=".7173px"/>
+  </g>
+  <g id="g4357" transform="matrix(-1.1095 .53133 .56557 1.0423 1037.6 -254.71)" fill="none">
+   <path id="path4359" transform="matrix(.7584 0 0 .67842 92.1 37.518)" d="m605 41.648c-0.77789 18.02 7.9208 40.194-1e-5 56.429l-6.4286 11.429" filter="url(#filter4291)" stroke="#000" stroke-width="1px"/>
+   <path id="path4361" d="m555.33 65.773c-0.58995 12.225 6.0071 27.269-1e-5 38.282l-4.8754 7.7534" stroke="#161562" stroke-width=".7173px"/>
+  </g>
+  <path id="path3814" transform="matrix(1.3849 0 0 1.5417 -431.11 4.376)" d="m551.54 392.32c0.17592-46.119-7.3624-86.866-7.378-128.89-0.01558-42.019 3.1875-51.682 1.0382-72.769s-12.803-50.358-14.964-71.311c-4.2045-40.77 1.0008-48.725 28.59-97.966 15.087 0.25413 28.682 8.6327 45.15 11.647 13.3 2.4343 34.227-0.079231 48.811 4.9255 9.8929 29.029 15.528 53.518 22.112 81.417 9.4871 40.199 5.5751 83.399 27.642 125.1 17.516 40.828 31.2 93.15 46.278 141.29-8.2084 14.003-23.283 10.84-36.512 12.29-17.446-26.287-23.879-59.915-33.925-91.136-7.6466-26.657-14.755-53.315-32.863-79.972l-47.833-111.62c-2.8959 1.7368-4.6909 55.886-8.6001 133.99-2.0974 41.908 6.4409 71.135 7.3088 92.891 1.3951 23.562-2.729 34.765 0.59121 43 3.7917 9.4049-29.953 23.275-45.447 7.1047z" clip-path="url(#clipPath3818)" fill="#111150" stroke="#000" stroke-linecap="round"/>
+  <path id="path4375" transform="matrix(1.4441 0 0 1.0512 -142.52 -183.07)" d="m383.57 234.15a3.9286 5.3571 0 1 1-7.8571 0 3.9286 5.3571 0 1 1 7.8571 0z" fill="#483e37" stroke="#161562" stroke-linecap="round"/>
+  <rect id="rect4377" transform="matrix(.98868 .15003 -.33165 .9434 0 0)" x="359.46" y="-12.154" width="8.1198" height="22.363" fill="#1f0881" stroke="#161562" stroke-linecap="round" stroke-width="1.1791"/>
+  <path id="rect4379" d="m441.98 58.603 9.0966 0.25118 1.409 22.473-8.3822-0.25119-2.1234-22.473z" fill="#1f0881" stroke="#161562" stroke-linecap="round" stroke-width="1.1687"/>
+ </g>
+</svg>

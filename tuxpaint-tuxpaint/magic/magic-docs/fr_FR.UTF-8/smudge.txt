@@ -1,0 +1,19 @@
+                      Outil 'Magie' de Tux Paint : Baver
+
+                              Groupe: Distorsions
+
+                 Auteur : Albert Cahalan <albert@users.sf.net>
+
+Ceci repousse les couleurs aux alentours de la souris, comme le doigt avec de
+la peinture humide.
+
+Cet outil permet de travailler en mode à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Flou & Effet mouillé.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

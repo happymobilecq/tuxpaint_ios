@@ -1,0 +1,16 @@
+                         Tux Paint "Magic" Tool: Flip
+
+                             Group: Picture Warps
+
+               Author: Bill Kendrick <bill@newbreedsoftware.com>
+
+Similar to "Mirror." Click and the entire image will be turned upside-down.
+
+This tool is operated with a single click.
+
+See also: Mirror.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

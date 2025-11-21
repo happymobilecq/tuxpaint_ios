@@ -1,0 +1,14 @@
+                          Tux Paint "Magic" Tool: Fur
+
+                                Group: Painting
+
+               Author: Bill Kendrick <bill@newbreedsoftware.com>
+
+Add fur to your drawing.
+
+This tool is operated in a freehand fashion.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

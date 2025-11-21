@@ -1,0 +1,16 @@
+                      Tux Paint "Magic" Tool: Metal Paint
+
+                                Group: Painting
+
+               Author: Bill Kendrick <bill@newbreedsoftware.com>
+
+Click and drag to draw shiny metal using the current color.
+
+This tool is operated in a freehand fashion.
+
+This tool offers multiple size settings.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

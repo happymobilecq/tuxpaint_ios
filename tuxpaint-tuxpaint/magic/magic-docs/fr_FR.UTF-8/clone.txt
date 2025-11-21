@@ -1,0 +1,18 @@
+                      Outil 'Magie' de Tux Paint : Cloner
+
+                              Groupe: Distorsions
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Clone (copie en peignant) une partie de l'image. Cliquez sur une partie, puis
+cliquez et balayer autre part sur le dessin. Une fois relâché, cliquez pour
+choisir une autre source et recommencez.
+
+Cet outil permet à la fois de travailler avec un simple clic et à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

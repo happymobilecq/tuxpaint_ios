@@ -1,0 +1,17 @@
+                      Outil 'Magie' de Tux Paint : Miroir
+
+                        Groupe: Déformations de l'image
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Quand vous cliquez sur le dessin avec l'effet magique "Miroir" sélectionné,
+toute l'image est inversée comme dans un miroir.
+
+Cet outil travaille avec un seul clic.
+
+Voir aussi : Renverser.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

@@ -1,0 +1,18 @@
+                      Outil 'Magie' de Tux Paint : Motif
+
+                           Groupe: Peindre un motif
+
+           Auteur : Pere Pujal i Carabantes <pere@fornol.no-ip.org>
+
+Dessine un motif en tuile autour du dessin.
+
+Cet outil permet de travailler en mode à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Tuiles.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

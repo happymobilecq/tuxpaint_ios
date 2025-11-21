@@ -1,0 +1,17 @@
+                   Outil 'Magie' de Tux Paint : Calligraphie
+
+                                Groupe: Peindre
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Ceci peint sur le canevas avec un style calligraphique. Plus vous allez vite,
+plus les lignes sont fines.
+
+Cet outil permet de travailler en mode à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

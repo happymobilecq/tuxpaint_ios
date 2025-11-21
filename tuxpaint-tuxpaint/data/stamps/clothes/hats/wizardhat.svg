@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" width="205.61" height="193.9" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient2225">
+   <stop id="stop2227" stop-color="#000079" offset="0"/>
+   <stop id="stop2282" stop-color="#000079" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2422" x1="101.58" x2="695.65" y1="505.89" y2="535.71" gradientTransform="matrix(.31234 0 0 .25489 -754.44 443.65)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2225"/>
+  <linearGradient id="linearGradient2424" x1="160.36" x2="585.08" y1="586.87" y2="633.04" gradientTransform="matrix(.31234 0 0 .18977 -754.44 492.38)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2215" offset="0"/>
+   <stop id="stop2223" offset=".5"/>
+   <stop id="stop2217" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2426" x1="431.39" x2="477.51" y1="1015.8" y2="658.74" gradientTransform="matrix(.31234 0 0 .36907 -754.84 368.47)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2225"/>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>wizard in blue hat</dc:title>
+    <dc:date>13.08.2007</dc:date>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>papapishu</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>wizard</rdf:li>
+      <rdf:li>sage</rdf:li>
+      <rdf:li>hat</rdf:li>
+      <rdf:li>old man</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+    <dc:coverage>fantasy</dc:coverage>
+    <dc:publisher>
+     <cc:Agent>
+      <dc:title>openclipart.org</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:rights>
+     <cc:Agent>
+      <dc:title/>
+     </cc:Agent>
+    </dc:rights>
+    <cc:license rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title>based on "santa line art" by Zeimusu and "Leprechaun's hat" by SRD</dc:title>
+     </cc:Agent>
+    </dc:contributor>
+   </cc:Work>
+   <cc:License rdf:about="http://web.resource.org/cc/PublicDomain">
+    <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(741.3 -461.8)">
+  <g id="g2411">
+   <path id="path2183" d="m-700.02 622.52s35.103-116.67 68.343-150.35c13.835-14.02 30.888-9.1185 35.68-5.5552 13.865 10.31 18.971 25.173 26.485 37.738-22.012-5.3217-14.626-15.61-38.861-13.485l14.391 132.23-106.04-0.57694z" fill="url(#linearGradient2422)" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+   <path id="path2185" d="m-701.34 628.5 10.553-35.529c15.702-5.6533 49.492-5.3428 93.583 5.8092l4.2992 34.05-108.43-4.33z" fill="url(#linearGradient2424)" fill-rule="evenodd"/>
+   <path id="path2187" d="m-632.8 620.66 0.32721-30.747 3.1085-1.3525c10.58 0.18033 19.196 1.8034 25.849 4.8691l3.7629 29.575-3.7629 1.623-29.285-3.9674zm9.6595-26.808 1.1322 18.838 13.549 2.0407-1.0711-6.1908-10.971-5.0484 9.73-1.9262-0.86277-5.816c-3.8353-1.7453-7.6706-2.0845-11.506-1.8971z" fill="#ffcd00" fill-rule="evenodd" stroke="#000"/>
+   <path id="path2201" d="m-632.45 590.01 3.3518-1.4302 0.64873 30.51-4.2168 1.6089 0.21624-30.689z" fill="#bc9500" fill-rule="evenodd" stroke="#000"/>
+   <path id="path2203" d="m-623.28 592.09 0.04979 1.7634c3.1896-0.2648 6.9182-0.07842 11.628 1.7909l0.78942 5.8177 2.7865-0.69845-1.2404-6.2945c-5.3145-2.4177-9.6969-2.6755-14.013-2.3791z" fill="#bc9500" fill-rule="evenodd" stroke="#000"/>
+   <path id="path2205" d="m-620.03 603.53 10.451 4.4457 1.301 6.8993 2.7751 0.53493-1.8734-9.5091-12.654-2.3709z" fill="#bc9500" fill-rule="evenodd" stroke="#000"/>
+   <path id="path1308" d="m-701.36 640.34c31.031 3.1428 68.81-1.8989 117.9 1.3706 13.508 0.89959 30.69 1.0336 44.025-9.1392 2.3789-1.8148 6.2853-7.0366-4.0513-8.6788-2.8783-1.0439-2.8671 5.2806-29.224 1.9189-34.215-4.3639-68.592-16.234-98.086-18.64-29.494-2.4058-54.353-2.5505-66.174 10.965-10.526 12.035 4.5751 19.061 35.606 22.204z" fill="#377cff" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+   <path id="path2237" d="m-702.86 612.35c-9.6729 0.33939-19.659 0.63011-28.765 4.7748-3.3075 1.4045-5.8341 4.4757-7.1644 8.281-1.9958 4.3135-1.6077 10.122 1.552 13.552 5.5201 6.2795 13.302 8.484 20.521 10.602 23.705 6.3221 48.228 4.4128 72.343 3.72 21.034-0.78613 42.112-0.6328 63.094 1.4092 26.258-1.1125 36.127-6.7479 42.592-22.553-17.112 6.209-19.272 10.507-50.754 4.3441-25.623-6.4505-50.306-17.844-76.366-21.801-12.279-1.5518-24.681-2.4999-37.052-2.3298z" fill="url(#linearGradient2426)" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+   <path id="path5447" d="m-608.18 491.51c-1.2363-3.4249-2.6964-6.8947-1.3525-8.7503 1.752-2.419 5.9665-3.4056 4.0406 2.9734" fill="none" stroke="#000" stroke-width="2"/>
+  </g>
+ </g>
+ <g id="layer2" transform="translate(-13.833 -6.4624)">
+  <path id="path2284" d="m100.41 250.34c3.6325-1.4678 6.6087-4.0477 9.3587-6.7683 4.8267 4.824 11.246 9.5293 18.464 7.9753 3.7876-1.0838 11.173-3.4014 9.1607-8.4459-4.0943-5.8399-1.0032-13.976-4.9635-19.898-3.412-4.4253-9.2448-4.5561-13.932-2.2928-7.8457 2.3344-16.348 0.20511-22.983-4.3288-4.5582-0.53476-8.4981 4.5659-10.341 8.3289-2.6049 6.2858-0.04133 13.499-2.8595 19.674-2.6658 3.8153 3.7362 6.0651 6.6692 6.8299 3.7986 0.82819 7.8392 0.39729 11.427-1.0742z" fill="#fff"/>
+ </g>
+</svg>

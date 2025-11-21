@@ -1,0 +1,15 @@
+                   Outil 'Magie' de Tux Paint : Perspective
+
+                        Groupe: Déformations de l'image
+
+           Auteur : Pere Pujal i Carabantes <pere@fornol.no-ip.org>
+
+Cliquez et balayez à partir d'un coin pour changer la paerspective de votre
+dessin.
+
+Cet outil permet de travailler en mode à main levée.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

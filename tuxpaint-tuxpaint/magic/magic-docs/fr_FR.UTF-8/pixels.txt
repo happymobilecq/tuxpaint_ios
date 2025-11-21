@@ -1,0 +1,18 @@
+                      Outil 'Magie' de Tux Paint : Pixels
+
+                                Groupe: Peindre
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Dessine de grands "pixels" carrés.
+
+Cet outil permet de travailler en mode à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Briques.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

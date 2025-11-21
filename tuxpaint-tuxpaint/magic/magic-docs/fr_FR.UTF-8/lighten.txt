@@ -1,0 +1,20 @@
+                    Outil 'Magie' de Tux Paint : Éclaircir
+
+                           Groupe: Filtres couleurs
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Cela affadit les couleurs à l'endroit où vous promenez la souris. (Si vous le
+faites plusieurs fois au même endroit, vous obtiendrez éventuellement du
+blanc.)
+
+Cet outil permet à la fois de travailler avec un simple clic et à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Assombrir, Teinter, Saturer, & Désaturer.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

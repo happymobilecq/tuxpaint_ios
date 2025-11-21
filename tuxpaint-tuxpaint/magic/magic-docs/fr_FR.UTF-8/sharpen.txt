@@ -1,0 +1,18 @@
+                     Outil 'Magie' de Tux Paint : Affiner
+
+                              Groupe: Distorsions
+
+                Auteur : Andrew Corcoran <akanewbie@gmail.com>
+
+Améliore la netteté de l'image.
+
+Cet outil permet à la fois de travailler avec un simple clic et à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Flou.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

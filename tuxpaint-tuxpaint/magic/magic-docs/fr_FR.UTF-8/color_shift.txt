@@ -1,0 +1,16 @@
+              Outil 'Magie' de Tux Paint : Changement de couleur
+
+                           Groupe: Filtres couleurs
+
+                Auteur : Andrew Corcoran <akanewbie@gmail.com>
+
+Change les couleurs de votre image.
+
+Cet outil permet à la fois de travailler avec un simple clic et à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

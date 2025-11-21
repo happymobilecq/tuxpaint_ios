@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 20010904//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg1" width="400pt" height="400pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs3">
+  <radialGradient id="radialGradient834" cx=".33704" cy=".28358" r=".38184">
+   <stop id="stop832" stop-color="#ff0" offset="0"/>
+   <stop id="stop833" stop-color="#ffe300" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g id="g838" fill-rule="evenodd">
+  <path id="path827" d="m68.708 148.13c159.99-138.55 405.75-1.971 402.45 141.53 26.39 25.565-3.2988 53.605-19.793 61.027-141.85 174.83-433.79 31.338-416.47-112.98-22.049-63.372-2.4741-82.148 33.812-89.57z" fill="url(#radialGradient834)" stroke="#000" stroke-linejoin="round" stroke-width="10"/>
+  <path id="path828" d="m44.33 267.99c21.25-21.25 23.75 143.75 333.75 82.5-6.25-6.25-40-148.75 80-101.25 46.875 14.375-99.375-9.6875-47.5 90 8.044 13.096 5.625 13.125 27.5 18.75-132.5 142.5-391.25 32.5-393.75-90z" fill-opacity=".13333" stroke-width="1pt"/>
+  <path id="path829" d="m68.08 155.83c56.289-65.342 245.61-111.86 370 47.5-42.5 46.25-162.5-153.75-370-47.5z" fill="#fff" fill-opacity=".7" stroke-width="1pt"/>
+  <path id="path830" d="m469.33 295.49c14.316 17.5 1.25 37.5-8.75 35-78.75-21.25-36.25-42.5 8.75-35z" fill="#fff" fill-opacity=".7" stroke-width="1pt"/>
+ </g>
+ <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <Work rdf:about="">
+   <dc:title>Clipart by Nicu Buculei - pear</dc:title>
+   <dc:rights>
+    <Agent>
+     <dc:title>Nicu Buculei</dc:title>
+    </Agent>
+   </dc:rights>
+   <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   <license rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+  </Work>
+  <License rdf:about="http://web.resource.org/cc/PublicDomain">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+   <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+  </License>
+ </rdf:RDF>
+</svg>

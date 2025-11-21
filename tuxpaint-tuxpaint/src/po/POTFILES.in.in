@@ -1,0 +1,15 @@
+colors.h
+dirwalk.c
+fill_tools.h
+fonts.c
+great.h
+im.c
+macos.h
+macos.m
+org.tuxpaint.Tuxpaint.appdata.xml.in
+shapes.h
+titles.h
+tools.h
+tuxpaint.c
+tuxpaint.desktop.in
+tuxpaint-fullscreen.desktop.in

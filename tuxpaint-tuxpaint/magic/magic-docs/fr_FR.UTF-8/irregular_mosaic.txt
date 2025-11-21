@@ -1,0 +1,17 @@
+               Outil 'Magie' de Tux Paint : Mosaïque irrégulière
+
+                              Groupe: Distorsions
+
+           Auteur : Pere Pujal i Carabantes <pere@fornol.no-ip.org>
+
+Transforme des parties de ton dessin en une mosaïque de cellules de forme
+irrégulière.
+
+Cet outil permet à la fois de travailler avec un simple clic et à main levée.
+
+Voir aussi : Mosaïque hexagonale, Mosaïque carrée, & Mosaïque.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

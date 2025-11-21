@@ -1,0 +1,19 @@
+                     Outil 'Magie' de Tux Paint : Teinter
+
+                           Groupe: Filtres couleurs
+
+              Auteur : Bill Kendrick <bill@newbreedsoftware.com>
+
+Cela change la couleur (ou la teinte) des parties de l'image ayant la couleur
+choisie.
+
+Cet outil permet à la fois de travailler avec un simple clic et à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Éclaircir & Assombrir.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

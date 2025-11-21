@@ -1,0 +1,125 @@
+              Outil 'Magie' de Tux Paint : Liste des outils Magie
+
+Distorsions
+
+  * Affiner
+  * Baver
+  * Blocs
+  * Bords
+  * Carreau de verre
+  * Cercles
+  * Cloner
+  * Craie
+  * Demi-teinte
+  * Distorsion
+  * Flou
+  * Goutte
+  * Mosaïque
+  * Mosaïque carrée
+  * Mosaïque hexagonale
+  * Mosaïque irrégulière
+  * Oeil de poisson
+  * Ondes
+  * Parasites
+  * Puzzle
+  * Raies
+  * Relief
+  * Silhouette
+  * TV
+  * TV (brillant)
+
+Filtres couleurs
+
+  * Assombrir
+  * B.D.
+  * Changement de couleur
+  * Complémentaire
+  * Couleur et blanc
+  * Couleurs Xor
+  * Désaturer
+  * Éclaircir
+  * Enlever une couleur
+  * Fleurir
+  * Garder une couleur
+  * Lunettes 3D
+  * Négatif
+  * Saturer
+  * Sép des couleurs.
+  * Teinter
+  * Vision double
+
+Déformations de l'image
+
+  * Déplace
+  * Étirer
+  * Kaleido-4, Kaleido-6, et Kaleido-8
+  * Miroir
+  * Panneaux
+  * Perspective
+  * Plier
+  * Reflet
+  * Renverser
+  * Rush
+  * Vaguelettes
+  * Vagues
+  * Zoom
+  * Zoom avec carreau
+
+Peindre
+
+  * Arc-en-ciel
+  * Arc-en-ciel
+  * Arc-en-ciel doux
+  * Boucles
+  * Briques
+  * Calligraphie
+  * Confettis
+  * Dentifrice
+  * Doux
+  * Effet mouillé
+  * Fourrure
+  * Frise
+  * Gribouillis
+  * Herbe
+  * Labyrinthe
+  * Lumière
+  * Mousse
+  * Peinture métallique
+  * Pixels
+  * Pluie
+  * Rails
+  * Ruban
+
+Peindre un motif
+
+  * Kaléidoscope
+  * Motif
+  * Picasso
+  * Rosace
+  * Symétrie D/G
+  * Symétrie H/B
+  * Tuiles
+
+Décorations des images
+
+  * Boule de neige
+  * Damier
+  * Flocon de neige
+  * Store
+
+Artistique
+
+  * Arc-en-ciel réel
+  * Arc-en-ciel simple
+  * Ficelles dans les coins
+  * Ficelles sur les bords
+  * Ficelles V
+  * Fleur
+  * Foudre
+  * Tornade
+  * Yeux écarquillés
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

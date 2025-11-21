@@ -1,0 +1,19 @@
+                 Outil 'Magie' de Tux Paint : Oeil de poisson
+
+                              Groupe: Distorsions
+
+                   Auteur : Adam Rakowski <foo-script@o2.pl>
+
+Déforme des parties de l'image comme si elle était vue au travers d'une
+lentille "oeil de poisson".
+
+Cet outil permet de travailler en mode à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Ondes.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

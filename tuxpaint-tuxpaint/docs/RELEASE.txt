@@ -1,0 +1,221 @@
+Release checklist for Tux Paint
+Last updated 2023-05-29 -bjk
+
+During development
+------------------
+
+Make sure any new options are documented in the "OPTIONS" docs
+(now maintained in the "tuxpaint-docs" repository; see below),
+the manpage (see below), and listed in the shell completion file
+(src/tuxpaint-completion.bash), the "tuxpaint --help" output,
+and the "Command-Line Options" section of the "OPTIONS" docs,
+as appropriate.  Generally, new options should be exposed by
+"Tux Paint Config." (in the "tuxpaint-config" repository),
+and documented in its README, as well.
+
+Make sure new features are recorded in "docs/CHANGES.txt", the
+"What's New" section at the top of the current version's "README"
+docs (now maintained in the "tuxpaint-docs" repository), and
+in Tux Paint's appdata file (which is generated, with translated
+text from PO files, based on "org.tuxpaint.Tuxpaint.appdata.xml.in").
+
+
+Preparing
+---------
+
+Do these things _prior_ to cutting a release -- that is, prior to
+tagging in the source code repository, running "make release" to roll
+a .tar.gz source tarball, and making the tarball available for download.
+
+ * Update version # and release dates
+
+   Places to make sure version # and release date gets updated,
+
+   * Makefile
+
+   * Build description files:
+     * tuxpaint.spec (Linux RPM package)
+     * win32/resources.rc (Windows mingw/msys build)
+
+   * Changelog
+     * docs/CHANGES.txt
+
+   * Metainfo file: (add entry for new version's changes)
+     * src/org.tuxpaint.Tuxpaint.appdata.xml.in
+
+   * Other Documentation
+
+     NOTE: As of Tux Paint 0.9.26, most of the documentation
+     is now maintained in a separate source-code repository,
+     "tuxpaint-docs".  Updates should be made there, and
+     then copied over to the "tuxpaint" repository.
+
+     No matter what else might need to happen, these always need updating
+     ahead of a new release:
+
+     * Update version number in doc-src/include.php
+     * Update What's New section in doc-src/README/README-whatsnew.php
+       (things worth mentioning in the press release on the website)
+
+     Here, be sure to run "make" in "docs/", to produce plaintext
+     alternatives of the HTML files.
+
+     * docs/en/html/README.html
+     * docs/en/html/FAQ.html
+     * docs/en/html/OPTIONS.html
+     * docs/en/html/EXTENDING.html
+     * docs/en/html/ADVANCED-STAMPS-HOWTO.html
+
+   * Manual page (manpage)
+
+     NOTE: Also maintained in "tuxpaint-docs" now; see above.
+
+     * man/tuxpaint.1
+
+ * Rebuild 'tuxpaint.desktop' by running "update-po.sh" in "src/po/"
+
+ * Don't forget to commit the changes!  (git add ... / git commit / git push)
+
+
+Time to release:
+----------------
+
+ * Tag & roll a release tarball (example here was from 0.9.25):
+
+   $ git pull
+   $ make clean
+   $ git tag tuxpaint-0_9_25-2020-12-27
+   $ git push origin tuxpaint-0_9_25-2020-12-27 # or --tags
+   $ make release
+
+ * Upload each project's ".tar.gz" file from their "build/" subdirs
+   to ftp.tuxpaint.org.
+
+ * Place them in the appropriate subdirectories (source/, config/,
+   and stamps/) under "unix/x/tuxpaint/".
+
+ * Copy "docs/CHANGES.txt" from each project onto the FTP site
+   (Tux Paint's goes in the toplevel, the others go in config/ and
+   stamps/).
+
+ * Create a new PAD file (e.g. `pads/tuxpaint-0.9.25.xml`) on the
+   FTP site.
+
+ * Replace the "pads/tuxpaint-LATEST.xml" symlink on the FTP site with
+   a new one that points to the new PAD file.
+
+ * At SourceForge, go to "Files" and use "Add Folder" under each project
+   to create new release file subdirectories.  (e.g., "0.9.25" under
+   https://sourceforge.net/projects/tuxpaint/files/tuxpaint/)
+
+ * Upload the files!  Either from local copies, via a web browser,
+   or by SCP, Rsync, or SFTP (see
+   https://sourceforge.net/p/forge/documentation/Release%20Files%20for%20Download/#scp)
+
+   e.g.:
+
+     $ sftp wkendrick@frs.sourceforge.net
+     sftp> cd /home/frs/project/tuxpaint/
+
+     sftp> cd tuxpaint/0.9.25/
+     sftp> lcd source
+     sftp> put tuxpaint-0.9.25.tar.gz
+
+     sftp> cd ../..
+     sftp> lcd ..
+
+   [repeat for tuxpaint-config and tuxpaint-stamps]
+
+ * Copy latest release's documentation to the tuxpaint.org website.
+
+Website updates
+---------------
+ * List new features on https://tuxpaint.org/features/
+
+ * Add any new requirements to https://tuxpaint.org/requirements/
+
+ * Create a press release under https://tuxpaint.org/latest/
+
+Announcements
+-------------
+ * Managed by Tux Paint
+
+   + Tux Paint website
+     - Site: https://tuxpaint.org/
+     - Submissions: [add announcement to /latest/]
+
+   + Tux Paint on Facebook
+     - Site: https://www.facebook.com/TuxPaint
+     - Submissions: [currently managed by Bill K.]
+
+   + Tux Paint on Twitter
+     - Site: https://www.facebook.com/TuxPaint
+     - Submissions: [currently managed by Bill K.]
+
+   + Tux Paint on Tumblr
+     - Site: https://www.tumblr.com/blog/tuxpaint
+     - Submissions: [currently managed by Bill K.]
+
+   + Tux Paint on Reddit
+     - https://www.reddit.com/user/TuxPaintDevs
+     - Submissions: [currently managed by Bill K.]
+
+   + Tux Paint on Mastodon
+     - https://floss.social/@tuxpaint
+     - Submissions: [currently managed by Bill K.]
+
+   + Tux Paint on Instagram
+     - https://www.instagram.com/tuxpaintdevs/
+     - Submissions: [currently managed by Bill K.]
+
+ * News sites & magazines
+
+   + Linux Today
+     - Site: https://www.linuxtoday.com/
+     - Twitter: https://twitter.com/linuxtoday
+     - Submissions: https://www.linuxtoday.com/contribute.html
+
+   + 9to5Linux
+     - Site: https://9to5linux.com/
+     - Twitter: https://twitter.com/9to5linux
+     - Submissions: https://9to5linux.com/contact-us
+
+   + Fossbytes
+     - Site: https://fossbytes.com/
+     - Twitter: https://twitter.com/Fossbytes14
+     - Submissions: admin [at] fossbytes.com
+
+   + EdTech K12 Magazine
+     - Site: https://edtechmagazine.com/k12/
+     - Twitter: https://twitter.com/EdTech_K12
+     - Submissions: https://edtechmagazine.com/k12/contact-us (?)
+
+ * Software databases
+
+   + MacUpdate
+     - Site: https://www.macupdate.com/
+     - Submissions: [currently managed by Bill K.]
+
+   + Softonic
+     - Site: https://en.softonic.com/
+     - Entries:
+       + https://tux-paint.en.softonic.com/windows
+       + https://tux-paint.en.softonic.com/mac
+       + https://tux-paint.en.softonic.com/android
+     - Submissions: https://hello.softonic.com/faqs/
+       (links to a Google Form under "Softonic Developer Hub shutdown")
+
+ * Linux repositories
+
+   + Fedora -- process TBD
+   + openSUSE -- process TBD
+   + Debian -- process TBD
+   + Ubuntu -- process TBD
+   + Slackware -- process TBD
+   + ...others?
+
+ * Paid promotions
+
+   + Facebook boost
+   + Newswire.com
+

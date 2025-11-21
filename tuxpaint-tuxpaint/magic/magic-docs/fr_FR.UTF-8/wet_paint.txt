@@ -1,0 +1,19 @@
+                  Outil 'Magie' de Tux Paint : Effet mouillé
+
+                                Groupe: Peindre
+
+                Auteurs : Albert Cahalan <albert@users.sf.net>
+                   Bill Kendrick <bill@newbreedsoftware.com>
+
+Dessine un léger revêtement avec des tâches sur l'image.
+
+Cet outil permet de travailler en mode à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Baver.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

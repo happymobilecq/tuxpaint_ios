@@ -1,0 +1,19 @@
+                     Outil 'Magie' de Tux Paint : Mosaïque
+
+                              Groupe: Distorsions
+
+                  Auteurs : Adam Rakowski <foo-script@o2.pl>
+                Pere Pujal i Carabantes <pere@fornol.no-ip.org>
+
+Ajoute un effet de miroir en mosaïque au dessin.
+
+Cet outil permet à la fois de travailler avec un simple clic et à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Mosaïque hexagonale, Mosaïque irrégulière, & Mosaïque carrée.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

@@ -1,0 +1,3 @@
+"Shin" stands for "shtel arayn," or "put in." If the dreidel lands on "shin," put an object into the middle.
+is.utf8="Shin" stendur fyrir "shtel arayn", eða "setja inn". Ef dreidel-skopparakringluteningurinn lendir á "shin", skal setja hlut á miðjuna.
+nn.utf8=Sjin (sin/shin) tyder «shtel» – legg inn. Viss dreidelen landar på sjin, legg eit spelestykke i potten.

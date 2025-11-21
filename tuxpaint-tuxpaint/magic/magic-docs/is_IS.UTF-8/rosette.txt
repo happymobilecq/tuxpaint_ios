@@ -1,0 +1,18 @@
+                        Tux Paint "Magic" Tool: Rosette
+
+                            Group: Pattern Painting
+
+                   Author: Adam Rakowski <foo-script@o2.pl>
+
+Draw three brushes at once, in a rosette shape.
+
+This tool is operated in a freehand fashion.
+
+This tool offers multiple size settings.
+
+See also: Kaleidoscope & Picasso.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

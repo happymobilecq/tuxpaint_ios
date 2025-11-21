@@ -1,0 +1,18 @@
+                    Outil 'Magie' de Tux Paint : Silhouette
+
+                              Groupe: Distorsions
+
+                Auteur : Andrew Corcoran <akanewbie@gmail.com>
+
+Marque les bords de l'image, avec un arrière-plan noir.
+
+Cet outil permet à la fois de travailler avec un simple clic et à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Bords & Relief.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+

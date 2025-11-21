@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [[ -d TuxPaint.app ]]; then
+    cd TuxPaint.app/Contents && FONTCONFIG_PATH=Resources/etc fc-list
+else
+    echo "./TuxPaint.app: No such folder" 1>&2
+fi

@@ -1,0 +1,18 @@
+                   Outil 'Magie' de Tux Paint : Symétrie D/G
+
+                           Groupe: Peindre un motif
+
+           Auteur : Pere Pujal i Carabantes <pere@fornol.no-ip.org>
+
+Peint avec une symétrie réflective par rapport au centre horizontal de l'image.
+
+Cet outil permet de travailler en mode à main levée.
+
+Cet outil permet de travailler avec plusieurs tailles.
+
+Voir aussi : Kaléidoscope, Motif, Symétrie H/B, & Tuiles.
+
+-------------------------------------------------------------------------------
+
+                               Tux Paint 0.9.31
+
