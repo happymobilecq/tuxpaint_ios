@@ -1,5 +1,5 @@
 /*
-  ios.c
+  ios.m
 
   Copyright (c) 2021-2022
   https://tuxpaint.org/
@@ -22,77 +22,116 @@
   Last updated: December 11, 2022
 */
 
-#include <string.h>
+#import <Foundation/Foundation.h>
 #include <unistd.h>
 #include <sys/stat.h>
-#include <libgen.h>
 #include <limits.h>
 #include "ios.h"
 
-#define IOS_FONTS_PATH              "../Library/Fonts"
-#define IOS_PREFERENCES_PATH        "../Library/Application Support/TuxPaint"
-#define IOS_PICTURES_PATH           "../Documents"
 
-
-/* Recursively mkdir */
-static int _mkdir_r(const char *path)
+// -------------------------------------------------------------------------
+// Helper: copy NSString filesystem path into static C buffer
+// -------------------------------------------------------------------------
+static const char *storePath(NSString *nsstr, char *buffer)
 {
-    const char parent[PATH_MAX];
-
-    if(!dirname_r(path, parent)) return 1;   /* parent = dirname(path)   */
-    if(strcmp(parent, ".") == 0) return 0;   /* if(parent == ".") return */
-
-    _mkdir_r(parent);                        /* mkdir_r(parent) */
-    return mkdir(path, 0777);                /* mkdir(path)     */
+    strncpy(buffer, [nsstr fileSystemRepresentation], PATH_MAX - 1);
+    buffer[PATH_MAX - 1] = 0;
+    return buffer;
 }
 
 
+// -------------------------------------------------------------------------
+// Initialization (currently unused)
+// -------------------------------------------------------------------------
 void apple_init(void)
 {
-    /* this function intentionally left blank */
+    // intentionally blank
 }
-
 
 const char *apple_locale(void)
 {
-    return "";
+    return "";   // iOS provides locale elsewhere; unused for now
 }
 
 
+// -------------------------------------------------------------------------
+// Fonts path — iOS apps cannot access ~/Library/Fonts.
+// Usually fonts must be bundled; so return an empty or app-bundled path.
+// -------------------------------------------------------------------------
 const char *apple_fontsPath(void)
 {
-    return IOS_FONTS_PATH;
+    static char buffer[PATH_MAX] = {0};
+    if (buffer[0])
+        return buffer;
+
+    // Path to <AppBundle>/Fonts
+    NSString *path = [[[NSBundle mainBundle] resourcePath]
+                      stringByAppendingPathComponent:@"data/fonts"];
+
+    return storePath(path, buffer);
 }
 
 
+// -------------------------------------------------------------------------
+// Preferences path — App Support directory inside sandbox
+// ~/Library/Application Support/TuxPaint  →  <sandbox>/Library/Application Support/TuxPaint
+// -------------------------------------------------------------------------
 const char *apple_preferencesPath(void)
 {
-    static int init = 0;
+    static char buffer[PATH_MAX] = {0};
+    if (buffer[0])
+        return buffer;
 
-    /* Ensure the preferences path exists */
-    if(!init) {
-        _mkdir_r(IOS_PREFERENCES_PATH);
+    NSArray *paths =
+        NSSearchPathForDirectoriesInDomains(NSApplicationSupportDirectory,
+                                            NSUserDomainMask,
+                                            YES);
 
-        init = 1;
-    }
+    NSString *dir = [[paths firstObject]
+                      stringByAppendingPathComponent:@"TuxPaint"];
 
-    return IOS_PREFERENCES_PATH;
+    [[NSFileManager defaultManager] createDirectoryAtPath:dir
+                              withIntermediateDirectories:YES
+                                               attributes:nil
+                                                    error:nil];
+
+    return storePath(dir, buffer);
 }
 
 
+// -------------------------------------------------------------------------
+// Global prefs path (same location on iOS)
+// -------------------------------------------------------------------------
 const char *apple_globalPreferencesPath(void)
 {
     return apple_preferencesPath();
 }
 
 
+// -------------------------------------------------------------------------
+// Pictures path — <sandbox>/Documents
+// -------------------------------------------------------------------------
 const char *apple_picturesPath(void)
 {
-    return IOS_PICTURES_PATH;
+    static char buffer[PATH_MAX] = {0};
+    if (buffer[0])
+        return buffer;
+
+    NSArray *paths =
+        NSSearchPathForDirectoriesInDomains(NSDocumentDirectory,
+                                            NSUserDomainMask,
+                                            YES);
+
+    NSString *dir = [paths firstObject];
+    return storePath(dir, buffer);
 }
 
 
+// -------------------------------------------------------------------------
+// Move file to trash — iOS has no trash, so delete
+// -------------------------------------------------------------------------
 int apple_trash(const char *path)
 {
     return unlink(path);
 }
+

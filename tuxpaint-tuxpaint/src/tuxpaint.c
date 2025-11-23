@@ -773,7 +773,7 @@ static char **color_names;
  */
 static void debug(const char *const str)
 {
-#ifndef DEBUG
+#ifndef DEBUG_PRINT
   (void)str;
 #else
   fprintf(stderr, "DEBUG: %s\n", str);
@@ -1762,11 +1762,16 @@ static SDL_Surface *render_text(TuxPaint_Font * restrict font, const char *restr
     DEBUG_PRINTF("Calling TTF_RenderUTF8_Blended(\"%s\")\n", str);
 
     ret = TTF_RenderUTF8_Blended(font->ttf_font, str, color);
+    //ret = TTF_RenderText_Blended(font->ttf_font, str, color);
   }
 
   if (ret)
     return ret;
+  else {
+      
+      printf("TTF error: %s\n", TTF_GetError());
 
+  }
   /* Sometimes a font will be missing a character we need. Sometimes the library
      will substitute a rectangle without telling us. Sometimes it returns NULL.
      Probably we should use FreeType directly. For now though... */
@@ -4236,7 +4241,7 @@ static void mainloop(void)
                   /* Grow/Shrink Controls: */
                   int old_size;
 
-#ifdef DEBUG
+#if defined DEBUG || defined DEBUG_PRINT
                   float choice;
 #endif
 
@@ -6884,7 +6889,7 @@ static void mainloop(void)
             int w, h;
             int old_size;
 
-#ifdef DEBUG
+#if defined DEBUG || defined DEBUG_PRINT
             float choice;
 #endif
 
@@ -30356,7 +30361,7 @@ static void setup(void)
 
 
   medium_font = TuxPaint_Font_OpenFont(tp_ui_font,
-                                       DATA_PREFIX "fonts/default_font.ttf", /* FIXME: Does this matter any more? -bjk 2023.05.29 */
+                                       DATA_PREFIX "fonts/FreeSans.ttf", /* FIXME: Does this matter any more? -bjk 2023.05.29 */
                                        (18 - (only_uppercase * 3)) * button_scale);
 
   if (medium_font == NULL)
@@ -31252,9 +31257,10 @@ int main(int argc, char *argv[])
 
   /* Set up! */
   setup();
-
+#ifdef DEBUG
   DEBUG_PRINTF("Seconds in early start-up: %.3f\n", (double)(time2 - time1) / CLOCK_SPEED);
   DEBUG_PRINTF("Seconds in late start-up:  %.3f\n", (double)(time2 - time1) / CLOCK_SPEED);
+#endif
 /*#ifdef  __IPHONEOS__
     //IOSMisc_StartAD(sdlWindow, screen->w/2-160, r_colors.y-48, 320, 48);
     IOSMisc_StartAD(window_screen, 0, 0, screen->w, render_scale);

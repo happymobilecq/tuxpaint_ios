@@ -64,7 +64,10 @@
 * If VERBOSE logging is enabled, DEBUG_PRINTF should resolve to the verbose
 * version of printf() defined earlier in this file.
 */
-#if defined(DEBUG)
+#ifdef  DEBUG
+#define DEBUG_PRINT 1
+#endif
+#if defined(DEBUG_PRINT)
 #define DEBUG_PRINTF(...) printf(__VA_ARGS__)
 #else
 #define DEBUG_PRINTF(...)
